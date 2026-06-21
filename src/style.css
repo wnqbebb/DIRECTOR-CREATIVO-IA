@@ -33,11 +33,7 @@ html {
 
 body {
   font-family: var(--font-body);
-  background-color: var(--color-bg-cream);
-  background-image: url("/media/milan_paper.png");
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
+  background-color: #faf8f5; /* Clean elegant off-white/cream */
   color: var(--color-text-dark);
   overflow-x: hidden;
   line-height: 1.6;
@@ -420,12 +416,9 @@ section:last-of-type {
 
 /* Campaign Dark Section */
 .dark-section {
-  background-image: url("/media/dark_red_grunge.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  color: var(--color-text-light);
-  border-bottom: var(--border-light);
+  background-color: #f7f5f0; /* Soft warm grey/cream section background */
+  color: var(--color-text-dark);
+  border-bottom: var(--border-editorial);
 }
 
 .dark-section .section-meta {
@@ -433,21 +426,22 @@ section:last-of-type {
 }
 
 .dark-section .section-title {
-  color: var(--color-text-light);
+  color: var(--color-text-dark);
 }
 
 .dark-section .text-editorial {
-  color: rgba(250, 248, 245, 0.8);
+  color: var(--color-text-dark);
 }
 
 /* Prompt Card & Copy block */
 .prompt-container {
-  background-color: #1a1a1a;
-  border: 1px solid rgba(250, 248, 245, 0.1);
-  border-radius: 12px;
+  background-color: #faf8f5;
+  border: 2px solid var(--color-text-dark);
+  border-radius: 4px;
   padding: 2.5rem;
   margin: 3rem 0;
   position: relative;
+  box-shadow: 4px 4px 0px var(--color-accent-red);
 }
 
 .prompt-header {
@@ -455,7 +449,7 @@ section:last-of-type {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1.5rem;
-  border-bottom: 1px solid rgba(250, 248, 245, 0.1);
+  border-bottom: 1px solid rgba(26, 26, 26, 0.1);
   padding-bottom: 1rem;
 }
 
@@ -470,8 +464,8 @@ section:last-of-type {
 
 .copy-btn {
   background-color: transparent;
-  border: 1px solid rgba(250, 248, 245, 0.3);
-  color: var(--color-text-light);
+  border: 1px solid rgba(26, 26, 26, 0.3);
+  color: var(--color-text-dark);
   font-family: var(--font-display);
   font-size: 0.7rem;
   font-weight: 700;
@@ -499,13 +493,13 @@ section:last-of-type {
 .prompt-text {
   font-size: 0.95rem;
   line-height: 1.7;
-  color: rgba(250, 248, 245, 0.9);
+  color: var(--color-text-dark);
   white-space: pre-wrap;
   max-height: 180px;
   overflow-y: auto;
   padding-right: 1.5rem;
   scrollbar-width: thin;
-  scrollbar-color: var(--color-accent-red) rgba(250, 248, 245, 0.05);
+  scrollbar-color: var(--color-accent-red) rgba(0, 0, 0, 0.05);
 }
 
 .prompt-text::-webkit-scrollbar {
@@ -674,13 +668,13 @@ section:last-of-type {
   top: 6px;
   width: 14px;
   height: 14px;
-  background-image: url("/media/extracted/arrow_0_0.png");
+  background-image: url("/media/extracted/arrow_0_0.webp");
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .dark-section .editorial-list li::before {
-  background-image: url("/media/extracted/arrow_0_4.png");
+  background-image: url("/media/extracted/arrow_0_4.webp");
 }
 
 /* Accordion or Interactive Tab Panels for Prompts */
@@ -703,7 +697,7 @@ section:last-of-type {
 .tab-btn {
   background: transparent;
   border: none;
-  color: rgba(250, 248, 245, 0.5);
+  color: rgba(26, 26, 26, 0.5);
   font-family: var(--font-display);
   font-size: 0.8rem;
   font-weight: 700;
@@ -715,7 +709,7 @@ section:last-of-type {
 }
 
 .tab-btn.active {
-  color: var(--color-text-light);
+  color: var(--color-text-dark);
   border-bottom: 2px solid var(--color-accent-red);
 }
 
@@ -737,7 +731,7 @@ section:last-of-type {
 .editorial-table-wrapper {
   overflow-x: auto;
   margin: 3rem 0;
-  border: 1px solid rgba(250, 248, 245, 0.1);
+  border: var(--border-editorial);
   border-radius: 8px;
 }
 
@@ -749,20 +743,20 @@ section:last-of-type {
 }
 
 .editorial-table th {
-  background-color: rgba(250, 248, 245, 0.05);
+  background-color: rgba(26, 26, 26, 0.05);
   font-family: var(--font-display);
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: var(--color-text-light);
+  color: var(--color-text-dark);
   padding: 1.25rem 1.5rem;
-  border-bottom: 1px solid rgba(250, 248, 245, 0.15);
+  border-bottom: 1px solid rgba(26, 26, 26, 0.15);
 }
 
 .editorial-table td {
   padding: 1.25rem 1.5rem;
-  border-bottom: 1px solid rgba(250, 248, 245, 0.08);
-  color: rgba(250, 248, 245, 0.8);
+  border-bottom: 1px solid rgba(26, 26, 26, 0.08);
+  color: var(--color-text-dark);
   vertical-align: top;
 }
 
@@ -835,10 +829,10 @@ section:last-of-type {
 
 /* Footer styling */
 .editorial-footer {
-  background-color: var(--color-bg-dark);
-  color: var(--color-text-light);
+  background-color: var(--color-bg-cream);
+  color: var(--color-text-dark);
   padding: 6rem 4rem;
-  border-top: 1px solid rgba(250, 248, 245, 0.15);
+  border-top: var(--border-editorial);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -865,9 +859,9 @@ section:last-of-type {
 
 .footer-copyright {
   font-size: 0.8rem;
-  opacity: 0.5;
+  opacity: 0.85;
   margin-top: 4rem;
-  border-top: 1px solid rgba(250, 248, 245, 0.1);
+  border-top: var(--border-editorial);
   padding-top: 2rem;
   width: 100%;
   max-width: 600px;
@@ -1017,7 +1011,7 @@ section:last-of-type {
 }
 
 .dark-section .ocr-label {
-  color: var(--color-text-light);
+  color: var(--color-accent-red);
 }
 
 .highlight-block {
@@ -1040,7 +1034,7 @@ section:last-of-type {
 .line-solid-red {
   border: none;
   height: 24px;
-  background-image: url("/media/extracted/line_8_1.png");
+  background-image: url("/media/extracted/line_8_1.webp");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   margin: 2.5rem 0;
@@ -1050,7 +1044,7 @@ section:last-of-type {
 .line-double-white {
   border: none;
   height: 14px;
-  background-image: url("/media/extracted/line_0_2.png");
+  background-image: url("/media/extracted/line_0_2.webp");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   margin: 2.5rem 0;
@@ -1059,7 +1053,7 @@ section:last-of-type {
 .line-dotted {
   border: none;
   height: 12px;
-  background-image: url("/media/extracted/line_0_1.png");
+  background-image: url("/media/extracted/line_0_1.webp");
   background-size: contain;
   background-repeat: repeat-x;
   margin: 2.5rem 0;
@@ -1067,14 +1061,13 @@ section:last-of-type {
 }
 
 .dark-section .line-dotted {
-  background-image: url("/media/extracted/line_0_1.png");
-  filter: invert(1);
+  background-image: url("/media/extracted/line_0_1.webp");
 }
 
 .line-dashed {
   border: none;
   height: 12px;
-  background-image: url("/media/extracted/line_0_1.png");
+  background-image: url("/media/extracted/line_0_1.webp");
   background-size: contain;
   background-repeat: repeat-x;
   margin: 2.5rem 0;
@@ -1082,8 +1075,7 @@ section:last-of-type {
 }
 
 .dark-section .line-dashed {
-  background-image: url("/media/extracted/line_0_1.png");
-  filter: invert(1);
+  background-image: url("/media/extracted/line_0_1.webp");
 }
 
 /* 3. Pegatinas y Collage (Tapes & Barcodes) */
@@ -1132,7 +1124,7 @@ section:last-of-type {
   left: 30px;
   width: 100px;
   height: 26px;
-  background-image: url("/media/extracted/tape_0_0.png");
+  background-image: url("/media/extracted/tape_0_0.webp");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   transform: rotate(-3.5deg);
@@ -1153,21 +1145,21 @@ section:last-of-type {
 }
 
 .tape-white {
-  background-image: url("/media/extracted/tape_0_0.png");
+  background-image: url("/media/extracted/tape_0_0.webp");
 }
 
 .tape-newspaper {
-  background-image: url("/media/extracted/tape_3_0.png");
+  background-image: url("/media/extracted/tape_3_0.webp");
   width: 120px;
   height: 32px;
 }
 
 .tape-dark {
-  background-image: url("/media/extracted/tape_2_1.png");
+  background-image: url("/media/extracted/tape_2_1.webp");
 }
 
 .tape-rip {
-  background-image: url("/media/extracted/tape_4_2.png");
+  background-image: url("/media/extracted/tape_4_2.webp");
 }
 
 /* 4. Elementos Adicionales de Composición */
@@ -1218,19 +1210,19 @@ section:last-of-type {
 }
 
 .splatter-red-large {
-  background-image: url("/media/extracted/splatter_0_1.png");
+  background-image: url("/media/extracted/splatter_0_1.webp");
   width: 250px;
   height: 250px;
 }
 
 .splatter-black-large {
-  background-image: url("/media/extracted/splatter_2_2.png");
+  background-image: url("/media/extracted/splatter_2_2.webp");
   width: 200px;
   height: 200px;
 }
 
 .splatter-dots {
-  background-image: url("/media/extracted/splatter_3_1.png");
+  background-image: url("/media/extracted/splatter_3_1.webp");
   width: 150px;
   height: 150px;
 }
@@ -1245,19 +1237,19 @@ section:last-of-type {
 }
 
 .halftone-circle-red {
-  background-image: url("/media/extracted/halftone_0_2.png");
+  background-image: url("/media/extracted/halftone_0_2.webp");
   width: 180px;
   height: 180px;
 }
 
 .halftone-circle-black {
-  background-image: url("/media/extracted/halftone_0_0.png");
+  background-image: url("/media/extracted/halftone_0_0.webp");
   width: 160px;
   height: 160px;
 }
 
 .halftone-spray {
-  background-image: url("/media/extracted/halftone_2_2.png");
+  background-image: url("/media/extracted/halftone_2_2.webp");
   width: 200px;
   height: 200px;
 }
@@ -1273,16 +1265,16 @@ section:last-of-type {
 }
 
 .arrow-red-brush {
-  background-image: url("/media/extracted/arrow_1_0.png");
+  background-image: url("/media/extracted/arrow_1_0.webp");
 }
 
 .arrow-black-brush {
-  background-image: url("/media/extracted/arrow_1_2.png");
+  background-image: url("/media/extracted/arrow_1_2.webp");
 }
 
 /* Red Brush Stroke highlight block */
 .brush-stroke-highlight {
-  background-image: url("/media/red_brush_stroke.png");
+  background-image: url("/media/red_brush_stroke.webp");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   padding: 0.6rem 2.5rem;
@@ -1301,16 +1293,16 @@ section:last-of-type {
 
 /* Dark Section overrides for step lists and details */
 .dark-section .step-description {
-  color: var(--color-text-light); /* Cream white on dark grunge background */
-  opacity: 0.95;
+  color: var(--color-text-dark);
+  opacity: 1;
 }
 
 .dark-section .step-title {
-  color: var(--color-text-light);
+  color: var(--color-text-dark);
 }
 
 .dark-section .arrow-black-brush {
-  filter: invert(1);
+  filter: none;
 }
 
 

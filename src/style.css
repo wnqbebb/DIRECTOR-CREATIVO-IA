@@ -582,6 +582,24 @@ section:last-of-type {
   aspect-ratio: 1;
 }
 
+.showcase-item.wide-banner {
+  grid-column: span 3;
+  aspect-ratio: 1920 / 912;
+}
+
+@media (max-width: 768px) {
+  .showcase-item.wide-banner {
+    grid-column: span 2;
+  }
+}
+
+@media (max-width: 480px) {
+  .showcase-item.wide-banner {
+    grid-column: span 1;
+    aspect-ratio: 1920 / 912;
+  }
+}
+
 .showcase-item img {
   width: 100%;
   height: 100%;

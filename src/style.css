@@ -582,22 +582,12 @@ section:last-of-type {
   aspect-ratio: 1;
 }
 
-.showcase-item.wide-banner {
-  grid-column: span 3;
-  aspect-ratio: 1920 / 912;
+.showcase-item.contain-img {
+  background-color: #000000;
 }
 
-@media (max-width: 768px) {
-  .showcase-item.wide-banner {
-    grid-column: span 2;
-  }
-}
-
-@media (max-width: 480px) {
-  .showcase-item.wide-banner {
-    grid-column: span 1;
-    aspect-ratio: 1920 / 912;
-  }
+.showcase-item.contain-img img {
+  object-fit: contain;
 }
 
 .showcase-item img {

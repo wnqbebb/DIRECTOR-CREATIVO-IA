@@ -921,18 +921,187 @@ section:last-of-type {
   }
 }
 
+/* ===================================================
+   MOBILE RESPONSIVE — Comprehensive overhaul
+   =================================================== */
+
 @media (max-width: 768px) {
-  .hero-title {
-    font-size: 3rem;
+
+  /* --- Base typography --- */
+  .section-title {
+    font-size: clamp(1.8rem, 7vw, 2.6rem);
+    letter-spacing: -0.5px;
+    margin-bottom: 2rem;
   }
-  
-  .hero-subtitle {
-    font-size: 1rem;
+
+  /* --- Section padding --- */
+  section {
+    padding: 3rem 1.25rem;
   }
-  
-  .hero-badge {
-    font-size: 2.2rem;
-    padding: 0.1rem 1.25rem;
+
+  .ambush-banner {
+    padding: 3rem 1.25rem;
+    gap: 2rem;
+  }
+
+  /* --- Hero CTA bar --- */
+  .hero-cta-bar {
+    padding: 1.5rem 1.25rem !important;
+  }
+
+  .hero-cta-bar .copy-btn {
+    padding: 0.9rem 2rem !important;
+    font-size: 0.78rem !important;
+    width: 100%;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+
+  /* --- Inline 2-col grids → single column --- */
+  [style*="grid-template-columns: 1.1fr 0.9fr"],
+  [style*="grid-template-columns: 1.15fr 0.85fr"],
+  [style*="grid-template-columns: 1.25fr 0.75fr"],
+  [style*="grid-template-columns: 1fr 1fr"] {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 2rem !important;
+  }
+
+  /* --- Illustration images: comfortable mobile size --- */
+  #historia img[src*="illustration_girl"],
+  #agente img[src*="illustration_guy_sunglasses"],
+  #resumen img[src*="illustration_guy_backpack"],
+  #resumen img[src*="illustration_eye"] {
+    max-width: 220px !important;
+    margin: 0 auto;
+  }
+
+  /* --- Character gallery images in resultados section --- */
+  #resultados img[src*="woman_tech_coat"],
+  #resultados img[src*="guy_sitting_tech"],
+  #resultados img[src*="girl_helmet"] {
+    max-width: 260px !important;
+    margin: 0 auto;
+  }
+
+  /* --- Método cap03: illustration at top, smaller --- */
+  #metodo img[src*="guy_tech_jacket"] {
+    max-width: 200px !important;
+    margin: 0 auto;
+    display: block;
+  }
+
+  /* --- Step containers: image shown after text --- */
+  .step-container {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1.5rem !important;
+    margin-bottom: 3.5rem;
+  }
+
+  .step-container:nth-child(even) {
+    direction: ltr !important;
+    flex-direction: column !important;
+  }
+
+  .step-number {
+    font-size: 2.8rem;
+  }
+
+  .step-title {
+    font-size: 1.15rem;
+  }
+
+  /* --- Browser mockups --- */
+  .browser-mockup {
+    border-radius: 8px;
+  }
+
+  /* --- Showcase grid → 2 columns on phone --- */
+  .showcase-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.75rem;
+  }
+
+  /* --- Ambush banner: hide visual box on very small --- */
+  .ambush-visual-box {
+    transform: none;
+    padding: 1rem;
+  }
+
+  /* --- Editorial grid: 1 column on phone --- */
+  .grid-editorial {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* --- Barcode sticker: hide on mobile to avoid clutter --- */
+  .barcode-sticker {
+    display: none;
+  }
+
+  /* --- Hero h3 headings in sections --- */
+  h3[style*="font-size: 2.2rem"] {
+    font-size: 1.5rem !important;
+  }
+
+  h3[style*="font-size: 2rem"] {
+    font-size: 1.4rem !important;
+  }
+
+  /* --- Prompt container --- */
+  .prompt-text {
+    font-size: 0.82rem;
+    max-height: 200px;
+  }
+
+  /* --- Footer --- */
+  .editorial-footer {
+    padding: 3rem 1.25rem;
+  }
+
+  .footer-logo {
+    font-size: 2rem;
+  }
+
+  /* --- Tape stickers: hide decorative ones on small screens --- */
+  .tape-sticker {
+    display: none;
+  }
+
+  /* --- Section meta label --- */
+  .section-meta {
+    font-size: 0.65rem;
+  }
+}
+
+/* Extra small: 480px and below */
+@media (max-width: 480px) {
+
+  section {
+    padding: 2.5rem 1rem;
+  }
+
+  .section-title {
+    font-size: clamp(1.5rem, 8vw, 2rem);
+  }
+
+  .showcase-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  #resultados img[src*="woman_tech_coat"],
+  #resultados img[src*="guy_sitting_tech"],
+  #resultados img[src*="girl_helmet"] {
+    max-width: 200px !important;
+  }
+
+  .brush-stroke-highlight {
+    font-size: 0.95rem;
+    padding: 0.5rem 1rem;
+  }
+
+  .hero-cta-bar .copy-btn {
+    font-size: 0.72rem !important;
   }
 }
 
@@ -1359,4 +1528,23 @@ section:last-of-type {
 
 .dark-section strong {
   color: var(--color-text-light);
+}
+
+/* ===================================================
+   SUPPLEMENTARY MOBILE RULES
+   =================================================== */
+
+@media (max-width: 768px) {
+
+  /* Download steps: full width */.download-step { margin-bottom: 3.5rem; padding-bottom: 3.5rem; }
+  .download-step-text { max-width: 100%; text-align: center; }
+  .download-step-media { width: 100%; }
+
+  /* Prompt header stack */.prompt-header { flex-direction: column; align-items: flex-start; gap: 0.75rem; }
+
+  /* Showcase caption */.showcase-caption { font-size: 0.65rem; padding: 0.25rem 0.5rem; }
+
+  /* Ambush */.ambush-large-title { font-size: 2.5rem; } .ambush-p { font-size: 0.95rem; }
+
+  /* Character images */#resultados img { max-width: 100% !important; }
 }

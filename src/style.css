@@ -33,7 +33,7 @@ html {
 
 body {
   font-family: var(--font-body);
-  background-color: #faf8f5; /* Clean elegant off-white/cream */
+  background-color: var(--color-bg-cream);
   color: var(--color-text-dark);
   overflow-x: hidden;
   line-height: 1.6;
@@ -76,7 +76,7 @@ body::after {
 /* Sidebar Navigation */
 .sidebar {
   width: var(--sidebar-width);
-  border-right: var(--border-editorial);
+  border-right: 1px solid rgba(250, 248, 245, 0.12);
   height: 100vh;
   position: sticky;
   top: 0;
@@ -84,12 +84,12 @@ body::after {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: var(--color-bg-cream);
+  background-color: #0c0c0c; /* Dark tone from the brand header */
   z-index: 100;
 }
 
 .logo-container {
-  border-bottom: 2px solid var(--color-text-dark);
+  border-bottom: 2px solid var(--color-text-light);
   padding-bottom: 1.5rem;
 }
 
@@ -100,6 +100,7 @@ body::after {
   text-transform: uppercase;
   letter-spacing: -1px;
   line-height: 1;
+  color: var(--color-text-light);
 }
 
 .logo-subtitle {
@@ -127,7 +128,7 @@ body::after {
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
-  color: var(--color-text-dark);
+  color: var(--color-text-light);
   display: flex;
   align-items: center;
   gap: 0.75rem;
@@ -156,8 +157,9 @@ body::after {
   text-transform: uppercase;
   letter-spacing: 1px;
   line-height: 1.4;
-  border-top: var(--border-editorial);
+  border-top: 1px solid rgba(250, 248, 245, 0.12);
   padding-top: 1.5rem;
+  color: var(--color-text-light);
 }
 
 /* Main Content Area */
@@ -416,9 +418,12 @@ section:last-of-type {
 
 /* Campaign Dark Section */
 .dark-section {
-  background-color: #f7f5f0; /* Soft warm grey/cream section background */
-  color: var(--color-text-dark);
-  border-bottom: var(--border-editorial);
+  background-image: url("/media/dark_red_grunge.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: var(--color-text-light);
+  border-bottom: var(--border-light);
 }
 
 .dark-section .section-meta {
@@ -426,22 +431,21 @@ section:last-of-type {
 }
 
 .dark-section .section-title {
-  color: var(--color-text-dark);
+  color: var(--color-text-light);
 }
 
 .dark-section .text-editorial {
-  color: var(--color-text-dark);
+  color: rgba(250, 248, 245, 0.9);
 }
 
 /* Prompt Card & Copy block */
 .prompt-container {
-  background-color: #faf8f5;
-  border: 2px solid var(--color-text-dark);
-  border-radius: 4px;
+  background-color: #1a1a1a;
+  border: 1px solid rgba(250, 248, 245, 0.1);
+  border-radius: 12px;
   padding: 2.5rem;
   margin: 3rem 0;
   position: relative;
-  box-shadow: 4px 4px 0px var(--color-accent-red);
 }
 
 .prompt-header {
@@ -449,7 +453,7 @@ section:last-of-type {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1.5rem;
-  border-bottom: 1px solid rgba(26, 26, 26, 0.1);
+  border-bottom: 1px solid rgba(250, 248, 245, 0.1);
   padding-bottom: 1rem;
 }
 
@@ -464,8 +468,8 @@ section:last-of-type {
 
 .copy-btn {
   background-color: transparent;
-  border: 1px solid rgba(26, 26, 26, 0.3);
-  color: var(--color-text-dark);
+  border: 1px solid rgba(250, 248, 245, 0.3);
+  color: var(--color-text-light);
   font-family: var(--font-display);
   font-size: 0.7rem;
   font-weight: 700;
@@ -493,13 +497,13 @@ section:last-of-type {
 .prompt-text {
   font-size: 0.95rem;
   line-height: 1.7;
-  color: var(--color-text-dark);
+  color: rgba(250, 248, 245, 0.9);
   white-space: pre-wrap;
   max-height: 180px;
   overflow-y: auto;
   padding-right: 1.5rem;
   scrollbar-width: thin;
-  scrollbar-color: var(--color-accent-red) rgba(0, 0, 0, 0.05);
+  scrollbar-color: var(--color-accent-red) rgba(250, 248, 245, 0.05);
 }
 
 .prompt-text::-webkit-scrollbar {
@@ -697,7 +701,7 @@ section:last-of-type {
 .tab-btn {
   background: transparent;
   border: none;
-  color: rgba(26, 26, 26, 0.5);
+  color: rgba(250, 248, 245, 0.5);
   font-family: var(--font-display);
   font-size: 0.8rem;
   font-weight: 700;
@@ -709,7 +713,7 @@ section:last-of-type {
 }
 
 .tab-btn.active {
-  color: var(--color-text-dark);
+  color: var(--color-text-light);
   border-bottom: 2px solid var(--color-accent-red);
 }
 
@@ -731,7 +735,7 @@ section:last-of-type {
 .editorial-table-wrapper {
   overflow-x: auto;
   margin: 3rem 0;
-  border: var(--border-editorial);
+  border: 1px solid rgba(250, 248, 245, 0.1);
   border-radius: 8px;
 }
 
@@ -743,20 +747,20 @@ section:last-of-type {
 }
 
 .editorial-table th {
-  background-color: rgba(26, 26, 26, 0.05);
+  background-color: rgba(250, 248, 245, 0.05);
   font-family: var(--font-display);
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: var(--color-text-dark);
+  color: var(--color-text-light);
   padding: 1.25rem 1.5rem;
-  border-bottom: 1px solid rgba(26, 26, 26, 0.15);
+  border-bottom: 1px solid rgba(250, 248, 245, 0.15);
 }
 
 .editorial-table td {
   padding: 1.25rem 1.5rem;
-  border-bottom: 1px solid rgba(26, 26, 26, 0.08);
-  color: var(--color-text-dark);
+  border-bottom: 1px solid rgba(250, 248, 245, 0.08);
+  color: rgba(250, 248, 245, 0.8);
   vertical-align: top;
 }
 
@@ -829,10 +833,10 @@ section:last-of-type {
 
 /* Footer styling */
 .editorial-footer {
-  background-color: var(--color-bg-cream);
-  color: var(--color-text-dark);
+  background-color: var(--color-bg-dark);
+  color: var(--color-text-light);
   padding: 6rem 4rem;
-  border-top: var(--border-editorial);
+  border-top: 1px solid rgba(250, 248, 245, 0.15);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -859,9 +863,9 @@ section:last-of-type {
 
 .footer-copyright {
   font-size: 0.8rem;
-  opacity: 0.85;
+  opacity: 0.5;
   margin-top: 4rem;
-  border-top: var(--border-editorial);
+  border-top: 1px solid rgba(250, 248, 245, 0.1);
   padding-top: 2rem;
   width: 100%;
   max-width: 600px;
@@ -943,10 +947,18 @@ section:last-of-type {
   padding-bottom: 5rem;
 }
 
+.dark-section .download-step {
+  border-bottom: 1px solid rgba(250, 248, 245, 0.1);
+}
+
 .download-step:last-of-type {
   border-bottom: none;
   margin-bottom: 0;
   padding-bottom: 0;
+}
+
+.dark-section .download-step:last-of-type {
+  border-bottom: none;
 }
 
 .download-step-text {
@@ -1011,7 +1023,7 @@ section:last-of-type {
 }
 
 .dark-section .ocr-label {
-  color: var(--color-accent-red);
+  color: var(--color-text-light);
 }
 
 .highlight-block {
@@ -1062,6 +1074,7 @@ section:last-of-type {
 
 .dark-section .line-dotted {
   background-image: url("/media/extracted/line_0_1.webp");
+  filter: invert(1);
 }
 
 .line-dashed {
@@ -1076,6 +1089,7 @@ section:last-of-type {
 
 .dark-section .line-dashed {
   background-image: url("/media/extracted/line_0_1.webp");
+  filter: invert(1);
 }
 
 /* 3. Pegatinas y Collage (Tapes & Barcodes) */
@@ -1293,16 +1307,56 @@ section:last-of-type {
 
 /* Dark Section overrides for step lists and details */
 .dark-section .step-description {
-  color: var(--color-text-dark);
-  opacity: 1;
+  color: var(--color-text-light); /* Cream white on dark grunge background */
+  opacity: 0.95;
 }
 
 .dark-section .step-title {
-  color: var(--color-text-dark);
+  color: var(--color-text-light);
 }
 
 .dark-section .arrow-black-brush {
-  filter: none;
+  filter: invert(1);
 }
 
+/* Dark Section: Download step h4 title (used in Capítulo 6) */
+.dark-section .download-step-text h4.step-title {
+  color: var(--color-text-light);
+}
 
+.dark-section .download-step-text p.step-description {
+  color: rgba(250, 248, 245, 0.9);
+  opacity: 1;
+}
+
+/* Dark Section: override for generic h3 headings without explicit color */
+.dark-section h3 {
+  color: var(--color-text-light);
+}
+
+/* Dark section: override for the "Siempre elige 2K" callout bg */
+.dark-section .callout-2k {
+  background-color: rgba(197, 31, 31, 0.15);
+  border-color: var(--color-accent-red);
+}
+
+/* Dark section: ensure browser-bar stays cream/light tone */
+.dark-section .browser-bar {
+  background-color: #2a2a2a;
+  border-bottom-color: rgba(250, 248, 245, 0.1);
+}
+
+.dark-section .browser-url {
+  background-color: #1a1a1a;
+  color: rgba(250, 248, 245, 0.5);
+  border-color: rgba(250, 248, 245, 0.1);
+}
+
+/* Dark section: Capítulo 2 editorial text paragraphs */
+.dark-section p {
+  color: rgba(250, 248, 245, 0.9);
+}
+
+.dark-section strong {
+  color: var(--color-text-light);
+}

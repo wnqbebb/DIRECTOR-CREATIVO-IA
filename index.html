@@ -452,11 +452,11 @@
               </ul>
               <p><strong>Cómo hacerlo:</strong></p>
               <ol style="margin-left: 1.5rem; display: flex; flex-direction: column; gap: 0.5rem; font-family: var(--font-mono); font-size: 0.9rem;">
-                <li>1. Presiona el botón <span style="color: var(--color-accent-red);">[ Agente ]</span> en la interfaz</li>
-                <li>2. Adjunta una imagen de referencia de tu prenda o producto</li>
-                <li>3. Copia el <span style="color: var(--color-accent-red);">[ Prompt Maestro ]</span> que encuentras a continuación</li>
-                <li>4. Envíalo</li>
-                <li>5. El agente entrega tu campaña visual completa</li>
+                <li>Presiona el botón <span style="color: var(--color-accent-red);">[ Agente ]</span> en la interfaz</li>
+                <li>Adjunta una imagen de referencia de tu prenda o producto</li>
+                <li>Copia el <span style="color: var(--color-accent-red);">[ Prompt Maestro ]</span> que encuentras a continuación</li>
+                <li>Envíalo</li>
+                <li>El agente ejecuta y genera tu campaña visual completa</li>
               </ol>
             </div>
             <div style="position: relative; text-align: center; display: flex; justify-content: center;">
@@ -548,181 +548,29 @@ CRITERIOS DE CALIDAD: Nivel de agencia creativa premium. Nada genérico. Nada su
             <img src="/media/image19.webp" alt="Campaña Editorial Denim" style="max-width: 100%; border-radius: 8px; border: 1px solid rgba(250,248,245,0.15);" />
           </div>
 
-          <!-- Deliverables Tabs (Representan lo generado por el agente) -->
-          <div class="tabs-container">
-            <h3 style="font-family: var(--font-serif); font-size: 2rem; margin-bottom: 2rem;">VISTA PREVIA DEL ENTREGABLE DEL AGENTE</h3>
-            
-            <div class="tabs-headers">
-              <button class="tab-btn active" data-group="deliverables" data-tab="tab-concepto">01. Concepto</button>
-              <button class="tab-btn" data-group="deliverables" data-tab="tab-slogans">02. Slogans</button>
-              <button class="tab-btn" data-group="deliverables" data-tab="tab-arte">03. Dirección Arte</button>
-              <button class="tab-btn" data-group="deliverables" data-tab="tab-prompts">04. Prompts IA</button>
-              <button class="tab-btn" data-group="deliverables" data-tab="tab-videos">05. Video Reels</button>
-              <button class="tab-btn" data-group="deliverables" data-tab="tab-copywriting">06. Copy / Emails</button>
-            </div>
-
-            <!-- Tab 1: Concepto -->
-            <div class="tab-panel active" data-group="deliverables" id="tab-concepto" style="padding: 2.5rem 0;">
-              <h4 class="editorial-card-title">Concepto Central: Denim Desordenado & Mañanas Lentas</h4>
-              <ul class="editorial-list" style="margin-top: 1.5rem;">
-                <li><strong>Nombre de campaña:</strong> "Slow Mornings & Blue Denim"</li>
-                <li><strong>Big Idea:</strong> La belleza natural de despertar tarde un domingo. El denim azul claro se convierte en la única prenda necesaria para estar en casa o salir a la calle sintiéndose libre, cómodo y sofisticado.</li>
-                <li><strong>Mensaje Principal:</strong> "Me levanté así, pero me veo increíble." Una oda al minimalismo íntimo y la elegancia sin esfuerzo.</li>
-                <li><strong>Estética Base:</strong> Tonos lavados de denim, sábanas arrugadas de algodón en gris claro y blanco, y el diseño geométrico de unas gafas de sol blancas ovaladas retro como el acento distintivo de diseño.</li>
-              </ul>
-            </div>
-
-            <!-- Tab 2: Slogans -->
-            <div class="tab-panel" data-group="deliverables" id="tab-slogans" style="padding: 2.5rem 0;">
-              <h4 class="editorial-card-title">Slogans & Taglines minimalistas</h4>
-              <div class="grid-editorial">
-                <div class="editorial-card">
-                  <h5 class="editorial-card-title" style="font-size: 0.9rem; color: var(--color-accent-red);">AESTHETIC / PINTEREST</h5>
-                  <p class="editorial-card-body">
-                    - "Un jean, sábanas arrugadas, mañanas lentas."<br>
-                    - "Effortless since 9:00 AM."<br>
-                    - "Gafas de sol para domingos nublados."
-                  </p>
-                </div>
-                <div class="editorial-card">
-                  <h5 class="editorial-card-title" style="font-size: 0.9rem; color: var(--color-accent-red);">COMERCIALES</h5>
-                  <p class="editorial-card-body">
-                    - "El denim perfecto para no hacer nada."<br>
-                    - "Vístete con calma. Tu denim te espera."<br>
-                    - "Hecho para durar, diseñado para mañanas lentas."
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <!-- Tab 3: Dirección de Arte -->
-            <div class="tab-panel" data-group="deliverables" id="tab-arte" style="padding: 2.5rem 0;">
-              <h4 class="editorial-card-title">Guía de Dirección de Arte</h4>
-              <p style="margin-bottom: 2rem; color: rgba(250,248,245,0.7);">Definición cromática y guías de texturas para mantener la consistencia con la imagen original:</p>
-              
-              <div class="palette-display">
-                <div class="palette-color">
-                  <div class="color-swatch" style="background-color: #a4c2e6;"></div>
-                  <div class="color-info">
-                    <span class="color-name">Denim Wash</span>
-                    <span class="color-hex">#A4C2E6</span>
-                  </div>
-                </div>
-                <div class="palette-color">
-                  <div class="color-swatch" style="background-color: #f2ede4;"></div>
-                  <div class="color-info">
-                    <span class="color-name">Cotton Cream</span>
-                    <span class="color-hex">#F2EDE4</span>
-                  </div>
-                </div>
-                <div class="palette-color">
-                  <div class="color-swatch" style="background-color: #c9ccd1;"></div>
-                  <div class="color-info">
-                    <span class="color-name">Soft Gray</span>
-                    <span class="color-hex">#C9CCD1</span>
-                  </div>
-                </div>
-                <div class="palette-color">
-                  <div class="color-swatch" style="background-color: #1a1a1a;"></div>
-                  <div class="color-info">
-                    <span class="color-name">Charcoal Text</span>
-                    <span class="color-hex">#1A1A1A</span>
-                  </div>
-                </div>
-              </div>
-
-              <ul class="editorial-list" style="margin-top: 2rem;">
-                <li><strong>Iluminación:</strong> Luz natural difusa de mañana, preferiblemente lateral (como luz filtrada por una ventana). Evitar luces artificiales de estudio marcadas.</li>
-                <li><strong>Texturas:</strong> Algodón orgánico arrugado de sábanas, denim lavado de grano grueso y plástico pulido de gafas retro.</li>
-                <li><strong>Composición:</strong> Planos detalle, bodegones relajados sobre camas desordenadas, y lifestyle sin rostro centrado en siluetas y producto.</li>
-              </ul>
-            </div>
-
-            <!-- Tab 4: Prompts IA -->
-            <div class="tab-panel" data-group="deliverables" id="tab-prompts" style="padding: 2.5rem 0;">
-              <h4 class="editorial-card-title">Prompts de Generación IA</h4>
-              
-              <div class="editorial-card" style="margin-bottom: 1.5rem;">
-                <div style="display:flex; justify-content:space-between; margin-bottom: 1rem;">
-                  <span style="font-weight: 800; font-family: var(--font-display); color: var(--color-accent-red); font-size: 0.8rem;">PROMPT 1: HERO SHOT BODEGÓN</span>
-                  <button class="copy-btn" style="padding: 0.25rem 0.75rem; font-size:0.65rem;">Copiar</button>
-                </div>
-                <p class="editorial-card-body copy-source" style="font-family: monospace;">A light blue denim jean laying casually on messy wrinkled cotton sheets, a pair of retro white oval sunglasses rests on top of the jeans, soft morning side light from a window, detailed fabric texture, high fashion magazine editorial photograph, analog film grain, depth of field, 8k --ar 4:5 --style raw</p>
-              </div>
-
+          <!-- Lo que entrega el agente: bloque editorial -->
+          <div style="margin: 3rem 0;">
+            <h3 style="font-family: var(--font-serif); font-size: 2rem; margin-bottom: 1.5rem;">LO QUE EL AGENTE GENERA POR TI</h3>
+            <p style="font-size: 1.1rem; color: rgba(250, 248, 245, 0.85); margin-bottom: 2.5rem; max-width: 720px; line-height: 1.7;">
+              No necesitas configurar nada más. Una vez que envías el Prompt Maestro con tu imagen de referencia, el Agente de Google Flow toma el control y genera directamente todo lo que tu marca necesita:
+            </p>
+            <div class="grid-editorial" style="grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem;">
               <div class="editorial-card">
-                <div style="display:flex; justify-content:space-between; margin-bottom: 1rem;">
-                  <span style="font-weight: 800; font-family: var(--font-display); color: var(--color-accent-red); font-size: 0.8rem;">PROMPT 2: LIFESTYLE SIN ROSTRO</span>
-                  <button class="copy-btn" style="padding: 0.25rem 0.75rem; font-size:0.65rem;">Copiar</button>
-                </div>
-                <p class="editorial-card-body copy-source" style="font-family: monospace;">Crop detail shot of a woman wearing oversized light wash denim jeans, sitting on a messy bed with white wrinkled linen sheets, holding retro white sunglasses, warm natural sunlight casting soft shadows, focus on textile textures, effortless aesthetic, Pinterest vibe, 35mm film photography --ar 9:16 --style raw</p>
+                <span class="ocr-label" style="color: var(--color-accent-red);">[ OUTPUT 01 ]</span>
+                <h4 style="font-family: var(--font-display); font-size: 1rem; font-weight: 800; text-transform: uppercase; margin: 0.75rem 0 0.5rem; color: var(--color-text-light);">Imágenes generadas al instante</h4>
+                <p class="editorial-card-body">El agente interpreta tu dirección y produce las imágenes de campaña de forma automática, listas para descargar en 2K sin marca de agua.</p>
               </div>
-            </div>
-
-            <!-- Tab 5: Video Reels -->
-            <div class="tab-panel" data-group="deliverables" id="tab-videos" style="padding: 2.5rem 0;">
-              <h4 class="editorial-card-title">Videos UGC Editoriales (9:16)</h4>
-              <div class="editorial-table-wrapper">
-                <table class="editorial-table">
-                  <thead>
-                    <tr>
-                      <th>Título / Duración</th>
-                      <th>Escena por escena</th>
-                      <th>Movimiento Cámara</th>
-                      <th>Texto sugerido / Mood</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td><strong>01. Domingo Lento</strong><br>6s</td>
-                      <td>Despertarse tarde, sábanas blancas arrugadas, las gafas blancas sobre el denim, la luz entra suavemente.</td>
-                      <td>Paneo lento de arriba a abajo.</td>
-                      <td>"Tu outfit favorito empieza con un buen denim."<br>Música: Acústico suave.</td>
-                    </tr>
-                    <tr>
-                      <td><strong>02. Textura Denim</strong><br>8s</td>
-                      <td>Primer plano de las manos deslizando las yemas sobre el denim claro, luego alejándose para revelar la cama desordenada.</td>
-                      <td>Zoom in suave.</td>
-                      <td>"Calidad que se siente."<br>Música: Lo-Fi relajado.</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-
-            <!-- Tab 6: Copywriting & Emails -->
-            <div class="tab-panel" data-group="deliverables" id="tab-copywriting" style="padding: 2.5rem 0;">
-              <h4 class="editorial-card-title">Copys de Meta Ads & Plantillas de Correo</h4>
-              
-              <div class="editorial-card" style="margin-bottom: 2rem;">
-                <div style="display:flex; justify-content:space-between; margin-bottom: 1rem;">
-                  <span style="font-weight: 800; font-family: var(--font-display); color: var(--color-accent-red); font-size:0.8rem;">ANUNCIO META ADS: ÁNGULO EFFORTLESS</span>
-                  <button class="copy-btn" style="padding: 0.25rem 0.75rem; font-size:0.65rem;">Copiar</button>
-                </div>
-                <div class="copy-source" style="font-size:0.9rem; color: rgba(250,248,245,0.85); white-space: pre-wrap;">¿El outfit perfecto de fin de semana? 
-Un denim que se siente como segunda piel y tus gafas favoritas. 
-Sin complicaciones. Sin prisas. 
-
-Consigue el estilo Pinterest definitivo hoy mismo. Compra en el link.</div>
-              </div>
-
               <div class="editorial-card">
-                <div style="display:flex; justify-content:space-between; margin-bottom: 1rem;">
-                  <span style="font-weight: 800; font-family: var(--font-display); color: var(--color-accent-red); font-size:0.8rem;">EMAIL 1: TEASER DE LANZAMIENTO</span>
-                  <button class="copy-btn" style="padding: 0.25rem 0.75rem; font-size:0.65rem;">Copiar</button>
-                </div>
-                <div class="copy-source" style="font-size:0.9rem; color: rgba(250,248,245,0.85); white-space: pre-wrap;">Asunto: Algo azul se está preparando...
-Preview Text: Prepárate para las mañanas lentas de domingo.
-
-Hola,
-Creemos en vestir sin prisas. En mañanas de café en la cama y ropa cómoda que luce de pasarela. 
-Nuestra nueva colección Denim se lanzará muy pronto. 
-Regístrate en la lista de espera para acceso anticipado de 24 horas.
-
-[QUIERO ACCESO ANTICIPADO]</div>
+                <span class="ocr-label" style="color: var(--color-accent-red);">[ OUTPUT 02 ]</span>
+                <h4 style="font-family: var(--font-display); font-size: 1rem; font-weight: 800; text-transform: uppercase; margin: 0.75rem 0 0.5rem; color: var(--color-text-light);">Prompts ejecutados automáticamente</h4>
+                <p class="editorial-card-body">El propio agente construye y lanza los prompts de generación. Tú solo das la dirección creativa — él hace el trabajo técnico.</p>
+              </div>
+              <div class="editorial-card">
+                <span class="ocr-label" style="color: var(--color-accent-red);">[ OUTPUT 03 ]</span>
+                <h4 style="font-family: var(--font-display); font-size: 1rem; font-weight: 800; text-transform: uppercase; margin: 0.75rem 0 0.5rem; color: var(--color-text-light);">Campaña visual completa</h4>
+                <p class="editorial-card-body">Con un solo mensaje obtienes el universo visual de tu marca: piezas para Instagram, Pinterest, Meta Ads y más — sin sesión de fotos, sin producción, a $0.</p>
               </div>
             </div>
-
           </div>
         </section>
 

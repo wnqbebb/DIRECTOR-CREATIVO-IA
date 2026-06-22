@@ -14,6 +14,17 @@ if (productName === 'prenda') {
   } else {
     console.error(`Post-build ERROR: Source file not found at ${srcPath}`);
   }
+} else if (productName === 'rostro') {
+  console.log('Post-build: Detected PRODUCT_NAME = "rostro". Overriding index.html with tu-como-rostro-de-marca.html...');
+  const srcPath = path.join('dist', 'tu-como-rostro-de-marca.html');
+  const destPath = path.join('dist', 'index.html');
+  
+  if (fs.existsSync(srcPath)) {
+    fs.copyFileSync(srcPath, destPath);
+    console.log('Post-build: Successfully copied tu-como-rostro-de-marca.html to index.html.');
+  } else {
+    console.error(`Post-build ERROR: Source file not found at ${srcPath}`);
+  }
 } else {
   console.log('Post-build: Standard build, no overrides.');
 }

@@ -58,6 +58,17 @@ if (productName === 'prenda') {
   } else {
     console.error(`Post-build ERROR: Source file not found at ${srcPath}`);
   }
+} else if (productName === 'prompts') {
+  console.log('Post-build: Detected PRODUCT_NAME = "prompts". Overriding index.html with biblioteca-de-prompts.html...');
+  const srcPath = path.join('dist', 'biblioteca-de-prompts.html');
+  const destPath = path.join('dist', 'index.html');
+  
+  if (fs.existsSync(srcPath)) {
+    fs.copyFileSync(srcPath, destPath);
+    console.log('Post-build: Successfully copied biblioteca-de-prompts.html to index.html.');
+  } else {
+    console.error(`Post-build ERROR: Source file not found at ${srcPath}`);
+  }
 } else {
   console.log('Post-build: Standard build, no overrides.');
 }

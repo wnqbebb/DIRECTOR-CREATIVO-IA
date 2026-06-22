@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_2B8oYABJOBRLvremuEKEPcg9Tcul",
+  "orgId": "team_LRysKSs2c4ol5NJ4OeoLIjyE",
+  "projectName": "director-creativo-ia",
+  "settings": {
+    "createdAt": 1782095911677,
+    "framework": null,
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}

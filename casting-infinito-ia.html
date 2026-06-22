@@ -1,0 +1,1383 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2L15.5 8.5L24 12L15.5 15.5L12 24L8.5 15.5L0 12L8.5 8.5Z' fill='%239C4EFF'/%3E%3C/svg%3E" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BONUS 4: CASTING INFINITO IA - Dirección Creativa & Moda con IA</title>
+    
+    <!-- OpenGraph/SEO -->
+    <meta name="description" content="Crea modelos virtuales consistentes, avatares y embajadores de marca con IA para mostrar tus prendas sin costos de producción reales." />
+    <meta property="og:title" content="BONUS 4: CASTING INFINITO IA" />
+    <meta property="og:description" content="Diseña castings virtuales, anclas visuales y consistencia facial para tu marca de ropa." />
+    <meta property="og:image" content="/media/bonus_4/image5.png" />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <link rel="stylesheet" href="/src/casting-infinito.css" />
+    <script type="module" src="/src/casting-infinito.js"></script>
+  </head>
+  <body>
+    <!-- Background Grid Effect -->
+    <div class="bg-grid"></div>
+
+    <!-- SVG Icons Definitions -->
+    <svg style="display: none;">
+      <g id="crosshair-svg">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7.44-7.93H7v-2H5.56c.44-4.08 3.5-7.44 7.44-7.93V5h2v1.07c3.95.49 7 3.85 7.44 7.93H20v2h-1.56c-.44 4.08-3.5 7.44-7.44 7.93V19h-2v-.07z" fill="currentColor"/>
+        <circle cx="12" cy="12" r="2" fill="currentColor"/>
+      </g>
+      <g id="spark-svg">
+        <path d="M12 0C12 8.4 8.4 12 0 12c8.4 0 12 3.6 12 12 0-8.4 3.6-12 12-12-8.4 0-12-3.6-12-12z" fill="currentColor"/>
+      </g>
+      <g id="arrow-svg">
+        <path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4z" fill="currentColor"/>
+      </g>
+      <g id="eye-svg">
+        <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" fill="currentColor"/>
+      </g>
+      <g id="globe-svg">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7.44-7.93H7v-2H5.56c.44-4.08 3.5-7.44 7.44-7.93V5h2v1.07c3.95.49 7 3.85 7.44 7.93H20v2h-1.56c-.44 4.08-3.5 7.44-7.44 7.93V19h-2v-.07z" fill="currentColor"/>
+      </g>
+    </svg>
+
+    <div class="app-container">
+      <!-- Sidebar Navigation -->
+      <aside class="sidebar">
+        <div class="logo-container">
+          <div style="width: 100%; aspect-ratio: 2.1; overflow: hidden; border: 1.5px solid var(--color-purple-primary); margin-bottom: 1rem; border-radius: 4px; box-shadow: 0px 0px 8px rgba(156, 78, 255, 0.25);">
+            <img src="/media/casting_infinito_cover.png" alt="Mini cover" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+          </div>
+          <div class="logo-title">CASTING <span>INFINITO</span></div>
+          <div class="logo-subtitle">MÉTODO BONUS 04</div>
+        </div>
+        
+        <nav style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+          <ul class="nav-menu">
+            <li class="nav-item">
+              <a href="#" class="nav-link active">
+                <span class="nav-number">00</span> Portada
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#manifiesto" class="nav-link">
+                <span class="nav-number">01</span> Manifiesto
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#conceptos" class="nav-link">
+                <span class="nav-number">02</span> Conceptos Clave
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#seis-capas" class="nav-link">
+                <span class="nav-number">03</span> Las 6 Capas
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#paso-a-paso" class="nav-link">
+                <span class="nav-number">04</span> Paso a Paso
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#ficha-identidad" class="nav-link">
+                <span class="nav-number">05</span> Ficha Embajador
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#pack-angulos" class="nav-link">
+                <span class="nav-number">06</span> Pack de Ángulos
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#modelos-prenda" class="nav-link">
+                <span class="nav-number">07</span> Biblioteca Prompts
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#galeria-casting" class="nav-link">
+                <span class="nav-number">08</span> Galería Campañas
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#mas-modelos" class="nav-link">
+                <span class="nav-number">09</span> Más Modelos
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#ejercicio-final" class="nav-link">
+                <span class="nav-number">10</span> Ejercicio Final
+              </a>
+            </li>
+          </ul>
+        </nav>
+        
+        <div class="sidebar-footer">
+          Casting Infinito IA<br>
+          © 2026 Start Grow Fast AI Agents.
+        </div>
+      </aside>
+
+      <!-- Main Content Area -->
+      <main class="main-content">
+        
+        <!-- Top Announcement Bar -->
+        <div class="top-announcement-bar">
+          <span class="announcement-tag">EXCLUSIVO B4</span>
+          <span>SISTEMA DE DIRECCIÓN CREATIVA PARA CREACIÓN DE MODELOS IA</span>
+        </div>
+
+        <!-- Hero / Portada -->
+        <header id="hero" class="hero-section" style="display: flex; flex-direction: column; justify-content: flex-start; padding: 0; background-color: var(--color-bg-dark); border-bottom: var(--border-brutal); min-height: auto;">
+          <div class="hero-banner-container" style="width: 100%; position: relative; display: flex; justify-content: center; background-color: var(--color-bg-deep); border-bottom: var(--border-brutal); overflow: hidden;">
+            <img src="/media/casting_infinito_cover.png" alt="Bonus 4: Casting Infinito IA" class="hero-banner-img" style="width: 100%; height: auto; max-height: 620px; object-fit: cover; display: block;" />
+          </div>
+          <div class="hero-cta-bar" style="width: 100%; padding: 2.5rem 2rem; display: flex; justify-content: center; align-items: center; gap: 2rem; background-color: var(--color-bg-dark); flex-wrap: wrap;">
+            <a href="#manifiesto" class="cta-button">
+              Comenzar Lectura
+              <svg style="width: 14px; height: 14px; fill: currentColor;"><use href="#arrow-svg"></use></svg>
+            </a>
+            <a href="#seis-capas" class="cta-button highlight-cta">
+              Compilador de Modelos
+              <svg style="width: 14px; height: 14px; fill: currentColor;"><use href="#crosshair-svg"></use></svg>
+            </a>
+          </div>
+        </header>
+
+        <!-- Sección 01: El Manifiesto -->
+        <section id="manifiesto">
+          <div class="sticker-purple" style="--rot: -2deg;">BONUS 4</div>
+          
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 01 / EL MANIFIESTO DEL CASTING ]</span>
+          </div>
+
+          <!-- Hero Details & Badges -->
+          <div style="margin-bottom: 3.5rem;">
+            <div class="hero-badge" style="margin-bottom: 1rem;">BONUS 4 EXCLUSIVO</div>
+            <h2 class="section-title" style="font-size: clamp(3rem, 6.5vw, 6.5rem); line-height: 0.85; margin-bottom: 1.5rem; letter-spacing: -2px;">
+              CASTING <span class="trends">INFINITO IA</span>
+            </h2>
+            <p style="font-size: 1.25rem; line-height: 1.6; opacity: 0.9; margin-bottom: 2rem; max-width: 820px; border-left: 3px solid var(--color-purple-primary); padding-left: 1.2rem;">
+              Crea modelos virtuales para mostrar prendas en distintos estilos, cuerpos, actitudes y escenas, sin pagar modelos ni coordinar costosas sesiones de fotos.
+            </p>
+
+            <!-- Barcode Banner from Cover -->
+            <div class="manifesto-box-banner" style="max-width: 100%; margin-bottom: 2rem;">
+              <div class="manifesto-quote-text">
+                <svg style="width: 20px; height: 20px;"><use href="#eye-svg"></use></svg>
+                "TENGO ROPA PERO NO TENGO QUIÉN ME LA MODELE."
+              </div>
+              <svg class="barcode-svg" viewBox="0 0 100 40" fill="currentColor">
+                <rect x="0" y="0" width="4" height="40"/>
+                <rect x="6" y="0" width="2" height="40"/>
+                <rect x="10" y="0" width="6" height="40"/>
+                <rect x="18" y="0" width="1" height="40"/>
+                <rect x="21" y="0" width="4" height="40"/>
+                <rect x="27" y="0" width="2" height="40"/>
+                <rect x="31" y="0" width="8" height="40"/>
+                <rect x="41" y="0" width="1" height="40"/>
+                <rect x="44" y="0" width="3" height="40"/>
+                <rect x="49" y="0" width="6" height="40"/>
+                <rect x="57" y="0" width="2" height="40"/>
+                <rect x="61" y="0" width="4" height="40"/>
+                <rect x="67" y="0" width="1" height="40"/>
+                <rect x="70" y="0" width="7" height="40"/>
+                <rect x="79" y="0" width="3" height="40"/>
+                <rect x="84" y="0" width="2" height="40"/>
+                <rect x="88" y="0" width="6" height="40"/>
+                <rect x="96" y="0" width="4" height="40"/>
+              </svg>
+            </div>
+
+            <!-- Mini cards from cover footer -->
+            <div class="hero-mini-cards" style="max-width: 100%; margin-bottom: 2rem;">
+              <div class="mini-card-item">
+                <div class="mini-card-icon">♀</div>
+                <div class="mini-card-content">
+                  <h5>Femenina</h5>
+                  <p>Estilos y cuerpos diversos con anclas consistentes.</p>
+                </div>
+              </div>
+              <div class="mini-card-item">
+                <div class="mini-card-icon">♂</div>
+                <div class="mini-card-content">
+                  <h5>Masculina</h5>
+                  <p>Looks y actitudes auténticas con grano real.</p>
+                </div>
+              </div>
+              <div class="mini-card-item">
+                <div class="mini-card-icon">👜</div>
+                <div class="mini-card-content">
+                  <h5>Accesorios</h5>
+                  <p>Tomas de manos, orejas y cuellos que elevan el look.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <h3 style="font-family: var(--font-heavy); font-size: 1.8rem; text-transform: uppercase; margin-bottom: 1.5rem; color: var(--color-purple-light);">
+            EL MANIFIESTO DEL CASTING
+          </h3>
+
+          <div class="text-editorial" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <p style="font-size: 1.25rem; font-weight: 700; line-height: 1.5;">
+              Este bonus existe para resolver uno de los bloqueos más comunes y limitantes al vender moda o accesorios: la imposibilidad de repetir sesiones cada vez que se necesita contenido publicitario.
+            </p>
+            
+            <p>
+              La ropa no se vende por existir en una percha o en una mesa sola. Se vende cuando la persona puede imaginarse dentro de una escena, proyectando estilo y estatus. Una camiseta doblada muestra algodón, pero puesta en una modelo con actitud muestra estilo. Con <strong>Casting Infinito IA</strong>, dejas de depender de factores logísticos extremos (modelos reales, fotógrafos, presupuesto, locación, clima, retoque) y tomas el control visual de tu marca mediante inteligencia artificial con intención.
+            </p>
+            
+            <p>
+              La promesa de este bonus es simple: vas a dejar de depender de tener modelos reales disponibles para poder mostrar tus prendas con fuerza visual. No porque los modelos reales no sirvan (sí sirven), sino porque si cada vez que quieres lanzar contenido necesitas coordinar toda una producción tradicional, tu marca avanza lento. Con la IA puedes crear un sistema visual flexible y ágil para producir a costo cero en minutos.
+            </p>
+
+            <div class="compare-grid">
+              <div class="compare-box bad">
+                <div class="compare-badge bad">Producción Tradicional</div>
+                <div class="compare-title bad">Dependencia Limitante</div>
+                <p style="font-style: italic; margin-bottom: 0.85rem; color: #ff8a9a;">"No puedo publicar porque no tengo fotos nuevas de la prenda en modelo."</p>
+                <p style="font-size: 0.9rem; opacity: 0.85;">
+                  Sesiones costosas, coordinación compleja y retrasos en la publicación de contenido para catálogo, redes, web y Meta Ads.
+                </p>
+              </div>
+              <div class="compare-box good">
+                <div class="compare-badge good">Casting Infinito IA</div>
+                <div class="compare-title good">Producción Visual Ágil</div>
+                <p style="font-weight: 700; margin-bottom: 0.85rem; color: var(--color-green-light);">"Generamos modelos con el fit and la actitud ideal a costo cero y en minutos."</p>
+                <p style="font-size: 0.9rem; opacity: 0.85;">
+                  Variedad corporal y de etnicidad, consistencia facial y control absoluto sobre los entornos y la luz de cada campaña.
+                </p>
+              </div>
+            </div>
+
+            <div class="card-brutal" style="margin-top: 1.5rem;">
+              <h3 style="font-family: var(--font-heavy); font-size: 1.4rem; color: var(--color-purple-light); margin-bottom: 1rem; text-transform: uppercase;">
+                PROBLEMAS QUE RESOLVEMOS EN ESTA CLASE
+              </h3>
+              <ul style="margin-left: 1.5rem; font-size: 0.95rem; display: flex; flex-direction: column; gap: 0.8rem; list-style: square;">
+                <li><strong>Problema 1: No tienes modelos.</strong> Pasa de fotos planas de producto colgado (información) a fotos con rostros, cuerpos y expresiones (deseo).</li>
+                <li><strong>Problema 2: No tienes presupuesto.</strong> Ideal para marcas pequeñas o medianas que necesitan testear campañas y drops antes de producir físicamente.</li>
+                <li><strong>Problema 3: Falta de variedad.</strong> Te permite mostrar la misma prenda en modelos de distintos cuerpos, edades, etnicidades y actitudes.</li>
+                <li><strong>Problema 4: No puedes repetir producción cada semana.</strong> La IA te da consistencia facial para generar imágenes nuevas en minutos, rompiendo la barrera de tiempo.</li>
+                <li><strong>Problema 5: Tu marca se ve pequeña.</strong> Eleva la percepción visual de tu tienda mediante fotos editoriales que compiten con firmas de lujo de tú a tú.</li>
+                <li><strong>Problema 6: Tus prendas no tienen contexto.</strong> Coloca tu producto en una calle de Milán, un estudio beige a la hora dorada o un rooftop industrial según sea necesario.</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 02: Conceptos Clave -->
+        <section id="conceptos" class="dark-section" style="background-color: var(--color-bg-dark);">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 02 / CONCEPTOS CLAVE ]</span>
+          </div>
+
+          <h2 class="section-title">
+            ¿Modelo IA, Avatar IA o <span class="trends">EMBAJADOR DE MARCA</span>?
+          </h2>
+
+          <div class="text-editorial" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <p>
+              Antes de abrir el software de generación, debes estructurar los conceptos. Un casting no es una colección de rostros bonitos generados al azar. Es una biblioteca de activos con propósitos y funciones definidas.
+            </p>
+
+            <div class="matrix-grid">
+              <div class="matrix-card">
+                <div class="matrix-card-title">1. MODELO IA</div>
+                <p class="matrix-card-detail">Modelo genérico creado con fines puramente comerciales para mostrar el fit de una prenda.</p>
+                <div class="matrix-card-tag">Catálogo / Anuncios</div>
+              </div>
+              <div class="matrix-card">
+                <div class="matrix-card-title">2. AVATAR IA</div>
+                <p class="matrix-card-detail">Modelo consistente con rasgos definidos y repetibles a través de 3-5 anclas visuales claras.</p>
+                <div class="matrix-card-tag">Consistencia / Lookbooks</div>
+              </div>
+              <div class="matrix-card">
+                <div class="matrix-card-title">3. EMBAJADOR IA</div>
+                <p class="matrix-card-detail">Avatar con identidad narrativa: nombre, historia, tono, psicología y rol comercial fijo en tu marca.</p>
+                <div class="matrix-card-tag">ADN / Rostro Recurrente</div>
+              </div>
+            </div>
+
+            <div class="card-brutal-dark" style="margin-top: 1.5rem;">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-purple-light); text-transform: uppercase; margin-bottom: 1rem; font-size: 1.3rem;">
+                PRINCIPIO CENTRAL: CREDIBILIDAD ANTES QUE PERFECCIÓN
+              </h3>
+              <p style="font-size: 0.95rem; opacity: 0.9; margin-bottom: 1rem;">
+                La IA tiende a exagerar la perfección, generando imágenes frías y plásticas que delatan su origen. Un director creativo busca <strong>humanidad creíble</strong>. Para lograrlo, es fundamental conservar y forzar pequeñas imperfecciones en el prompt:
+              </p>
+              <ul style="margin-left: 1.5rem; font-size: 0.9rem; display: flex; flex-direction: column; gap: 0.5rem; list-style: circle;">
+                <li><strong>Poros de la piel visibles:</strong> Forzar textura de piel real en lugar de filtros de suavizado.</li>
+                <li><strong>Ligeras asimetrías faciales naturales:</strong> La simetría matemática destruye el realismo.</li>
+                <li><strong>Detalles de cabello real:</strong> Cabello con pequeños mechones libres (frizz sutil) que captan la luz de forma natural.</li>
+                <li><strong>Arrugas y costuras creíbles:</strong> La ropa debe tener arrugas naturales según la postura del cuerpo para evitar que parezca un lienzo artificial.</li>
+                <li><strong>Luz y sombras coherentes:</strong> Sombras suaves y refracciones de luz realistas en los bordes de la piel y los tejidos.</li>
+              </ul>
+            </div>
+
+            <div class="card-brutal" style="margin-top: 1.5rem;">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-purple-light); text-transform: uppercase; margin-bottom: 1rem; font-size: 1.3rem; background-color: var(--color-bg-deep); padding: 0.8rem; border-bottom: 1.5px solid var(--color-purple-primary);">
+                LA REGLA DE LAS ANCLAS VISUALES
+              </h3>
+              <p style="font-size: 0.95rem; opacity: 0.9; margin-bottom: 1rem;">
+                Para que un avatar se mantenga consistente, la IA necesita <strong>anclas visuales</strong>: elementos reconocibles y repetibles que se mantienen estables entre tomas. Si no los defines, la IA creará una persona distinta en cada imagen.
+              </p>
+              <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 1.5rem;">
+                <div>
+                  <h4 style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--color-green-light); margin-bottom: 0.5rem;">[ ANCLAS RECOMENDADAS ]</h4>
+                  <ul style="font-size: 0.85rem; margin-left: 1.2rem; display: flex; flex-direction: column; gap: 0.3rem;">
+                    <li>Tipo y volumen de pelo (ej: rizos abundantes)</li>
+                    <li>Fondo de color sólido (ej: lavanda plum)</li>
+                    <li>Complexión corporal (ej: petite, delgada)</li>
+                    <li>Rasgo de expresión (ej: sonrisa con dientes pequeños)</li>
+                    <li>Gafas o accesorios de cabeza sencillos</li>
+                  </ul>
+                </div>
+                <div>
+                  <h4 style="font-family: var(--font-mono); font-size: 0.85rem; color: #ff8a9a; margin-bottom: 0.5rem;">[ ANCLAS PELIGROSAS ]</h4>
+                  <ul style="font-size: 0.85rem; margin-left: 1.2rem; display: flex; flex-direction: column; gap: 0.3rem;">
+                    <li>Tatuajes muy complejos (la IA los deforma)</li>
+                    <li>Texto impreso o logos específicos en la ropa</li>
+                    <li>Joyería muy detallada y recargada</li>
+                    <li>Diseños de uñas demasiado elaborados</li>
+                    <li>Poses manuales extremadamente difíciles</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 03: Las 6 Capas de un Modelo -->
+        <section id="seis-capas">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 03 / CAPAS DE PRODUCCIÓN ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Las <span class="trends">6 CAPAS</span> de un modelo profesional
+          </h2>
+
+          <p class="text-editorial" style="margin-bottom: 3.5rem;">
+            No escribas prompts desde el caos o la improvisación. Escribe construyendo capas estructuradas para controlar cada aspecto del resultado:
+          </p>
+
+          <div class="grid-editorial" style="margin-bottom: 3.5rem;">
+            <div class="editorial-card">
+              <div class="editorial-card-title">Capa 1: Identidad Física</div>
+              <p class="editorial-card-body">Género, edad visual, etnicidad, complexión corporal, tipo y color de pelo, y estructura facial base (ej: cara delicada, rulos abundantes negros).</p>
+            </div>
+            <div class="editorial-card">
+              <div class="editorial-card-title">Capa 2: Realismo Humano</div>
+              <p class="editorial-card-body">Filtros restrictivos obligatorios (visible pores, raw skin texture, slight redness, natural asymmetry, no beauty smoothing).</p>
+            </div>
+            <div class="editorial-card">
+              <div class="editorial-card-title">Capa 3: Energía / Actitud</div>
+              <p class="editorial-card-body">La vibra que transmite el modelo: mirada segura, sonrisa espontánea mostrando dientes pequeños, neutralidad misteriosa o calidez.</p>
+            </div>
+            <div class="editorial-card">
+              <div class="editorial-card-title">Capa 4: Vestuario y Tela</div>
+              <p class="editorial-card-body">Tipo de prenda, color exacto, fit (fitted, oversized), caída de la tela y costuras para que parezca ropa física real.</p>
+            </div>
+            <div class="editorial-card">
+              <div class="editorial-card-title">Capa 5: Entorno y Escena</div>
+              <p class="editorial-card-body">Ubicación física: set minimalista en estudio, fondo sólido (lavanda, beige), calle urbana limpia o interior acogedor.</p>
+            </div>
+            <div class="editorial-card">
+              <div class="editorial-card-title">Capa 6: Cámara, Luz y Toma</div>
+              <p class="editorial-card-body">Especificaciones técnicas: lente de 85mm (ideal para retrato), luz de estudio suave (butterfly lighting), grano fotográfico sutil.</p>
+            </div>
+          </div>
+
+          <!-- Template Description -->
+          <div class="card-brutal" style="margin-bottom: 3.5rem; background-color: var(--color-bg-dark);">
+            <h3 style="font-family: var(--font-heavy); color: var(--color-purple-light); font-size: 1.4rem; margin-bottom: 1rem; text-transform: uppercase;">
+              LA PLANTILLA DE DIRECCIÓN CREATIVA (JSON)
+            </h3>
+            <p style="font-size: 0.95rem; line-height: 1.6; margin-bottom: 1.5rem;">
+              En lugar de escribir prompts desordenados, estructuramos la dirección en una ficha técnica en formato JSON. Esto permite controlar la identidad física del sujeto (añadiendo <em>vitality</em> para evitar poses muertas y rígidas), la caída del vestuario, el fondo del entorno, los esquemas de iluminación (key, fill y back lights), las configuraciones de cámara (lente, apertura, ISO) y restricciones estrictas de realismo.
+            </p>
+          </div>
+
+          <!-- Interactive prompt and JSON builder -->
+          <div class="prompt-builder">
+            <h3 style="font-family: var(--font-heavy); color: var(--color-purple-light); margin-bottom: 1.5rem; text-transform: uppercase; font-size: 1.4rem;">
+              COMPILADOR INTERACTIVO DE MODELOS IA (6 CAPAS)
+            </h3>
+            <p style="font-size: 0.95rem; margin-bottom: 2rem; opacity: 0.85;">
+              Configura los valores de cada capa de producción de modelo y observa cómo se compila el prompt exacto en inglés y su estructura JSON correspondiente en tiempo real.
+            </p>
+            
+            <div class="builder-grid">
+              <div class="builder-field">
+                <label for="layer-gender">1. Género del Modelo</label>
+                <select id="layer-gender" class="builder-input">
+                  <option value="female" selected>Femenina (Female)</option>
+                  <option value="male">Masculino (Male)</option>
+                  <option value="non-binary">No binario (Non-binary)</option>
+                </select>
+              </div>
+              <div class="builder-field">
+                <label for="layer-age">2. Edad Aprox</label>
+                <select id="layer-age" class="builder-input">
+                  <option value="23" selected>23 años (Young adult)</option>
+                  <option value="28">28 años (Mature model)</option>
+                  <option value="34">34 años (Adult)</option>
+                  <option value="19">19 años (Teenage look)</option>
+                </select>
+              </div>
+              <div class="builder-field">
+                <label for="layer-ethnicity">3. Mezcla Étnica</label>
+                <input type="text" id="layer-ethnicity" class="builder-input" value="Latina / Mediterranean mix" />
+              </div>
+              <div class="builder-field">
+                <label for="layer-face">4. Detalles del Rostro</label>
+                <input type="text" id="layer-face" class="builder-input" value="warm smile, small perfectly aligned teeth, delicate jaw" />
+              </div>
+              <div class="builder-field">
+                <label for="layer-hair">5. Estilo de Cabello</label>
+                <input type="text" id="layer-hair" class="builder-input" value="tight bouncy black natural curls and waves" />
+              </div>
+              <div class="builder-field">
+                <label for="layer-realism">6. Restricciones Realismo</label>
+                <input type="text" id="layer-realism" class="builder-input" value="visible skin pores, micro asymmetry, slight skin redness" />
+              </div>
+              <div class="builder-field">
+                <label for="layer-energy">7. Actitud del Modelo</label>
+                <input type="text" id="layer-energy" class="builder-input" value="calm strategic confidence, tender yet secure" />
+              </div>
+              <div class="builder-field">
+                <label for="layer-wardrobe">8. Prenda / Outfit</label>
+                <input type="text" id="layer-wardrobe" class="builder-input" value="simple dark charcoal crewneck t-shirt" />
+              </div>
+              <div class="builder-field">
+                <label for="layer-environment">9. Fondo / Entorno</label>
+                <input type="text" id="layer-environment" class="builder-input" value="solid seamless deep lavender studio backdrop" />
+              </div>
+              <div class="builder-field">
+                <label for="layer-lighting">10. Tipo de Luz</label>
+                <input type="text" id="layer-lighting" class="builder-input" value="soft editorial butterfly lighting, large softbox" />
+              </div>
+              <div class="builder-field">
+                <label for="layer-camera">11. Cámara y Enfoque</label>
+                <input type="text" id="layer-camera" class="builder-input" value="full-frame photography, 85mm lens, f/1.8, ISO 100" />
+              </div>
+            </div>
+
+            <!-- Compiled Output Grid -->
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem;">
+              <div class="prompt-container" style="margin: 0; border-color: var(--color-purple-primary); box-shadow: none;">
+                <div class="prompt-header">
+                  <span class="prompt-label" style="color: var(--color-purple-light);">PROMPT DE TEXTO COMPILADO</span>
+                  <button class="copy-btn" type="button">Copiar Prompt</button>
+                </div>
+                <pre class="prompt-text" id="live-builder-prompt" style="font-size: 0.85rem; max-height: 250px;"></pre>
+              </div>
+              <div class="prompt-container" style="margin: 0; border-color: var(--color-purple-primary); box-shadow: none;">
+                <div class="prompt-header">
+                  <span class="prompt-label" style="color: var(--color-purple-light);">FICHA CONFIGURACIÓN JSON</span>
+                  <button class="copy-btn" type="button">Copiar JSON</button>
+                </div>
+                <pre class="prompt-text" id="live-builder-json" style="font-family: var(--font-mono); font-size: 0.75rem; max-height: 250px;"></pre>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 04: Paso a Paso -->
+        <section id="paso-a-paso" style="background-color: var(--color-bg-dark);">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 04 / GUÍA DE PRODUCCIÓN ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Paso a paso para crear tu <span class="trends">CASTING VIRTUAL</span>
+          </h2>
+
+          <div class="text-editorial" style="margin-bottom: 4rem;">
+            <p>Sigue esta metodología de 10 pasos estructurados para pasar de la idea a las piezas de campaña:</p>
+            
+            <div style="margin-top: 3rem;">
+              <div class="step-item">
+                <div class="step-num-box">01</div>
+                <div class="step-content">
+                  <h3>Define el Objetivo Comercial</h3>
+                  <p>¿Este modelo es para catálogo ecommerce con fondo blanco, para un carrusel lifestyle de Instagram o para el banner de la web con aire para texto? Cada canal exige composiciones y ángulos distintos.</p>
+                </div>
+              </div>
+              <div class="step-item">
+                <div class="step-num-box">02</div>
+                <div class="step-content">
+                  <h3>Decodifica tu Cliente Ideal</h3>
+                  <p>Define la edad, etnicidad y actitud de la modelo para que el cliente se proyecte en la imagen. No es lo mismo un look rebelde streetwear para adolescentes que un blazer formal para mujeres ejecutivas.</p>
+                </div>
+              </div>
+              <div class="step-item">
+                <div class="step-num-box">03</div>
+                <div class="step-content">
+                  <h3>Elige 3 a 5 Anclas Visuales</h3>
+                  <p>Escoge rasgos inamovibles que la IA pueda reproducir con consistencia: cabello negro rizado, sonrisa con dientes pequeños, tipo de rostro petite, o fondo de color lavanda profundo.</p>
+                </div>
+              </div>
+              <div class="step-item">
+                <div class="step-num-box">04</div>
+                <div class="step-content">
+                  <h3>Genera la Imagen Ancla (Anchor Portrait)</h3>
+                  <p>Crea el primer retrato limpio de frente con un prompt simple (ropa básica sin logos, fondo plano sólido, luz de estudio, postura relajada). Esta será tu guía física permanente.</p>
+                </div>
+              </div>
+              <div class="step-item">
+                <div class="step-num-box">05</div>
+                <div class="step-content">
+                  <h3>Construye el Pack de Ángulos</h3>
+                  <p>Genera variantes de toma (frontal, perfil, tres cuartos, picado, contrapicado, detalle de manos) para auditar si el rostro y cuerpo de tu avatar se mantienen consistentes.</p>
+                </div>
+              </div>
+              <div class="step-item">
+                <div class="step-num-box">06</div>
+                <div class="step-content">
+                  <h3>Audita la Coherencia Facial</h3>
+                  <p>Examina la sonrisa, ojos, orejas y complexión en las imágenes de prueba. Si la IA modifica el cabello o la edad, debes simplificar el prompt ancla eliminando descripciones conflictivas.</p>
+                </div>
+              </div>
+              <div class="step-item">
+                <div class="step-num-box">07</div>
+                <div class="step-content">
+                  <h3>Introduce tu Prenda o Accesorio</h3>
+                  <p>Sustituye la camiseta de prueba del prompt por tu prenda real. Describe minuciosamente el material (lino, denim, algodón), costuras, cuello y fit (oversized, cropped) y forzar la fidelidad de diseño.</p>
+                </div>
+              </div>
+              <div class="step-item">
+                <div class="step-num-box">08</div>
+                <div class="step-content">
+                  <h3>Configura los Escenarios (Lifestyle)</h3>
+                  <p>Una vez estabilizado el modelo con tu prenda, llévalo a escenas reales: tomando un café en una terraza exterior, subiendo escaleras de concreto o en un rooftop al atardecer para contar la historia de uso.</p>
+                </div>
+              </div>
+              <div class="step-item">
+                <div class="step-num-box">09</div>
+                <div class="step-content">
+                  <h3>Genera por Formatos de Publicación</h3>
+                  <p>Adapta las tomas: 4:5 para posts del feed, 9:16 vertical libre de elementos para stories y anuncios, y 16:9 horizontal con espacio negativo (aire) a los lados para banners de la web.</p>
+                </div>
+              </div>
+              <div class="step-item">
+                <div class="step-num-box">10</div>
+                <div class="step-content">
+                  <h3>Guarda el Sistema Visual</h3>
+                  <p>Copia y organiza en una ficha el prompt madre, los prompts de ángulos que mejor respondieron, la paleta y los parámetros de cámara. Este es tu archivo de producción visual.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 05: Ficha de Identidad del Embajador -->
+        <section id="ficha-identidad">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 05 / IDENTIDAD Y DOSSIER ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Ficha de identidad del <span class="trends">EMBAJADOR IA</span>
+          </h2>
+
+          <p class="text-editorial" style="margin-bottom: 3rem;">
+            Cuando pasas de un modelo genérico a un Embajador de Marca, le das un trasfondo psicológico y narrativo. Esto actúa como brújula creativa para saber cómo posa, qué marcas representa, qué frases dice en campañas y qué energía transmite al cliente.
+          </p>
+
+          <!-- Interactive Dossier Builder -->
+          <div class="card-brutal" style="background-color: var(--color-bg-dark); box-shadow: var(--shadow-brutal-white); border-color: var(--color-white-editorial);">
+            <div style="margin-bottom: 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+              <h3 style="color: var(--color-purple-light); margin: 0; font-family: var(--font-heavy); font-size: 1.4rem;">
+                DOSSIER CREATIVO INTERACTIVO
+              </h3>
+              <div style="display: flex; align-items: center; gap: 0.8rem;">
+                <span style="font-family: var(--font-mono); font-size: 0.75rem; color: var(--color-purple-light); font-weight: bold; text-transform: uppercase;">[ Personaje Único: Angie Nicol ]</span>
+              </div>
+            </div>
+
+            <!-- Customizer controls -->
+            <div class="dossier-grid">
+              <div style="display: flex; flex-direction: column; gap: 1.2rem; background-color: var(--color-bg-deep); padding: 1.5rem; border-radius: 6px; border: 1px solid rgba(168, 85, 247, 0.15);">
+                <div class="builder-field">
+                  <label for="dos-input-name">Nombre Comercial</label>
+                  <input type="text" id="dos-input-name" class="builder-input preset-input" value="Angie Nicol" />
+                </div>
+                <div class="builder-field">
+                  <label for="dos-input-age">Edad Aparente</label>
+                  <input type="text" id="dos-input-age" class="builder-input preset-input" value="27 años" />
+                </div>
+                <div class="builder-field">
+                  <label for="dos-input-origin">Lugar de Origen</label>
+                  <input type="text" id="dos-input-origin" class="builder-input preset-input" value="Bogotá, Colombia" />
+                </div>
+                <div class="builder-field">
+                  <label for="dos-input-role">Cargo en la Marca</label>
+                  <input type="text" id="dos-input-role" class="builder-input preset-input" value="Atracción de Audiencia" />
+                </div>
+                <div class="builder-field">
+                  <label for="dos-input-essence">Esencia (Frase)</label>
+                  <textarea id="dos-input-essence" class="builder-input preset-input" rows="2" style="resize: none;">Mujer subestimada por su belleza serena que convirtió esa lectura en inteligencia competitiva.</textarea>
+                </div>
+                <div class="builder-field">
+                  <label for="dos-input-thesis">Tesis Personal</label>
+                  <textarea id="dos-input-thesis" class="builder-input preset-input" rows="2" style="resize: none;">Si te ven como un adorno, usa su error como ventaja táctica.</textarea>
+                </div>
+                <div class="builder-field">
+                  <label for="dos-input-contradiction">Contradicción</label>
+                  <textarea id="dos-input-contradiction" class="builder-input preset-input" rows="2" style="resize: none;">Calidez luminosa externa con ambición selectiva y competitiva interna.</textarea>
+                </div>
+                <div class="builder-field">
+                  <label for="dos-input-quote">Frase Típica</label>
+                  <input type="text" id="dos-input-quote" class="builder-input preset-input" value="No vine a decorar marcas. Vine a volverlas memorables." />
+                </div>
+              </div>
+
+              <!-- Dossier Output Card -->
+              <div class="dossier-details-card">
+                <div class="dossier-title-bar">
+                  <h3 class="dossier-name" id="dos-out-name">Angie Nicol</h3>
+                  <span class="dossier-role" id="dos-out-role">Atracción de Audiencia</span>
+                </div>
+
+                <div class="dossier-grid" style="grid-template-columns: 240px 1fr; margin: 0; gap: 2rem;">
+                  <!-- Left side portrait frame -->
+                  <div class="dossier-portrait-card" style="margin: 0; box-shadow: none; border-color: rgba(168, 85, 247, 0.4);">
+                    <div class="dossier-portrait-wrapper">
+                      <img id="dos-portrait" src="/media/bonus_4/image5.png" alt="Dossier character portrait" />
+                    </div>
+                    <div class="dossier-portrait-meta">
+                      <div class="dossier-meta-row">
+                        <span class="dossier-meta-label">EDAD:</span>
+                        <span class="dossier-meta-value" id="dos-card-age">27 años</span>
+                      </div>
+                      <div class="dossier-meta-row">
+                        <span class="dossier-meta-label">ORIGEN:</span>
+                        <span class="dossier-meta-value" id="dos-card-origin">Bogotá, Col</span>
+                      </div>
+                      <div class="dossier-meta-row">
+                        <span class="dossier-meta-label">ROL:</span>
+                        <span class="dossier-meta-value" id="dos-card-role">Especialista</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Right side details lines -->
+                  <div style="line-height: 1.6; font-size: 0.95rem; display: flex; flex-direction: column; gap: 1.2rem;">
+                    <div>
+                      <span style="font-family: var(--font-mono); font-size: 0.72rem; color: var(--color-purple-light); display: block; text-transform: uppercase; font-weight: bold;">[ Esencia Narrativa ]</span>
+                      <p id="dos-out-essence">Mujer subestimada por su belleza serena que convirtió esa lectura en inteligencia competitiva.</p>
+                    </div>
+                    <div>
+                      <span style="font-family: var(--font-mono); font-size: 0.72rem; color: var(--color-purple-light); display: block; text-transform: uppercase; font-weight: bold;">[ Tesis de Vida ]</span>
+                      <p id="dos-out-thesis">Si te ven como un adorno, usa su error como ventaja táctica.</p>
+                    </div>
+                    <div>
+                      <span style="font-family: var(--font-mono); font-size: 0.72rem; color: var(--color-purple-light); display: block; text-transform: uppercase; font-weight: bold;">[ Contradicción Interna ]</span>
+                      <p id="dos-out-contradiction">Calidez luminosa externa con ambición selectiva y competitiva interna.</p>
+                    </div>
+                    
+                    <div style="background-color: var(--color-bg-dark); padding: 1.2rem; border-left: 3px solid var(--color-purple-primary); font-style: italic; font-family: var(--font-mono); font-size: 0.88rem; margin-top: auto; color: var(--color-purple-glow);" id="dos-out-quote">
+                      "No vine a decorar marcas. Vine a volverlas memorables."
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Copy Block -->
+                <div class="prompt-container" style="margin-top: 2rem; border-color: rgba(244, 244, 241, 0.15); box-shadow: none; padding: 1.5rem;">
+                  <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.5rem;">
+                    <span class="prompt-label">TEXTO DE IDENTIDAD PARA LA IA / CAMPAÑA</span>
+                    <button class="copy-btn" type="button">Copiar Ficha</button>
+                  </div>
+                  <pre class="prompt-text" id="dossier-output-text" style="font-size: 0.8rem; max-height: 120px; color: var(--color-white-editorial);"></pre>
+                </div>
+              </div>
+            </div>
+            
+            <!-- Extended Biography Context -->
+            <div class="card-brutal" style="margin-top: 2rem; background-color: var(--color-bg-deep);">
+              <h4 style="font-family: var(--font-heavy); font-size: 1.2rem; color: var(--color-purple-light); margin-bottom: 1rem; text-transform: uppercase;">
+                Biografía Extendida de Angie Nicol
+              </h4>
+              <div style="font-size: 0.92rem; line-height: 1.7; display: flex; flex-direction: column; gap: 1rem; color: rgba(244, 244, 241, 0.85);">
+                <p>
+                  Angeline Nicol Varela creció en Bogotá rodeada de una contradicción: la gente la veía antes de escucharla. Le atribuían ingenuidad y docilidad por su aspecto físico. Ese fue el error que la formó. En lugar de quejarse, Angie se obsesionó con entender la mecánica de la atención y la percepción, estudiando psicología perceptiva, branding y comportamiento de consumo.
+                </p>
+                <p>
+                  Cuando llegó la inteligencia artificial, Angie vio el terreno perfecto para experimentar con ritmo de atención, primeros segundos y patrones de atracción. Hoy ejerce el cargo de <strong>Especialista en Atracción de Audiencia</strong>, diseñando sistemas visuales que capturan miradas y convierten simpatía en interés comercial.
+                </p>
+                <p style="border-top: 1px dashed rgba(168, 85, 247, 0.2); padding-top: 1rem;">
+                  <strong>Psicología & Herida:</strong> Teme que la admiren sin llegar a tomarla realmente en serio. Su contradicción principal radica en tener una energía exterior luminosa y amable, ocultando una ambición competitiva feroz en su interior.
+                </p>
+              </div>
+            </div>
+            
+            <!-- Character Questions Template -->
+            <div class="card-brutal" style="margin-top: 2rem; background-color: var(--color-bg-dark);">
+              <h4 style="font-family: var(--font-heavy); font-size: 1.2rem; color: var(--color-purple-light); margin-bottom: 1rem; text-transform: uppercase;">
+                ¿Cómo crear la vida de tu propio Embajador IA?
+              </h4>
+              <p style="font-size: 0.9rem; margin-bottom: 1rem; opacity: 0.9;">
+                Para humanizar tu avatar virtual y dirigirlo como un verdadero director creativo, completa estas 10 preguntas fundamentales:
+              </p>
+              <ol style="margin-left: 1.5rem; font-size: 0.9rem; display: flex; flex-direction: column; gap: 0.4rem;">
+                <li><strong>Identidad Básica:</strong> ¿Cómo se llama? ¿Qué edad aparenta? ¿De dónde viene? ¿Qué idioma habla?</li>
+                <li><strong>Cargo en la Marca:</strong> ¿Qué rol público desempeña (ej. especialista, embajador streetwear)?</li>
+                <li><strong>Alias Interno:</strong> ¿Cuál es su energía secreta (ej. El Chico que Nunca Pide Permiso)?</li>
+                <li><strong>Esencia en una Frase:</strong> ¿Quién es realmente y qué representa?</li>
+                <li><strong>Tesis de Vida:</strong> ¿Cuál es su filosofía de cómo ve el mundo?</li>
+                <li><strong>Qué vende en el fondo:</strong> ¿Qué deseo emocional transmite (ej. atención, estatus, comodidad)?</li>
+                <li><strong>Herida Central:</strong> ¿Qué tensión interna o dolor carga de su pasado?</li>
+                <li><strong>Contradicción Principal:</strong> ¿Qué dos fuerzas opuestas chocan en su personalidad (ej. elegante pero rebelde)?</li>
+                <li><strong>Estética de Vestuario:</strong> ¿Cuáles son sus colores, telas y fits característicos?</li>
+                <li><strong>Función Comercial:</strong> ¿Para qué existe dentro del embudo de ventas (catálogo, anuncios, stories)?</li>
+              </ol>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 06: El Paquete de Ángulos (Andrea/Angie) -->
+        <section id="pack-angulos" style="background-color: var(--color-bg-dark);">
+          <div class="sticker-purple">Caso de Estudio: Andrea</div>
+          
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 06 / EL PACK DE ÁNGULOS DE IDENTIDAD ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Paquete de consistencia visual de <span class="trends">11 ÁNGULOS</span>
+          </h2>
+
+          <p class="text-editorial" style="margin-bottom: 3rem;">
+            Una identidad que solo funciona de frente no es útil para campañas de moda. Para que tu avatar trabaje en lookbooks reales, debes testear su consistencia en este pack interactivo de 11 ángulos estructurados:
+          </p>
+
+          <div class="angles-showcase-container">
+            <!-- Left angles list -->
+            <div class="angles-list">
+              <div class="angle-btn active" data-target="frontal">
+                <span class="angle-btn-icon">👁</span>
+                <span class="angle-btn-label">1. Frontal</span>
+              </div>
+              <div class="angle-btn" data-target="close-up">
+                <span class="angle-btn-icon">🔍</span>
+                <span class="angle-btn-label">2. Close-up</span>
+              </div>
+              <div class="angle-btn" data-target="3-4-profile">
+                <span class="angle-btn-icon">📐</span>
+                <span class="angle-btn-label">3. Perfil 3/4</span>
+              </div>
+              <div class="angle-btn" data-target="90-profile">
+                <span class="angle-btn-icon">👤</span>
+                <span class="angle-btn-label">4. Lateral 90°</span>
+              </div>
+              <div class="angle-btn" data-target="high-angle">
+                <span class="angle-btn-icon">▼</span>
+                <span class="angle-btn-label">5. Picado</span>
+              </div>
+              <div class="angle-btn" data-target="low-angle">
+                <span class="angle-btn-icon">▲</span>
+                <span class="angle-btn-label">6. Contrapicado</span>
+              </div>
+              <div class="angle-btn" data-target="back-view">
+                <span class="angle-btn-icon">↩</span>
+                <span class="angle-btn-label">7. Espalda</span>
+              </div>
+              <div class="angle-btn" data-target="hands">
+                <span class="angle-btn-icon">✋</span>
+                <span class="angle-btn-label">8. Manos</span>
+              </div>
+              <div class="angle-btn" data-target="laughing">
+                <span class="angle-btn-icon">ツ</span>
+                <span class="angle-btn-label">9. Expresión</span>
+              </div>
+              <div class="angle-btn" data-target="waist-up">
+                <span class="angle-btn-icon">👕</span>
+                <span class="angle-btn-label">10. Plano Medio</span>
+              </div>
+              <div class="angle-btn" data-target="contact-sheet">
+                <span class="angle-btn-icon">▦</span>
+                <span class="angle-btn-label">11. Audit Sheet</span>
+              </div>
+            </div>
+
+            <!-- Right viewer panel -->
+            <div class="angle-viewer">
+              <div>
+                <h3 id="viewer-title" style="color: var(--color-purple-light); font-family: var(--font-heavy); font-size: 1.4rem; text-transform: uppercase; margin-bottom: 0.8rem;">
+                  1. Retrato Ancla Universal
+                </h3>
+                <p id="viewer-desc" style="font-size: 0.9rem; line-height: 1.4; opacity: 0.85; margin-bottom: 1.5rem;">
+                  Establece la identidad base: rasgos físicos, sonrisa cálida, dientes pequeños, abundante cabello rizado negro brillante, y el fondo lavanda sólido.
+                </p>
+                <div class="viewer-media-frame">
+                  <img id="viewer-img" src="/media/bonus_4/image5.png" alt="Angle Viewer photo" />
+                </div>
+              </div>
+
+              <!-- copy container -->
+              <div class="prompt-container" style="margin: 0; padding: 1.5rem; border-color: rgba(244, 244, 241, 0.15); box-shadow: none;">
+                <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.5rem;">
+                  <span class="prompt-label" style="font-size: 0.7rem;">PROMPT OPTIMIZADO PARA GENERACIÓN</span>
+                  <button class="copy-btn" type="button">Copiar Prompt</button>
+                </div>
+                <pre class="prompt-text" id="viewer-prompt" style="font-size: 0.8rem; max-height: 140px; color: var(--color-white-editorial);">Universal identity anchor portrait, petite and feminine high-fashion. Scene: Stunningly attractive 23-year-old female model of fair, light-skinned Mestiza complexion. She has a petite and very slender, delicate physique with a tender facial structure. She is looking directly at the camera with a beautiful, warm smile showing small, perfectly formed teeth. Her hair is incredibly abundant, shiny jet black, styled in tight, bouncy natural curls (rulitos) and waves that catch the light. Wearing a simple dark charcoal black crewneck t-shirt. Environment: Professional photo studio set with a solid, seamless deep lavender (plum-tone) backdrop. Lighting: Soft, high-end editorial butterfly lighting; a large softbox providing gentle shadows to define her petite structure. Camera: Full-frame photography, 85mm lens, f/1.8, ISO 100, extremely sharp focus on the smile and eyes. Style: Raw photographic realism, 8k, no_beauty_smoothing: true, retain_imperfections: true.</pre>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 07: Biblioteca de Prompts de Campaña -->
+        <section id="modelos-prenda">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 07 / BIBLIOTECA DE PROMPTS ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Biblioteca de prompts por <span class="trends">TIPO DE PRENDA</span>
+          </h2>
+
+          <p class="text-editorial" style="margin-bottom: 2rem;">
+            Diferentes colecciones exigen diferentes estilos visuales y modelos. Utiliza este banco interactivo para filtrar y copiar los prompts en inglés estructurados según la prenda (Ropa Femenina, Ropa Masculina, Accesorios o Realismo Cotidiano):
+          </p>
+
+          <!-- Interactive Search Term Bank -->
+          <div class="term-bank" style="margin-top: 1rem; border-color: rgba(168, 85, 247, 0.4);">
+            <div class="term-bank-controls">
+              <div class="search-input-wrapper">
+                <input type="text" class="search-input" placeholder="Buscar palabras clave en la biblioteca... (ej. hoodie, blazer, ring, curvy)" />
+              </div>
+              <div class="category-filters">
+                <button class="filter-pill active" data-filter="all">Todos</button>
+                <button class="filter-pill" data-filter="general">General</button>
+                <button class="filter-pill" data-filter="realismo">Realismo Humano</button>
+                <button class="filter-pill" data-filter="femenino">Ropa Femenina</button>
+                <button class="filter-pill" data-filter="masculino">Ropa Masculina</button>
+                <button class="filter-pill" data-filter="accesorios">Accesorios</button>
+              </div>
+            </div>
+            
+            <div class="terms-results">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+
+          <!-- Matrix Tables -->
+          <h3 style="font-family: var(--font-heavy); font-size: 1.6rem; text-transform: uppercase; margin-top: 3.5rem; margin-bottom: 1.5rem; color: var(--color-white-editorial);">
+            MATRIZ ESTRATÉGICA: MODELO SEGÚN PRODUCTO
+          </h3>
+          
+          <div class="editorial-table-wrapper">
+            <table class="editorial-table">
+              <thead>
+                <tr>
+                  <th>TIPO DE PRENDA</th>
+                  <th>MODELO RECOMENDADO</th>
+                  <th>ESCENA IDEAL</th>
+                  <th>LUZ / TOMA</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Camisetas Básicas</strong></td>
+                  <td>Cercano, natural, amigable, contextura estándar.</td>
+                  <td>Apartamento con luz natural, café urbano, estudio blanco catálogo.</td>
+                  <td>Luz lateral difusa de ventana, lente 50mm, f/2.8.</td>
+                </tr>
+                <tr>
+                  <td><strong>Hoodies / Streetwear</strong></td>
+                  <td>Urbano, rebelde, despreocupado, contextura holgada.</td>
+                  <td>Calle de noche, rooftop de concreto, escaleras de metal.</td>
+                  <td>Luz dura de flash o cielo nublado, lente 35mm, f/2.2.</td>
+                </tr>
+                <tr>
+                  <td><strong>Vestidos / Blazers Elegant</strong></td>
+                  <td>Premium, sofisticado, seguro, contextura estilizada.</td>
+                  <td>Estudio minimalista beige, hotel de arquitectura moderna.</td>
+                  <td>Luz editorial butterfly con caja de luz suave, lente 85mm, f/2.0.</td>
+                </tr>
+                <tr>
+                  <td><strong>Accesorios / Joyería</strong></td>
+                  <td>Planos de detalle: manos delgadas, orejas o cuellos bien definidos.</td>
+                  <td>Fondos sólidos texturizados, telas de lino o seda.</td>
+                  <td>Luz lateral fuerte para esculpir metales, lente macro 85mm, f/4.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          
+          <!-- Campaña prompts detailed -->
+          <div class="card-brutal" style="margin-top: 2rem; background-color: var(--color-bg-dark);">
+            <h4 style="font-family: var(--font-heavy); font-size: 1.2rem; color: var(--color-purple-light); margin-bottom: 1rem; text-transform: uppercase;">
+              PROMPTS DE CAMPAÑA PARA ANDREA / ANGIE (5 FORMATOS)
+            </h4>
+            <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+              <div class="prompt-container" style="margin: 0; padding: 1.2rem; border-color: rgba(168, 85, 247, 0.3);">
+                <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.3rem;">
+                  <span class="prompt-label">[ Formato 1: Hero Editorial 4:5 ]</span>
+                  <button class="copy-btn" type="button">Copiar</button>
+                </div>
+                <pre class="prompt-text" style="font-size: 0.78rem; max-height: 80px;">Use the same petite fair-skinned female model with shiny jet black tight natural curls, warm small-teeth smile and delicate feminine structure from reference. She is standing with calm strategic confidence, wearing a dark charcoal fitted cotton t-shirt tucked into high-waisted tailored trousers, realistic fabric folds. Deep plum-lavender studio backdrop, soft high-end butterfly lighting, full-frame photography, 85mm lens, f/1.8, raw photographic realism, visible skin pores, no beauty smoothing, aspect ratio 4:5.</pre>
+              </div>
+              <div class="prompt-container" style="margin: 0; padding: 1.2rem; border-color: rgba(168, 85, 247, 0.3);">
+                <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.3rem;">
+                  <span class="prompt-label">[ Formato 2: Lookbook Minimalista 3:4 ]</span>
+                  <button class="copy-btn" type="button">Copiar</button>
+                </div>
+                <pre class="prompt-text" style="font-size: 0.78rem; max-height: 80px;">Same Andrea/Angie identity from reference: petite fair-skinned woman, abundant shiny jet black natural curls, warm smile. Full-body lookbook shot wearing a simple cream oversized shirt and straight-leg black trousers, natural linen and cotton fabric texture, soft wrinkles, relaxed elegant posture, standing centered on a seamless deep lavender studio background, editorial softbox lighting, 50mm lens, f/4, aspect ratio 3:4.</pre>
+              </div>
+              <div class="prompt-container" style="margin: 0; padding: 1.2rem; border-color: rgba(168, 85, 247, 0.3);">
+                <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.3rem;">
+                  <span class="prompt-label">[ Formato 3: Lifestyle para Redes 4:5 ]</span>
+                  <button class="copy-btn" type="button">Copiar</button>
+                </div>
+                <pre class="prompt-text" style="font-size: 0.78rem; max-height: 80px;">Same petite female avatar identity from reference, shiny black curls, fair light skin with natural texture, warm candid smile with small teeth. She is sitting near a window in a real apartment, wearing a soft charcoal knit sweater with natural folds, holding a coffee cup, relaxed but intelligent presence, soft window daylight, 50mm lens, f/2.8, aspect ratio 4:5.</pre>
+              </div>
+              <div class="prompt-container" style="margin: 0; padding: 1.2rem; border-color: rgba(168, 85, 247, 0.3);">
+                <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.3rem;">
+                  <span class="prompt-label">[ Formato 4: Anuncio con Espacio Negativo 16:9 ]</span>
+                  <button class="copy-btn" type="button">Copiar</button>
+                </div>
+                <pre class="prompt-text" style="font-size: 0.78rem; max-height: 80px;">Same Andrea/Angie identity from reference, petite fair-skinned woman with curls. She is standing on the left side of the frame, wearing a minimal black cotton top, looking directly at camera with a soft confident smile. Deep lavender seamless background with large negative space on the right for ad copy, 85mm lens, raw skin texture, aspect ratio 16:9.</pre>
+              </div>
+              <div class="prompt-container" style="margin: 0; padding: 1.2rem; border-color: rgba(168, 85, 247, 0.3);">
+                <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.3rem;">
+                  <span class="prompt-label">[ Formato 5: Vista Posterior (Espalda) 3:4 ]</span>
+                  <button class="copy-btn" type="button">Copiar</button>
+                </div>
+                <pre class="prompt-text" style="font-size: 0.78rem; max-height: 80px;">Same petite fair-skinned female model from reference, back view of head and upper body, turning 45 degrees toward the camera, shiny tight black curls, slender neck. Wearing a charcoal cotton t-shirt with back fabric folds. Deep plum-lavender studio backdrop, soft editorial lighting, raw photographic realism, aspect ratio 3:4.</pre>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 08: Galería de Campañas (8 Fotos) -->
+        <section id="galeria-casting" style="background-color: var(--color-bg-dark);">
+          <div class="sticker-purple">MUESTRA DE CAMPANAS</div>
+
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 08 / GALERÍA DE CAMPAÑAS DE MODA ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Galería de <span class="trends">FOTOS CAMPAÑAS</span> (8 fotos)
+          </h2>
+
+          <p class="text-editorial">
+            Estas son las 8 imágenes de la campaña editorial y de producto que hemos extraído de la producción base de Bonus 4. Haz clic en cualquiera para abrir la visualización del lightbox a pantalla completa y auditar su realismo fotográfico, texturas de tela, metales y luces:
+          </p>
+
+          <div class="gallery-grid">
+            <div class="gallery-item" style="--rot: -1deg;">
+              <div class="gallery-img-frame">
+                <img src="/media/bonus_4/image19.jpg" alt="Male Knit Polo" />
+              </div>
+              <div class="gallery-label">Male Knit Polo</div>
+              <div class="gallery-sublabel">image19.jpg · Polo</div>
+            </div>
+            
+            <div class="gallery-item" style="--rot: 1.5deg;">
+              <div class="gallery-img-frame">
+                <img src="/media/bonus_4/image22.jpg" alt="Hands Gold Rings" />
+              </div>
+              <div class="gallery-label">Joyería Anillos</div>
+              <div class="gallery-sublabel">image22.jpg · Rings</div>
+            </div>
+
+            <div class="gallery-item" style="--rot: -2deg;">
+              <div class="gallery-img-frame">
+                <img src="/media/bonus_4/image20.jpg" alt="Streetwear Heavy Tee" />
+              </div>
+              <div class="gallery-label">Heavyweight Tee</div>
+              <div class="gallery-sublabel">image20.jpg · Streetwear</div>
+            </div>
+
+            <div class="gallery-item" style="--rot: 2.2deg;">
+              <div class="gallery-img-frame">
+                <img src="/media/bonus_4/image24.jpg" alt="Leather Handbag" />
+              </div>
+              <div class="gallery-label">Bolso Cuero</div>
+              <div class="gallery-sublabel">image24.jpg · Handbag</div>
+            </div>
+
+            <div class="gallery-item" style="--rot: -1.2deg;">
+              <div class="gallery-img-frame">
+                <img src="/media/bonus_4/image23.jpg" alt="Silver Earring" />
+              </div>
+              <div class="gallery-label">Arete Plata</div>
+              <div class="gallery-sublabel">image23.jpg · Earring</div>
+            </div>
+
+            <div class="gallery-item" style="--rot: 3deg;">
+              <div class="gallery-img-frame">
+                <img src="/media/bonus_4/image17.jpg" alt="Streetwear Ponytail" />
+              </div>
+              <div class="gallery-label">Streetwear Ponytail</div>
+              <div class="gallery-sublabel">image17.jpg · Female</div>
+            </div>
+
+            <div class="gallery-item" style="--rot: -2.5deg;">
+              <div class="gallery-img-frame">
+                <img src="/media/bonus_4/image18.jpg" alt="Male Sweatshirt" />
+              </div>
+              <div class="gallery-label">Buzo Masculino</div>
+              <div class="gallery-sublabel">image18.jpg · Sweatshirt</div>
+            </div>
+
+            <div class="gallery-item" style="--rot: 1.8deg;">
+              <div class="gallery-img-frame">
+                <img src="/media/bonus_4/image21.jpg" alt="Athletic Running Set" />
+              </div>
+              <div class="gallery-label">Conjunto Deportivo</div>
+              <div class="gallery-sublabel">image21.jpg · Athletic</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 09: Más Modelos para el Casting -->
+        <section id="mas-modelos">
+          <div class="sticker-lavender">MODELOS ADICIONALES</div>
+
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 09 / MÁS MODELOS PARA EL CASTING ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Más modelos para el <span class="trends">CASTING VIRTUAL</span>
+          </h2>
+
+          <p class="text-editorial">
+            La diversidad en el catálogo ayuda a que diferentes clientes se identifiquen con tu marca. Aquí encuentras las 4 configuraciones de modelos adicionales creadas en la producción base de Bonus 4, con sus imágenes y prompts JSON estructurados:
+          </p>
+
+          <div class="split-model-grid">
+            <!-- Model 1 -->
+            <div class="split-model-card">
+              <div class="split-model-img-frame">
+                <img src="/media/bonus_4/image1.png" alt="Casual influencer iPhone-style" />
+              </div>
+              <div class="split-model-content">
+                <div>
+                  <h3 class="split-model-title">1. Casual Influencer iPhone-Style</h3>
+                  <div class="split-model-details">
+                    <p style="margin-bottom: 0.8rem;">
+                      <strong>Identidad:</strong> Female AI influencer, friend-next-door vibe · <strong>Edad:</strong> 22-25 años · <strong>Etnicidad:</strong> Mixed European.
+                    </p>
+                    <p style="margin-bottom: 0.8rem; font-style: italic; color: var(--color-purple-light);">
+                      "sensor noise, messy ponytail, freckles, bedroom with real clutter, smartphone look, aspect ratio 9:16"
+                    </p>
+                    <p style="font-size: 0.85rem; opacity: 0.85;">
+                      Diseñado para parecer una foto hecha con celular (UGC) en stories, generando confianza y proximidad de uso cotidiano.
+                    </p>
+                  </div>
+                </div>
+                
+                <div class="prompt-container" style="margin: 0; padding: 1.2rem; border-color: rgba(168, 85, 247, 0.2); box-shadow: none;">
+                  <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.5rem;">
+                    <span class="prompt-label" style="font-size: 0.65rem;">JSON CONFIGURATION FILE</span>
+                    <button class="copy-btn" type="button" style="padding: 0.35rem 0.8rem; font-size: 0.65rem;">Copiar JSON</button>
+                  </div>
+                  <pre class="prompt-text" style="font-size: 0.72rem; max-height: 120px; font-family: var(--font-mono); color: var(--color-white-editorial);">{
+  "title": "Casual influencer iPhone-style",
+  "identity": "Female AI influencer, friend-next-door vibe",
+  "age_range": "22-25",
+  "realism": "freckles, uneven blush, natural skin texture",
+  "ethnicity": "Mixed European",
+  "hairstyle": "messy ponytail",
+  "outfit": "oversized hoodie",
+  "lighting": {
+    "type": "ambient indoor light",
+    "direction": "top-down mixed"
+  },
+  "camera": {
+    "type": "smartphone look",
+    "lens_mm": 26,
+    "aperture": "f/1.8"
+  },
+  "background": "bedroom with real clutter",
+  "aspect_ratio": "9:16",
+  "file_tag": "IMG_7784.HEIC"
+}</pre>
+                </div>
+              </div>
+            </div>
+
+            <!-- Model 2 -->
+            <div class="split-model-card">
+              <div class="split-model-img-frame">
+                <img src="/media/bonus_4/image8.png" alt="Coffee shop candid influencer" />
+              </div>
+              <div class="split-model-content">
+                <div>
+                  <h3 class="split-model-title">2. Coffee Shop Candid Influencer</h3>
+                  <div class="split-model-details">
+                    <p style="margin-bottom: 0.8rem;">
+                      <strong>Identidad:</strong> Lifestyle AI influencer · <strong>Edad:</strong> 25-29 años · <strong>Etnicidad:</strong> Latina.
+                    </p>
+                    <p style="margin-bottom: 0.8rem; font-style: italic; color: var(--color-purple-light);">
+                      "matte skin, hair tucked behind ears, knit sweater, hands holding coffee cup, real café interior, aspect ratio 4:5"
+                    </p>
+                    <p style="font-size: 0.85rem; opacity: 0.85;">
+                      Ideal para colecciones de otoño o prendas cozy, situando la modelo en una terraza real vendiendo estilo de vida urbano accesible.
+                    </p>
+                  </div>
+                </div>
+                
+                <div class="prompt-container" style="margin: 0; padding: 1.2rem; border-color: rgba(168, 85, 247, 0.2); box-shadow: none;">
+                  <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.5rem;">
+                    <span class="prompt-label" style="font-size: 0.65rem;">JSON CONFIGURATION FILE</span>
+                    <button class="copy-btn" type="button" style="padding: 0.35rem 0.8rem; font-size: 0.65rem;">Copiar JSON</button>
+                  </div>
+                  <pre class="prompt-text" style="font-size: 0.72rem; max-height: 120px; font-family: var(--font-mono); color: var(--color-white-editorial);">{
+  "title": "Coffee shop candid influencer",
+  "identity": "Lifestyle AI influencer",
+  "age_range": "25-29",
+  "realism": "matte skin, pores visible, slight redness",
+  "ethnicity": "Latina",
+  "hairstyle": "hair tucked behind ears",
+  "outfit": "knit sweater",
+  "lighting": {
+    "type": "natural café daylight",
+    "direction": "window side"
+  },
+  "camera": {
+    "type": "street photography mirrorless",
+    "lens_mm": 40,
+    "aperture": "f/2.5"
+  },
+  "background": "real café interior",
+  "aspect_ratio": "4:5",
+  "file_tag": "IMG_4591.CR2"
+}</pre>
+                </div>
+              </div>
+            </div>
+
+            <!-- Model 3 -->
+            <div class="split-model-card">
+              <div class="split-model-img-frame">
+                <img src="/media/bonus_4/image9.png" alt="Male influencer everyday realism" />
+              </div>
+              <div class="split-model-content">
+                <div>
+                  <h3 class="split-model-title">3. Male Influencer Everyday Realism</h3>
+                  <div class="split-model-details">
+                    <p style="margin-bottom: 0.8rem;">
+                      <strong>Identidad:</strong> Male AI creator, non-model appearance · <strong>Edad:</strong> 26-30 años · <strong>Etnicidad:</strong> Southern European.
+                    </p>
+                    <p style="margin-bottom: 0.8rem; font-style: italic; color: var(--color-purple-light);">
+                      "short slightly unstyled hair, irregular beard growth stubble, plain sweatshirt, shoulders slightly slouched, urban balcony, aspect ratio 3:4"
+                    </p>
+                    <p style="font-size: 0.85rem; opacity: 0.85;">
+                      Evita el hombre publicitario falsamente perfecto. Transmite credibilidad y cercanía física para ropa masculina cotidiana.
+                    </p>
+                  </div>
+                </div>
+                
+                <div class="prompt-container" style="margin: 0; padding: 1.2rem; border-color: rgba(168, 85, 247, 0.2); box-shadow: none;">
+                  <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.5rem;">
+                    <span class="prompt-label" style="font-size: 0.65rem;">JSON CONFIGURATION FILE</span>
+                    <button class="copy-btn" type="button" style="padding: 0.35rem 0.8rem; font-size: 0.65rem;">Copiar JSON</button>
+                  </div>
+                  <pre class="prompt-text" style="font-size: 0.72rem; max-height: 120px; font-family: var(--font-mono); color: var(--color-white-editorial);">{
+  "title": "Male influencer everyday realism",
+  "identity": "Male AI creator, non-model appearance",
+  "age_range": "26-30",
+  "realism": "uneven skin tone, light under-eye shadows, pores visible",
+  "ethnicity": "Southern European",
+  "hairstyle": "short, slightly unstyled",
+  "facial_hair": "irregular beard growth",
+  "outfit": "plain sweatshirt",
+  "lighting": {
+    "type": "overcast daylight",
+    "direction": "front-left"
+  },
+  "camera": {
+    "type": "mirrorless camera",
+    "lens_mm": 35,
+    "aperture": "f/2.0"
+  },
+  "background": "urban balcony",
+  "aspect_ratio": "3:4",
+  "file_tag": "DSC_2219.JPG"
+}</pre>
+                </div>
+              </div>
+            </div>
+
+            <!-- Model 4 -->
+            <div class="split-model-card">
+              <div class="split-model-img-frame">
+                <img src="/media/bonus_4/image2.png" alt="Lifestyle influencer candid portrait" />
+              </div>
+              <div class="split-model-content">
+                <div>
+                  <h3 class="split-model-title">4. Lifestyle Influencer Candid Portrait</h3>
+                  <div class="split-model-details">
+                    <p style="margin-bottom: 0.8rem;">
+                      <strong>Identidad:</strong> Female AI influencer, everyday realism · <strong>Edad:</strong> 24-27 años · <strong>Etnicidad:</strong> Latina / Mediterranean mix.
+                    </p>
+                    <p style="margin-bottom: 0.8rem; font-style: italic; color: var(--color-purple-light);">
+                      "visible skin pores, natural wrinkles, loose hair with slight frizz, gaze slightly off-camera, aspect ratio 4:5"
+                    </p>
+                    <p style="font-size: 0.85rem; opacity: 0.85;">
+                      Muestra la variación de la sesión real para catálogo o redes sociales, validando la consistencia facial de la piel, rasgos, cejas y rulos.
+                    </p>
+                  </div>
+                </div>
+                
+                <div class="prompt-container" style="margin: 0; padding: 1.2rem; border-color: rgba(168, 85, 247, 0.2); box-shadow: none;">
+                  <div class="prompt-header" style="border: none; padding: 0; margin-bottom: 0.5rem;">
+                    <span class="prompt-label" style="font-size: 0.65rem;">JSON CONFIGURATION FILE</span>
+                    <button class="copy-btn" type="button" style="padding: 0.35rem 0.8rem; font-size: 0.65rem;">Copiar JSON</button>
+                  </div>
+                  <pre class="prompt-text" style="font-size: 0.72rem; max-height: 120px; font-family: var(--font-mono); color: var(--color-white-editorial);">{
+  "title": "Lifestyle influencer candid portrait",
+  "identity": "Female AI influencer, everyday realism",
+  "age_range": "24-27",
+  "realism": "visible skin texture, natural pores, slight redness, micro asymmetry",
+  "ethnicity": "Latina / Mediterranean mix",
+  "hairstyle": "loose hair, slight frizz, imperfect strands",
+  "face_details": {
+    "jaw": "soft, non-model proportions",
+    "lips": "natural volume"
+  },
+  "outfit": "basic cotton t-shirt",
+  "background": "real apartment wall, slight imperfections",
+  "aspect_ratio": "4:5",
+  "file_tag": "IMG_1032.CR2"
+}</pre>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 10: Ejercicio Final -->
+        <section id="ejercicio-final">
+          <div class="sticker-purple">ENTREGABLES FINALES</div>
+
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 10 / EJERCICIO PRÁCTICO ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Tu proyecto de <span class="trends">FIN DE CURSO</span>
+          </h2>
+
+          <div class="text-editorial" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <p>
+              El objetivo de este bonus no es solo coleccionar teoría sobre dirección creativa. Es aplicar un sistema visual repetible y auditable. El alumno debe finalizar el bonus habiendo construido y documentado los siguientes 6 entregables clave:
+            </p>
+
+            <!-- Dynamic progress checklist tracker -->
+            <div class="progress-container">
+              <div class="progress-header">
+                <span class="progress-title">Tu progreso en el proyecto</span>
+                <span class="progress-pct" id="checklist-progress-pct">0%</span>
+              </div>
+              <div class="progress-bar-wrapper">
+                <div class="progress-bar" id="checklist-progress-bar"></div>
+              </div>
+
+              <div class="checklist-tasks-grid">
+                <div class="checklist-task-item">
+                  <div class="checklist-checkbox">✔</div>
+                  <div class="checklist-task-text">
+                    <strong>1. Ficha del Modelo:</strong> Definir en un párrafo las características del modelo (género, edad, etnicidad, rulos, anclas de mirada y complexión).
+                  </div>
+                </div>
+                <div class="checklist-task-item">
+                  <div class="checklist-checkbox">✔</div>
+                  <div class="checklist-task-text">
+                    <strong>2. Prompt Madre del Retrato:</strong> Escribir y guardar el prompt en inglés para crear el retrato ancla del avatar en estudio y con fondo sólido.
+                  </div>
+                </div>
+                <div class="checklist-task-item">
+                  <div class="checklist-checkbox">✔</div>
+                  <div class="checklist-task-text">
+                    <strong>3. Pack de Consistencia Facial:</strong> Generar el set mínimo de 6 imágenes desde diferentes ángulos (frente, picado, 3/4, perfil lateral) auditando parecidos.
+                  </div>
+                </div>
+                <div class="checklist-task-item">
+                  <div class="checklist-checkbox">✔</div>
+                  <div class="checklist-task-text">
+                    <strong>4. Prenda Real Acoplada:</strong> Sustituir con éxito el outfit base por tu producto físico, manteniendo costuras, rayas y fit sin deformidades.
+                  </div>
+                </div>
+                <div class="checklist-task-item">
+                  <div class="checklist-checkbox">✔</div>
+                  <div class="checklist-task-text">
+                    <strong>5. Campaña Mínima de 5 Formatos:</strong> Crear y maquetar las variantes de formato (Hero, fit frontal, lifestyle en calle, story vertical 9:16, y banner horizontal).
+                  </div>
+                </div>
+                <div class="checklist-task-item">
+                  <div class="checklist-checkbox">✔</div>
+                  <div class="checklist-task-text">
+                    <strong>6. Historia del Embajador de Marca:</strong> Completar la hoja de vida narrativa (nombre, origen, tesis personal, tono y contradicción secreta).
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- The Big Final Cierre Card -->
+            <div class="card-brutal" style="border-color: var(--color-purple-primary); padding: 2.2rem; background-color: var(--color-bg-dark); box-shadow: var(--shadow-brutal-white);">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-purple-light); font-size: 1.4rem; text-transform: uppercase; margin-bottom: 1rem;">
+                RECUERDA EL CIERRE DEL ENTRENAMIENTO:
+              </h3>
+              <p style="font-size: 1.15rem; font-weight: 700; line-height: 1.5; color: var(--color-white-editorial); margin-bottom: 1.5rem;">
+                La Inteligencia Artificial no decide el estilo visual de tu marca. Tú lo decides.
+              </p>
+              
+              <p style="font-size: 0.95rem; line-height: 1.6; color: rgba(244, 244, 241, 0.85); margin-bottom: 1.5rem;">
+                La IA no sabe qué modelo vende mejor tu ropa, qué luz esculpe tu joyería, ni qué historia humaniza tu feed de Instagram. La IA es solo un ejecutor técnico extremadamente veloz. La dirección de arte, el criterio y el éxito comercial siguen en manos de la persona que dirige. Ese es el verdadero poder del Casting Infinito.
+              </p>
+
+              <div style="background-color: var(--color-bg-deep); padding: 1.5rem; border-left: 4px solid var(--color-purple-primary); font-family: var(--font-mono); font-size: 0.9rem; color: var(--color-white-editorial);">
+                Visualiza. Crea. Vende. Escala sin límites visuales.
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Footer Rights -->
+        <footer style="padding: 3rem 2rem; background-color: var(--color-bg-dark); border-top: var(--border-brutal); text-align: center; font-family: var(--font-mono); font-size: 0.8rem; color: var(--color-white-editorial); opacity: 0.9;">
+          <div>MÉTODO BONUS 04: CASTING INFINITO IA</div>
+          <div style="margin-top: 0.5rem; color: var(--color-purple-light); font-weight: bold; letter-spacing: 1px;">Derechos Reservados © 2026 Start Grow Fast AI Agents.</div>
+        </footer>
+
+      </main>
+    </div>
+
+    <!-- Lightbox Zoom Modal (Interactive) -->
+    <div class="brutal-lightbox">
+      <div class="lightbox-content">
+        <span class="lightbox-close">&times;</span>
+        <img src="" alt="Zoom" class="lightbox-img">
+        <div class="lightbox-caption"></div>
+      </div>
+    </div>
+
+    <!-- Mobile Sidebar Navigation Toggle Button -->
+    <div class="mobile-nav-toggle">
+      <svg style="width: 24px; height: 24px; fill: currentColor;" viewBox="0 0 24 24">
+        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+      </svg>
+    </div>
+
+  </body>
+</html>

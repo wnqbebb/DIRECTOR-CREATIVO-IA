@@ -36,6 +36,17 @@ if (productName === 'prenda') {
   } else {
     console.error(`Post-build ERROR: Source file not found at ${srcPath}`);
   }
+} else if (productName === 'casting') {
+  console.log('Post-build: Detected PRODUCT_NAME = "casting". Overriding index.html with casting-infinito-ia.html...');
+  const srcPath = path.join('dist', 'casting-infinito-ia.html');
+  const destPath = path.join('dist', 'index.html');
+  
+  if (fs.existsSync(srcPath)) {
+    fs.copyFileSync(srcPath, destPath);
+    console.log('Post-build: Successfully copied casting-infinito-ia.html to index.html.');
+  } else {
+    console.error(`Post-build ERROR: Source file not found at ${srcPath}`);
+  }
 } else {
   console.log('Post-build: Standard build, no overrides.');
 }

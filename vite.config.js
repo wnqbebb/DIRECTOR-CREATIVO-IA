@@ -6,7 +6,8 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        director: resolve(__dirname, 'director-creativo.html')
+        director: resolve(__dirname, 'director-creativo.html'),
+        prendaCampana: resolve(__dirname, 'de-prenda-a-campana.html')
       }
     }
   }

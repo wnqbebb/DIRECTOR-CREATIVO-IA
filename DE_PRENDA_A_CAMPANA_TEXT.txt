@@ -1,0 +1,877 @@
+ENTRENAMIENTO PRINCIPAL: DE PRENDA A CAMPAÑA
+Este es el corazón del producto. Es el entrenamiento paso a paso donde la persona aprende a crear una campaña visual completa para su marca de ropa usando IA. No se vende como curso de IA. Se vende como el proceso para transformar una prenda o una idea en contenido visual profesional listo para publicar. Cuando lo desarrolles, cada lección debe terminar con algo que la persona puede hacer inmediatamente. No teoría. Acción.
+SISTEMA EDITORIAL 360 (5 Pasos)
+Paso 1: Mapa Visual de Marca. Aquí la persona aprende a mirar Pinterest, Instagram y marcas globales con ojos de directora creativa. No para copiar. Para entender qué hace que una campaña se vea profesional: poses, modelos, fondos, colores, iluminación, encuadres, actitud, texturas, composición y estilo visual.
+Paso 2: ADN Editorial. Aquí la persona define el estilo visual de su propia campaña. No es escribir prompts al azar. Es construir la identidad visual de su marca: qué tipo de modelo quiere, qué ambiente, qué energía, qué colores, qué sensación, qué tipo de cliente quiere atraer.
+Paso 3: Producción IA sin Estudio. Aquí convierte sus ideas en imágenes. Aprende a generar fotos de moda con IA sin pagar fotógrafo, sin alquilar estudio, sin buscar locaciones y sin depender de herramientas caras.
+Paso 4: Modelos IA y Rostro de Marca. Aquí aprende a crear modelos virtuales o a aparecer ella misma en sus campañas. Esto es clave porque una prenda sin cuerpo puede verse fría. Una prenda en una persona genera deseo, contexto y aspiración.
+Paso 5: Campaña Lista para Vender. Aquí convierte las imágenes en contenido útil para vender: Instagram, Facebook, WhatsApp, historias, anuncios, catálogo y lanzamientos de colecció
+PASO CERO TENER UNA PRENDA LISTA PARA SABER CUAL ES LA PRENDA QUE VAMOS A UTILZIAR PAR ALA CAMPAÑA PAA ESTE EJEMPLO HEMOS ESCOGIDO UN BUSO SNECILLO QUE ACBAO DE TOMAR DE MI FOTO 
+
+ESTE ES EL PRODUCOT DE REFENCIA QUE HE ELEGIDO 
+IMPORTANTE LA FOTO EN LA MEJRO CALDIAD POSIBEL PREFERIBELEMT EUQ ELE PRODUCOT NO ESTE ARRUGADO PORQUE LA IA LO HACE SIB ARRUGAS PERO CUANDO TU CLEITNE LO VAYA A COMPRAR SE SENTIRA ESTAFADO . 
+
+POR AMBOS LADOS AHORA EL SIGUEITNE PASO ES UNFONDO NEUTRO ASI QUE PASAMOS AL PASO DE CAMBIAR EL FONDO PARA ESO LO QUE HACEMOS ES 
+PEGAR NUESTRAS FOTOS DE REFERENCIA EN GOOGLE FLOW 
+
+ACTIVAMOS EL BOTON DE MODO AGENTE Y YA QUE COMO OS DIJE ANTES CON U PROMPR SENCILLO LO QUE HACE ELAGENTE ES OPTIMIZAR EL PROTMP OK . PARA ESTE CASO LO UNICO QUE HAGO ES DECIRLE AL AGENTE : CAMBIA EL FONFO DE CADA IMAGEN DE REFERENCIA POR UN FONDO DE COLOR BLANCO NEUTRO PARA UNA CAMPAÑA DE MODA 
+
+EL AGNTE SE COOCA A PENSAR :  Y BOOMM YA TENEMOS IMAGENES EN ESTLO EDITORIAL DE MODA CON FONDO BLANCO SIN PAGAR SIN SABER DE EDICION NI NADA 
+
+
+RESULTADO 
+
+
+AHORA SI UNA VEZ TENEMOS LA BASE PASAMOS AL SIGUIENTE PASO QUE ES EL PASO #1 .
+
+SISTEMA EDITORIAL 360 (5 Pasos)
+Paso 1: Mapa Visual de Marca. Aquí la persona aprende a mirar Pinterest, Instagram y marcas globales con ojos de directora creativa. No para copiar. Para entender qué hace que una campaña se vea profesional: poses, modelos, fondos, colores, iluminación, encuadres, actitud, texturas, composición y estilo visual.
+AQUI LO PRIEMRO QUE HACEMOS ES IR A PINTEREST 
+https://co.pinterest.com/
+
+
+
+Y BUSCAMOS TÉRMINOS CLAVE PARA NUESTRA CAMPAÑA COMO TENEMOS UNA PRENDA QUE ES UN polo de punto tejido o camisa de rugby de punto  PARA HOMBRE Y EL STILO DE ROPA STReetwear ENTONCES EN ESTE CASO BUSCO EL NMBRE DE LAS CMAPAÑS SIMIALRES PAR AISNPIRACION 
+
+1. Términos directos del producto (Qué es)
+Usa estos conceptos para encontrar el tipo exacto de prenda y ver cómo la modelan o fotografían:
+Knit polo shirt streetwear (Polo de punto para moda urbana)
+Oversized knit rugby shirt (Camisa de rugby tejida y holgada)
+Vintage striped knit polo (Polo tejido a rayas estilo vintage)
+Polo de punto hombre streetwear
+Camisa de rugby oversize
+LUEOG BUSCO EN PINTERES CADA RFERENCIA , Y LO QUE HAGO DESPUES ES USAR LA ISPRIAICON Y LAS PSOSE SUQE ME GUSTARIA VER PARA MI MARCA DE ROPA Y QUE ME GUSTAR AAPRA ESTA CAMPAÑA 
+
+EN ESTE CASO EL MAPA VISUAL ED MI AMRCA ES ESTA PARA MI EN ESTE CASO LAS QUE MAS ME GUSTAN }
+
+
+Perfecto ahora que tengo mis referencias . lo que voy hacer . es pegarlas en nuestro direto creativo de chatgpt 
+
+
+
+y luego le colocamos una indicacion muy sencilla para que alice todas las fotos. en este caos lo que le coloque fue lo sigueitne . porque tna simple ? entrene el agent epar aque tnegan el mayor de los resultados aplciando lo menos y reducir la friccion tecncia ok . entonces el rotmp utilziaod fue : Analiza cada una de las imagenes de referencia . porque las vamos a replicar todas tal cual par ami producto de rferencia que te dare despues de analizar esta campaña quiero replciar todas estas fotos tal cual peor aplicadas a mi producto asi que estudia cada imagene que vamor a replicar con nuestro producto
+
+
+luego de que el agente nos responda , lo siguiente es colocar un prompt tan sencillo coo este de aqui . 
+
+adjuntamos nuestras fotos de referencia de nuestro producto . y colocmaos este promtp : este es mi producto y quiero que me des todos los promtps , para recrear la campaña completa de cada una de las imagenes que analizamos anteriormente . las mismas pocisiones estilo y diferentes modelos . 
+
+
+y esto es lo que obtenemos 
+PROMPT 1 — Modelo + fondo madera cálido
+Fotografía editorial de moda masculina streetwear premium, modelo joven usando polo tejido oversized de manga corta con cuello, rayas horizontales azul denim y beige, textura knit gruesa, botones frontales, branding elegante en el pecho y texto central grande estilo club vintage, silueta boxy, modelo de medio cuerpo frente a pared de madera oscura, mirada hacia un lado, expresión seria y tranquila, manos cruzadas suavemente frente al abdomen, pantalón deportivo gris claro, iluminación cálida suave, estética rugby club urbano, composición vertical para Instagram, lujo casual, alta nitidez, textura visible de la prenda.
+Negativos: logos de marcas reales, texto mal escrito, manos deformes, prenda distorsionada, cuello torcido, rayas irregulares, piel artificial, fondo caótico, baja calidad.
+
+PROMPT 2 — Catálogo limpio frontal
+Fotografía lookbook streetwear premium, modelo masculino joven usando polo tejido oversized de manga corta con cuello, rayas azul denim y beige, fit boxy amplio, textura de punto visible, botones frontales, gráfico elegante central en el pecho, modelo de pie frontal mirando a cámara, expresión neutra, una mano en el bolsillo y la otra relajada, pantalón denim oscuro desgastado, fondo blanco grisáceo minimalista, luz de estudio suave, encuadre desde muslos hasta cabeza, estética limpia de marca urbana premium, imagen comercial para ecommerce e Instagram.
+Negativos: marcas reales, texto ilegible, manos deformes, ropa deformada, rayas torcidas, exceso de contraste, fondo sucio, baja resolución.
+
+PROMPT 3 — Producto solo textura premium
+Fotografía de producto premium sin modelo, polo tejido oversized de manga corta con cuello, rayas horizontales azul denim y beige, textura knit gruesa visible, botones frontales, branding frontal elegante, prenda colocada perfectamente centrada sobre fondo crema cálido, luz suave lateral, sombras naturales, enfoque en tejido, cuello, mangas amplias y caída boxy, estética artesanal vintage de club, catálogo editorial, alta calidad, composición limpia.
+Negativos: maniquí, cuerpo humano, logos reales, texto deformado, prenda arrugada en exceso, rayas desalineadas, fondo caótico, baja calidad.
+
+PROMPT 4 — Modelo mirando abajo estilo rugby
+Fotografía editorial streetwear, modelo masculino joven usando polo tejido oversized rayado azul denim y beige, cuello polo con botones, textura knit pesada, fit boxy, gráfico central elegante, modelo mirando hacia abajo con actitud relajada, una mano detrás o dentro del bolsillo, jeans claros lavados, fondo blanco limpio, iluminación de estudio suave, encuadre medio desde cintura hasta cabeza, estética rugby heritage moderna, composición minimalista, prenda protagonista.
+Negativos: logos reales, texto inventado mal escrito, manos deformes, cuello deformado, rayas rotas, prenda pegada al cuerpo, fondo recargado.
+
+PROMPT 5 — Producto frontal ecommerce
+Fotografía ecommerce premium de prenda, polo tejido oversized de manga corta con cuello, rayas horizontales azul denim y beige, botones frontales, manga amplia, silueta boxy corta, textura de punto grueso visible, branding elegante en el pecho, prenda flotando o colgada invisible perfectamente centrada sobre fondo blanco puro, vista frontal plana, luz uniforme, sombra muy suave, catálogo de moda urbana premium.
+Negativos: modelo, maniquí visible, arrugas excesivas, rayas irregulares, texto mal escrito, logos de marcas reales, baja calidad.
+
+PROMPT 6 — Lifestyle pareja
+Fotografía editorial lifestyle con pareja joven usando prendas coordinadas, ambos con polo tejido oversized de manga corta con cuello, rayas azul denim y beige, textura knit premium, fit boxy, estética rugby club vintage. Modelo masculino de espalda mostrando la parte trasera rayada de la prenda, modelo femenino al frente inclinando suavemente la cabeza hacia él, actitud íntima y relajada, jeans claros, fondo gris claro de estudio, luz suave natural, composición vertical, campaña streetwear premium para Instagram.
+Negativos: contacto incómodo, manos deformes, rostros artificiales, logos reales, texto deformado, rayas desalineadas, fondo caótico.
+
+PROMPT 7 — Collage editorial de campaña
+Collage editorial de moda premium en tres imágenes, producto principal: polo tejido oversized de manga corta con cuello, rayas azul denim y beige, textura knit gruesa, fit boxy, branding frontal elegante. Imagen superior: prenda colgada en percha sobre estructura metálica, vista frontal limpia. Imagen inferior izquierda: modelo masculino de perfil usando la prenda, mirada seria, fondo gris. Imagen inferior derecha: modelo full body usando la prenda con pantalón gris amplio y sneakers blancos, manos en bolsillos, postura relajada. Paleta azul denim, beige, gris, iluminación suave de estudio, estética campaña streetwear club premium.
+Negativos: logos reales, texto ilegible, collage desordenado, cuerpos deformes, manos deformes, prenda distorsionada, baja resolución.
+
+PROMPT 8 — Frente y espalda tipo drop limitado
+Composición de producto para lanzamiento streetwear, polo tejido oversized rayado azul denim y beige mostrado en dos vistas: vista frontal arriba con cuello, botones, branding frontal elegante y textura knit visible; vista trasera abajo mostrando rayas horizontales limpias sin gráfico grande, manga amplia, fit boxy. Fondo blanco limpio, iluminación uniforme, estética drop limitado premium, composición vertical de ecommerce editorial, alta nitidez, sombras suaves.
+Negativos: modelo, maniquí visible, rayas torcidas, texto mal escrito, logos reales, prenda deformada, baja calidad.
+
+PROMPT 9 — Ficha técnica de diseño
+Ficha técnica editorial tipo tech pack para polo tejido oversized de manga corta con cuello, rayas azul denim y beige, ilustración frontal centrada de la prenda, medidas dibujadas con flechas, anotaciones de diseño, detalles de cuello, botones, rib en mangas y bajo, textura knit, etiquetas pequeñas, muestras de color azul denim y beige, notas de fabricación, layout blanco limpio con garabatos técnicos negros, estética diseñador streetwear premium, presentación de colección, imagen cuadrada para Instagram.
+Negativos: texto ilegible excesivo, logos reales, medidas confusas, diseño saturado, prenda deformada, baja calidad.
+
+PROMPT 10 — Producto sostenido por manos fondo oscuro
+Fotografía editorial dramática de producto, polo tejido oversized de manga corta con cuello, rayas azul denim y beige, sostenido horizontalmente por dos manos desde los extremos de los hombros o mangas, solo brazos visibles entrando desde los lados, fondo azul marino oscuro casi negro, iluminación dura lateral con contraste elegante, sombras profundas, textura knit muy visible, prenda protagonista flotando en el centro, estética campaña premium streetwear, sensación de drop exclusivo.
+Negativos: manos deformes, demasiados brazos, logos reales, texto mal escrito, prenda arrugada en exceso, rayas deformadas, fondo caótico, baja calidad.
+
+Prompt extra — Mantener tu producto fiel
+Úsalo al inicio de cualquiera:
+Usar como referencia exacta un polo tejido oversized de manga corta, cuello polo beige, botones frontales, rayas horizontales azul denim y beige, textura knit gruesa, manga amplia, fit boxy corto, branding frontal elegante estilo club vintage. Mantener colores, proporciones, cuello, rayas, textura y caída de la prenda.
+Leyenda rápida
+Cambia solo estas partes: modelo, fondo, pose, pantalón, formato. No cambies: rayas azul/beige, cuello polo, textura tejida, fit boxy y manga amplia.
+una vez hecho esto lo que sigue son 2 maneras de hacerlo laprimera es la rpaida 
+
+MANERA RAPIDA COPIAR Y PEGAR 
+LO QUE HACEMOS AQUI ES IR A GOOGLE FLOW EN EL PROYECTO EN EL QUE ESTAMOS Y PRESIONAR EL BOTON DE MODO AGENTE CUANDO ESTA EN BALNCO ES PORUQE ESTA ACTIVADO . 
+
+
+LUEGO PRESIONAMOS @ Y NOS SALE UN MENU ASI 
+
+PRESIONAMOS AÑADIR A LAINSTRUCCION PARA QUE SE AGREGUE LA IMAGN DE REFERENCIA SI NO HACEMOS ESTO LA IA SE INVENTA EL PRODUCTO AS QUE HAY UE ACTIVARLO COM IMAGEN DE REFRNECIA O O LO HACEMOS APR ALAS DOS IMAGENS DE REFERNECIA LA DEL ANVERSO Y LA DEL REVERSO 
+
+AL FINAL QUEDNA LAS FOTOS REFENCIAADA SY UNA VEZ HEHO ESO PEGAMSO TODO EL TEXTO QUE NOS DIO CHATGPT CON LSO PROTMPS Y DEMAS Y EL AGENTE OSLO SE ENCARGA DE EJECUTAR CADA UNO 
+
+ LITERA COPIO Y PEGO TODO LO QUE ME DIO CHATGPT DESDE PROMTP 1 HASTA PROMP 2 
+ 
+
+COMO PODEMOS VER FUEORN 10 PROTMPS AIS QUE SE GENERAN LAS IMAGENES EN PARALELO ALMISMO TIEMPO CADA IMAGEN CON CADA PROTMP 
+
+
+
+ESTOS FUERON LOS RESULTAOS DE LA CAMPAÑA 
+
+
+HASTA AHORA TODO BIEN PEOR MIREN ESTE CASO CURIO COMO PODEMOS VER LA IA  NO ES PERFECOT Y HAY VECES GENERA ERRORES : 
+
+QUE PARA SOLUCIONARLO UTILIZAMOS LA MANERA 2 LA MANERA LENTA 
+ESTO ES UNA PRUEBA DE QUE NO TODO SALE A LA PRIEMRA EN ESTE COSO QUE PODEMOS HACER ? SENCILLO SEGUIR ITERANDO PARA ESO TENEMSO INTENTOS ILIMITADOS PARA ESTE CASO PARTICUALR LO QUE HACEMSO E SLO SIGUEINTE . 
+
+NOS PARAMOS ENCIMA DE NUESTRA FOTO : 
+Y PRESIONAMOS ESE BOTON DE REUTILIZACION 
+
+Y NOS APARECE EL PROMTP DE REUTILIZACION PARA ESTA CAMPAÑA 
+NO TENEMSO QUE ESCIBRILO DE CERO Y AIDCIONAL PARA TENER MAS VARIANES DESELECCIONAMOS EL MODO AGENTE 
+LUEGO SELECCIONAMOS EL ASPEC RATIO : Y LA CANTIDAD DE FOTOS POR OBIAS RAZONES ELEGIMOS X4 ES LO MEJOR GENERO 4 AL MISMO TIEMPO ES GRTAIS Y TENGO MAS OPCINES QUE LEGIR LUEOG 
+DESPUES DE HAY PRESIONAMOS LA FLECHITA E IMEDIATMANET ES EMEPEZARNA A GENERAR NUESTRAS PRIEMROS 4 FOTOS PARA ES EPROTMP ESPECIFITO _ 
+Y TENEMOS U RESULTADO ASI 
+
+AHORA DE ESTOS PODEMOS OBSERVAR QUE SOLO SIRVE UNO LO MAS SENILLO DE HACER NO ES COMPLCIARSE LA VIDA NI DESPERDICIAR TIEMPO CON ELLO SINO IR A CHATGPT Y PEGARLE EL PRTMP UTLIZAO Y DEICRLE QUE ESE NOESTA FUNCIOANDO QUE NO MANTIENE LA CONSISTENCIA Y SEGUNDOS DEPSUE SLE DIRECTOR TE DARA EL PROTMP OPTIMIZADO APA EL REUSLTADO SOÑADO . 
+
+AHOR ASI SIGMAOS ANALZIANDO LOS RESULTADOS . 
+
+
+
+AQUI VEMOS OTRO ERROR PER SE RESUETE CON ELMISMO PROCESO OK ASI QUE NO TE PREOCUPES POR ELLO : ES NORAL QUE PASE HAY QUE SGEUR ITERNADO  
+
+Y ESE FUE NEUSTRO PRIEMR RESULTADO 
+
+
+AHORA UN CAMPAÑA DE 30 PROMTPS 
+
+AHORA LO QUE HAREMOS ES CONTINUAR CON LO SIGUEITNE QUE ES DECIR LE A NUESTOR DIRECTOR CREATIVO EN CHATGPT 
+
+QUE ES QUEOR QUE ME DES 30 PRTMPS PARA UNA CAMPAÑA DE MODA MANTINEDO LA CONSISTENCAI DE MI PRODUCTO .QUEIR QUE SLAGAN 5 ANIALEMS CON  HUMANOS , 5 CON FONDO BLANCO 5 CON CARROS LUJOSOS Y 5 EN EDITORIAL PARA LA WEB Y OTRAS 5 PARA INSTAGRMA Y REDES SOCIALES Y UNAS ULTIMAS 5 PARA ANUNCIOS Y VENDE RLE PRODUCTO . POR UN PRECIO DE 79.900 PESOS 
+
+PARA ESTO APRVECHAMOS EL AGENTE Y TUILIZAMSO LA MANERA RAPDIA CON EL AGENTE . ACTIVADO 
+
+IMPORATANTE ANTES DE VER ESTOS RESULTADOS DEBES SABER QUE LA CLAIDAD EDPENDE MUCHISISMSO DE LAS REFERNECIAS VISUALES QUE ESCOJAS Y DE LA CREATIVIDAD QUE TNAGAS EN LA IMAGINACION . 
+
+5 prompts con animales + humanos
+1. Caballo editorial luxury club Modelo masculino joven usando polo tejido oversized de rayas azul denim y beige, cuello polo beige, botones frontales, textura knit gruesa, fit boxy premium, parado junto a un caballo marrón elegante en una finca minimalista, actitud serena, pantalón beige amplio, luz dorada de tarde, estética rugby club aristocrático, composición editorial vertical, lujo casual, alta calidad. Negativos: logos reales, texto mal escrito, manos deformes, animal deformado, prenda distorsionada.
+2. Perro grande urbano premium Modelo masculino usando el polo tejido oversized rayado azul denim y beige, caminando con un perro grande tipo dóberman o labrador negro en una calle limpia de ciudad, actitud segura, jeans claros, sneakers blancos, luz natural suave, estética streetwear premium, encuadre cuerpo completo, campaña de moda urbana. Negativos: correas deformes, manos raras, prenda distorsionada, logos reales.
+3. Gato editorial interior Modelo femenino usando el polo oversized como prenda principal, rayas azul denim y beige, textura knit visible, sentada en sofá minimalista beige con un gato elegante al lado, expresión calmada, luz de ventana, estética quiet luxury, lifestyle premium, formato vertical para campaña. Negativos: animal deformado, piel artificial, rayas torcidas, baja calidad.
+4. Caballo blanco en exterior Modelo masculino usando el polo tejido rayado azul denim y beige, parado de perfil junto a caballo blanco, fondo campestre limpio, pantalón crema, accesorios mínimos, luz suave de mañana, estética club ecuestre moderno, editorial de moda premium. Negativos: logos reales, anatomía deformada, texto ilegible, prenda mal formada.
+5. Pareja con perro en estudio Pareja joven usando styling coordinado, uno viste el polo tejido oversized rayado azul denim y beige, el otro lleva jeans y camiseta blanca, perro grande sentado entre ambos, fondo gris claro de estudio, poses relajadas, luz suave, estética campaña lifestyle streetwear premium. Negativos: manos deformes, animal extraño, exceso de filtros, fondo caótico.
+RESULTAODS 
+
+
+
+5 prompts con fondo blanco
+6. Producto frontal limpio Fotografía ecommerce premium del polo tejido oversized manga corta, rayas horizontales azul denim y beige, cuello polo beige, botones frontales, textura knit gruesa, fit boxy corto, prenda centrada sobre fondo blanco puro, vista frontal plana, sombra suave, alta nitidez, catálogo profesional. Negativos: maniquí visible, arrugas excesivas, rayas torcidas, logos reales.
+7. Producto espalda limpio Fotografía ecommerce premium vista trasera del polo tejido oversized, rayas azul denim y beige perfectamente alineadas, cuello beige, manga amplia, fit boxy, fondo blanco puro, iluminación uniforme, sombra ligera, imagen comercial de tienda online. Negativos: texto mal escrito, prenda deformada, manchas, baja calidad.
+8. Modelo frontal fondo blanco Modelo masculino joven usando el polo tejido oversized rayado azul denim y beige, parado frontal mirando a cámara, jeans oscuros amplios, mano en bolsillo, expresión neutra, fondo blanco limpio, luz de estudio suave, lookbook premium, encuadre desde muslos. Negativos: manos deformes, rayas irregulares, logos reales.
+9. Modelo femenino fondo blanco Modelo femenina usando el polo oversized rayado azul denim y beige como prenda protagonista, jeans claros tiro bajo, cabello natural, pose relajada, fondo blanco puro, luz suave editorial, estética unisex premium, imagen limpia para catálogo. Negativos: cuerpo deformado, prenda ajustada, texto ilegible, baja calidad.
+10. Detalle textura fondo blanco Macro fotografía editorial del polo tejido, enfoque en cuello beige, botones frontales, textura knit gruesa, rayas azul denim y beige, bordados frontales elegantes, fondo blanco, luz suave lateral, imagen de detalle para ecommerce premium. Negativos: texto mal escrito, costuras falsas, baja nitidez.
+
+
+
+5 prompts con carros lujosos
+11. Carro negro nocturno Modelo masculino usando polo tejido oversized rayado azul denim y beige, apoyado junto a carro lujoso negro sin logos visibles, calle nocturna elegante, luz de faros suave, jeans oscuros, actitud seria, estética street luxury, composición vertical, campaña premium. Negativos: logos de auto visibles, manos deformes, prenda distorsionada.
+12. Convertible claro lifestyle Modelo femenino usando polo oversized rayado azul denim y beige, sentada en asiento de carro convertible beige sin logos visibles, gafas oscuras, jeans claros, luz de atardecer, estética resort luxury streetwear, encuadre medio, campaña aspiracional. Negativos: logos reales, volante deformado, texto mal escrito.
+13. SUV lujo urbano Modelo masculino usando el polo tejido oversized, parado frente a SUV lujosa gris sin emblemas visibles, fondo arquitectura moderna, pantalón beige amplio, sneakers blancos, luz de mañana, estética urban club premium, foto vertical para redes. Negativos: marcas de carro, manos deformes, reflejos raros.
+14. Garaje premium Modelo joven usando polo rayado azul denim y beige, caminando en garaje minimalista con carro deportivo plateado sin logos visibles al fondo, iluminación cinematográfica, sombra elegante, pose natural, fit boxy visible, editorial streetwear de lujo. Negativos: logos reales, carro deformado, prenda torcida.
+15. Detalle producto con carro Plano medio del polo tejido oversized rayado azul denim y beige, modelo sentado en capó de carro clásico crema sin logos visibles, manos relajadas, cuello y textura visibles, luz cálida, estética vintage club, campaña de lanzamiento. Negativos: rayas deformes, manos raras, texto ilegible.
+
+
+5 prompts editorial web
+16. Hero banner web Imagen editorial horizontal 16:9 para portada web, modelo masculino joven usando EXACTAMENTE el polo tejido oversized de referencia: rayas horizontales azul denim y beige, cuello polo beige, cuatro botones frontales oscuros, manga corta amplia, fit boxy corto, textura knit gruesa, logos bordados en pecho superior y lettering grande “Cartier” al frente, mantener la prenda frontal perfectamente visible y fiel. Modelo de pie en estudio beige cálido, mirada fuera de cámara, pose relajada, pantalón crema amplio, composición con espacio negativo elegante a la derecha para titulares, luz suave premium, estética rugby club vintage luxury, alta nitidez, campaña web de moda. Negativos: cambiar diseño del polo, borrar lettering frontal, rayas incorrectas, logos inventados diferentes, prenda deformada, cuello incorrecto, botones ausentes, baja calidad.
+
+17. Banner pareja web Imagen horizontal 16:9 para banner web, pareja joven con styling denim y beige, el modelo principal usando EXACTAMENTE el polo tejido oversized de referencia en vista frontal completa, rayas azul denim y beige, cuello beige, botones frontales, textura knit, lettering grande “Cartier” visible al frente, logos superiores y etiqueta inferior visibles. La segunda persona viste jeans claros y top básico crema, ambos en estudio gris cálido, pose cercana pero elegante, composición limpia con espacio lateral para copy, luz editorial suave, estética unisex premium club vintage. Negativos: ocultar frente del polo, cambiar colores, texto mal escrito, rayas torcidas, manos deformes, logos reales de otras marcas.
+18. Editorial detalle web Fotografía horizontal macro editorial para sección web de calidad, primer plano del polo tejido de referencia sobre mesa crema, enfoque en cuello polo beige, cuatro botones oscuros, rayas azul denim y beige, textura knit gruesa, bordados superiores y lettering “Cartier” parcialmente visible pero limpio, manos acomodando suavemente el cuello y el pecho de la prenda, luz lateral suave, sombras premium, estética artesanal luxury streetwear. Negativos: texto deformado, botones incorrectos, manos deformes, textura plástica, cambiar rayas, baja nitidez.
+19. Lookbook web full body Imagen horizontal lookbook web, modelo masculino full body usando EXACTAMENTE el polo tejido oversized de referencia, frente completamente visible, lettering grande “Cartier” claro, rayas azul denim y beige, cuello beige, botones frontales, manga amplia, fit boxy. Pantalón crema ancho, sneakers blancos, fondo beige minimalista, modelo caminando lentamente hacia cámara, actitud seria y segura, luz de estudio suave, estética club heritage moderno, fotografía premium para ecommerce editorial. Negativos: prenda ajustada, ocultar diseño frontal, cambiar lettering, rayas desalineadas, proporciones raras, logos de otras marcas.
+20. Portada colección web Fotografía editorial horizontal 16:9 para portada de colección, tres modelos diversos en styling premium azul denim, beige y blanco; modelo central usando EXACTAMENTE el polo tejido oversized de referencia en vista frontal, lettering “Cartier” visible, cuello beige, botones, rayas horizontales azul denim y beige, textura knit gruesa. Los modelos laterales usan prendas neutras que no compiten, fondo blanco cálido, actitud segura, composición limpia con espacio superior para título web, estética rugby club vintage premium. Negativos: tapar el polo, cambiar diseño frontal, texto defectuoso, logos de marcas externas, manos deformes, fondo saturado.
+
+
+5 prompts Instagram y redes
+21. Reel cover vertical Foto vertical 9:16 para portada de reel, modelo masculino joven caminando hacia cámara usando EXACTAMENTE el polo tejido oversized de referencia, frente totalmente visible, rayas azul denim y beige, cuello beige, cuatro botones, lettering grande “Cartier”, logos bordados superiores, textura knit realista, fit boxy. Jeans claros anchos, sneakers blancos, calle limpia con arquitectura minimalista, luz natural suave, actitud segura, espacio superior para frase corta, estética streetwear premium aspiracional. Negativos: texto mal escrito en la prenda, cambiar colores, tapar el frente, manos deformes, movimiento borroso, baja calidad.
+22. Story espejo editorial Story vertical 9:16 estilo espejo premium, modelo masculino usando EXACTAMENTE el polo tejido oversized de referencia, parte frontal visible en el reflejo, lettering “Cartier” claro, rayas azul denim y beige, cuello beige, botones, textura knit gruesa. Habitación minimalista beige, celular sin logo visible, pose casual segura, flash suave controlado, estética real pero editorial, jeans oscuros, composición limpia para story de marca. Negativos: celular deformado, tapar el logo frontal, texto ilegible, rayas torcidas, cuarto desordenado, piel artificial.
+23. Carrusel slide producto Imagen vertical 4:5 para carrusel Instagram, polo tejido oversized de referencia colgado en percha de madera premium, vista frontal exacta, rayas horizontales azul denim y beige, cuello polo beige, cuatro botones, lettering grande “Cartier”, logos bordados superiores, etiqueta inferior visible, textura knit gruesa, fondo crema cálido, luz suave lateral, sombra elegante, estética drop premium. Negativos: cambiar lettering, borrar logos, rayas mal alineadas, arrugas excesivas, percha barata, baja resolución.
+24. Lifestyle calle premium Foto vertical 4:5, modelo masculino sentado en escalones de concreto limpio usando EXACTAMENTE el polo tejido oversized de referencia, frente visible, lettering “Cartier” completo, rayas azul denim y beige, cuello beige, botones frontales, manga amplia, fit boxy. Jeans claros anchos, gafas oscuras, sneakers blancos, luz dorada de tarde, actitud relajada, estética urbana premium club vintage, composición aspiracional para Instagram. Negativos: fondo caótico, tapar el frente del polo, texto deformado, manos deformes, prenda distorsionada.
+25. UGC premium cafetería Foto vertical 4:5 estilo contenido orgánico premium, modelo joven usando EXACTAMENTE el polo tejido oversized de referencia sentado en cafetería minimalista, frente del polo visible, lettering “Cartier” claro, rayas azul denim y beige, cuello beige, botones y textura knit realista. Café en mano, jeans oscuros, luz natural de ventana, ambiente beige y madera, estética aspiracional cercana pero de marca premium. Negativos: logos de cafetería, tapar lettering, texto mal escrito, manos deformes, fondo sucio, baja calidad.
+5 prompts para anuncios y venta — $79.900
+26. Anuncio precio limpio Anuncio publicitario vertical 4:5 premium, modelo masculino frontal usando EXACTAMENTE el polo tejido oversized de referencia, frente perfectamente visible, lettering grande “Cartier”, rayas azul denim y beige, cuello beige, cuatro botones, textura knit gruesa, fit boxy. Fondo blanco cálido, luz suave de estudio, composición limpia. Generar texto elegante integrado en la imagen con tipografía serif premium y sans minimalista: “POLO TEJIDO OVERSIZED” arriba, “$79.900” grande y elegante abajo, “DROP LIMITADO” pequeño. Estética luxury streetwear accesible. Negativos: texto mal escrito, precio incorrecto, cambiar prenda, logos de otras marcas, manos deformes, baja calidad.
+27. Anuncio urgencia drop Imagen publicitaria vertical 9:16 estilo drop limitado, modelo usando EXACTAMENTE el polo tejido oversized de referencia, frente visible y protagonista, lettering “Cartier”, rayas azul denim y beige, cuello beige, botones, textura knit. Fondo gris oscuro premium, luz dramática lateral, mirada seria. Generar texto elegante en la imagen: “NUEVO DROP” en serif fina, “POLO TEJIDO” en mayúsculas, “$79.900” destacado, “UNIDADES LIMITADAS” pequeño. Composición de anuncio streetwear premium. Negativos: precio mal escrito, texto torcido, ocultar frente del polo, rayas incorrectas, logos externos.
+28. Anuncio ecommerce conversion Anuncio cuadrado 1:1 para ecommerce, producto frontal del polo tejido oversized de referencia sobre fondo blanco puro, vista frontal exacta, rayas azul denim y beige, cuello beige, cuatro botones, logos superiores, lettering grande “Cartier”, etiqueta inferior visible, textura knit nítida, sombra suave. Generar texto comercial elegante alrededor sin tapar la prenda: “POLO TEJIDO OVERSIZED”, “TEXTURA PREMIUM”, “$79.900”, “COMPRA HOY”. Tipografía limpia, premium, legible, azul marino y beige. Negativos: tapar producto, texto mal escrito, precio incorrecto, maniquí visible, rayas torcidas, baja calidad.
+29. Anuncio lifestyle precio valor Anuncio vertical 4:5 lifestyle premium, modelo masculino caminando en zona urbana elegante usando EXACTAMENTE el polo tejido oversized de referencia, frente visible, lettering “Cartier” claro, rayas azul denim y beige, cuello beige, botones, manga amplia, fit boxy. Pantalón beige, sneakers blancos, luz de atardecer, estética prenda costosa a precio alcanzable. Generar texto elegante en la imagen: “ESTILO PREMIUM” arriba, “POLO TEJIDO OVERSIZED” medio lateral, “$79.900” grande, “DISPONIBLE AHORA” pequeño. Negativos: texto ilegible, ocultar diseño frontal, logos de marcas reales, manos deformes, fondo caótico.
+30. Anuncio WhatsApp ventas Imagen cuadrada 1:1 para WhatsApp e Instagram ads, polo tejido oversized de referencia doblado parcialmente pero con parte frontal visible: rayas azul denim y beige, cuello beige, botones, textura knit y lettering “Cartier” reconocible. Fondo crema con luz cálida, composición premium, etiqueta minimalista sin marca externa. Generar texto elegante dentro de la imagen: “POLO TEJIDO OVERSIZED”, “$79.900”, “PIDE EL TUYO POR WHATSAPP”, “TALLAS DISPONIBLES”. Tipografía serif elegante combinada con sans minimalista, color azul marino. Negativos: precio incorrecto, texto mal escrito, tapar prenda, logos externos, baja resolución.
+Copy corregido para anuncios
+POLO TEJIDO OVERSIZED Rayas azul denim + beige. Textura premium. Fit boxy. Estilo club vintage.
+$79.900 Pídelo por WhatsApp.
+
+
+
+COMO PODEMOS OBSERVAR E SUN PROESO DE ITTERACION 
+
+
+
+NO SALE BIEN NI PERFECTO A LA PRIMERA ASI QUE HAY QUE ITERARHASAT ENCOTNRA RLE ANGULO GANADOR . 
+
+DESDE CERO . 
+
+PASO 2: ADN EDITORIAL
+Define la identidad visual de tu campaña antes de generar imágenes
+Aquí no vamos a escribir prompts al azar.
+El error de la mayoría de marcas pequeñas es abrir una herramienta de IA y escribir algo como:
+“Hazme una foto profesional de mi camiseta.”
+Y por eso el resultado sale genérico, raro o sin fuerza.
+Una campaña visual no nace del prompt. Nace de una dirección creativa clara.
+Antes de generar fotos, debes decidir cómo quieres que se vea tu marca, qué sensación debe transmitir tu prenda y qué tipo de cliente quieres atraer.
+En este paso vamos a construir el ADN Editorial de la campaña.
+El ADN Editorial es una guía visual sencilla que le dice a la IA:
+“Mi marca no se ve de cualquier manera. Mi marca tiene este estilo, esta energía, estos colores, estos modelos, estos fondos y esta intención.”
+Para este ejemplo, vamos a trabajar con el polo tejido oversized azul denim y beige.
+La prenda tiene una estética muy clara: mezcla de rugby club, streetwear premium, estilo vintage, textura tejida, silueta boxy y sensación de prenda de colección.
+Entonces no tendría sentido ponerla en una playa tropical con colores neón o en un fondo futurista cyberpunk.
+La prenda pide otro universo visual.
+Pide algo más limpio, más editorial, más club vintage, más aspiracional, más premium.
+
+2.1. Qué es el ADN Editorial
+El ADN Editorial es la personalidad visual de tu campaña.
+No es solamente decir “quiero algo bonito”.
+Es definir con claridad:
+Qué tipo de modelo va a usar la prenda. Qué ambiente rodea al producto. Qué colores dominan la campaña. Qué emoción debe sentir la persona al ver la imagen. Qué tipo de cliente se debe imaginar usando esa prenda. Qué estilo de marca quieres proyectar.
+En nuestro caso, el ADN Editorial del polo sería algo así:
+Producto: polo tejido oversized de manga corta. Colores principales: azul denim, beige, blanco cálido, gris claro, crema. Estética: rugby club vintage, streetwear premium, lookbook editorial. Sensación: prenda cómoda, costosa, relajada, urbana y aspiracional. Cliente ideal: joven que quiere verse bien sin parecer demasiado producido. Energía: tranquila, segura, limpia, premium, con actitud. Ambientes: estudio beige, fondo blanco, cafetería minimalista, calle limpia, garaje premium, arquitectura moderna. Modelos: hombres y mujeres jóvenes, estilo natural, actitud seria o relajada, nada exagerado. Iluminación: suave, editorial, natural, sin sombras duras innecesarias. Composición: limpia, con la prenda siempre protagonista.
+Esto es lo que hace que la campaña tenga coherencia.
+Si una imagen parece de catálogo barato, otra parece de lujo europeo, otra parece de gimnasio y otra parece de fiesta, la marca se rompe visualmente.
+El ADN Editorial evita eso.
+
+2.2. La pregunta clave antes de generar cualquier imagen
+Antes de abrir la IA, la persona debe responder esto:
+¿Qué quiero que piense mi cliente cuando vea esta prenda?
+No es lo mismo que piense:
+“Se ve barato.”
+A que piense:
+“Esto parece de marca grande.”
+“Esto se ve premium.”
+“Esto se ve cómodo.”
+“Esto se ve como algo que podría usar para salir.”
+“Esto parece una prenda de colección.”
+Para este polo, la sensación que buscamos es:
+“Parece una prenda premium de club vintage, pero usable para la calle.”
+Esa frase es importante porque dirige toda la campaña.
+No estamos vendiendo solo un polo.
+Estamos vendiendo una imagen:
+Un hombre o una mujer joven que se ve relajado, limpio, con estilo, sin esfuerzo. Una prenda que parece más costosa de lo que vale. Una marca que se siente cuidada, coherente y aspiracional.
+
+2.3. Define el territorio visual de la marca
+El territorio visual es el mundo donde vive tu campaña.
+Para este polo podemos escoger uno de estos territorios:
+Territorio 1: Rugby Club Premium
+Este territorio usa fondos beige, madera, clubes antiguos, caballos, arquitectura clásica, pantalones crema, luz cálida y poses tranquilas.
+Sirve para que la prenda se vea más elegante, más aspiracional y más costosa.
+Ejemplo de dirección:
+“Quiero que mi polo parezca parte de una colección inspirada en clubes de rugby antiguos, con estética premium, colores cálidos y actitud relajada.”
+
+Territorio 2: Streetwear Limpio
+Este territorio usa calles minimalistas, paredes blancas, concreto limpio, jeans anchos, sneakers blancos, poses naturales y modelos jóvenes.
+Sirve para vender la prenda como algo usable en el día a día, pero con mejor estética que una foto normal de tienda.
+Ejemplo de dirección:
+“Quiero que mi polo se vea urbano, moderno, fácil de usar, pero con una estética premium.”
+
+Territorio 3: Lookbook Editorial
+Este territorio usa fondos de estudio, poses cuidadas, luz suave, modelos serios y composición limpia.
+Sirve para catálogo, ecommerce, Instagram y marca personal.
+Ejemplo de dirección:
+“Quiero imágenes limpias donde la prenda sea la protagonista, como si fueran fotos de campaña de una marca de moda.”
+
+Territorio 4: Lifestyle Aspiracional
+Este territorio usa cafeterías, carros, parejas, perros, espacios bonitos y situaciones cotidianas elevadas.
+Sirve para que el cliente no solo vea la prenda, sino que se imagine usándola.
+Ejemplo de dirección:
+“Quiero que mi cliente vea la imagen y piense: así me quiero ver yo.”
+
+2.4. Elige el tipo de modelo
+Una prenda sola informa. Una prenda en una persona vende.
+Para este polo, podemos definir modelos así:
+Modelo masculino principal: joven de 22 a 30 años, estilo urbano limpio, cabello natural, actitud relajada, expresión seria o tranquila, cuerpo normal, no demasiado musculoso, no demasiado perfecto.
+Modelo femenino alternativo: joven de 22 a 30 años, usa el polo oversized como prenda protagonista, jeans claros, cabello natural, actitud calmada, estética unisex premium.
+Pareja editorial: dos personas con styling en denim, beige y blanco, cercanas pero sin verse forzadas, estilo campaña lifestyle.
+La clave es que el modelo no robe protagonismo.
+El modelo debe elevar la prenda.
+
+2.5. Elige la energía de la campaña
+La energía es la actitud visual.
+Para este producto no queremos una energía gritona, exagerada o demasiado comercial.
+Queremos una energía:
+Relajada. Segura. Premium. Limpia. Urbana. Vintage. Aspiracional. Unisex.
+Eso significa que las poses deben ser naturales:
+Manos en bolsillos. Mirada fuera de cámara. Caminando. Sentado en escalones limpios. Apoyado contra una pared. Sosteniendo café. De pie en estudio. Mirando hacia abajo. Interactuando con otra persona o con un perro.
+No queremos poses demasiado forzadas como modelo de pasarela exagerado, brazos raros o sonrisas falsas.
+
+2.6. Define la paleta visual
+La paleta no es solo el color de la prenda.
+Es todo lo que rodea la imagen.
+Para este polo, la paleta ideal sería:
+Azul denim. Beige. Crema. Blanco cálido. Gris claro. Madera oscura. Negro suave para contraste. Dorado cálido si queremos sensación más premium.
+Esto ayuda a que toda la campaña se vea conectada.
+Si el polo es azul y beige, pero lo metemos en fondos rojos, verdes neón o morados fuertes, la prenda pierde elegancia.
+
+2.7. Define las reglas visuales de la campaña
+Antes de generar, dejamos reglas claras.
+Para este producto:
+No cambiar las rayas azul denim y beige. No cambiar el cuello beige. No cambiar la silueta boxy. No hacer la prenda ajustada al cuerpo. No eliminar la textura tejida. No cambiar el largo de manga. No deformar los botones. No ocultar el frente de la prenda en imágenes de venta. No usar logos reales de otras marcas. No usar fondos caóticos. No usar modelos demasiado artificiales. No generar texto dentro de la imagen si después lo vamos a poner mejor en Canva, Photoshop o editor.
+Muy importante: si el texto frontal o nombre de marca no pertenece legalmente a la persona, debe cambiarlo por su propia marca antes de vender. En el entrenamiento puedes tratarlo como “marca de ejemplo” o “lettering frontal”, no como una marca registrada ajena.
+
+2.8. Plantilla para que el alumno cree su ADN Editorial
+La persona debe llenar esto:
+Mi producto es: Ejemplo: polo tejido oversized azul denim y beige.
+Mi prenda se debe sentir como: Ejemplo: premium, relajada, urbana, vintage, aspiracional.
+Mi cliente ideal es: Ejemplo: joven que quiere verse bien sin usar ropa demasiado llamativa.
+Mi campaña debe parecer: Ejemplo: una colección streetwear premium inspirada en rugby club vintage.
+Mis colores principales son: Ejemplo: azul denim, beige, crema, blanco cálido y gris.
+Mis fondos ideales son: Ejemplo: estudio beige, fondo blanco, calle limpia, cafetería minimalista, pared de madera, garaje premium.
+Mis modelos deben verse: Ejemplo: naturales, jóvenes, seguros, relajados, con estilo urbano limpio.
+Mis poses deben ser: Ejemplo: manos en bolsillos, caminando, mirando fuera de cámara, sentado, apoyado en pared.
+La prenda nunca debe perder: Ejemplo: rayas, cuello, textura tejida, fit oversized, manga amplia y color original.
+
+2.9. Prompt para crear el ADN Editorial con ChatGPT
+El alumno puede pegar esto:
+Actúa como director creativo de moda.
+Voy a crear una campaña visual con IA para esta prenda: [describe la prenda o adjunta la imagen].
+
+Necesito que me construyas el ADN Editorial de la campaña.
+
+Quiero que definas:
+1. Estética visual principal.
+2. Tipo de cliente que debe atraer.
+3. Sensación que debe transmitir.
+4. Tipo de modelos ideales.
+5. Fondos y locaciones recomendadas.
+6. Paleta de colores.
+7. Tipo de iluminación.
+8. Poses recomendadas.
+9. Reglas para mantener la prenda consistente.
+10. Errores que debo evitar al generar imágenes con IA.
+
+Hazlo de manera clara, directa y aplicable a una campaña de moda.
+
+Resultado final del Paso 2
+Al terminar este paso, la persona no tiene solo una idea suelta.
+Tiene una dirección visual.
+Tiene claro cómo debe verse su campaña.
+Tiene una guía para que todas las imágenes parezcan de la misma marca.
+Y eso cambia todo.
+Porque cuando la IA recibe una dirección clara, deja de improvisar y empieza a trabajar como parte de una campaña.
+
+PASO 3: PRODUCCIÓN IA SIN ESTUDIO
+Convierte tu prenda en fotos de campaña sin fotógrafo, sin locación y sin estudio
+Aquí es donde la idea se convierte en imagen.
+Ya tenemos la prenda. Ya tenemos el mapa visual. Ya tenemos el ADN Editorial.
+Ahora vamos a producir.
+Este paso se llama Producción IA sin Estudio porque la persona aprende a crear imágenes de moda sin tener que pagar fotógrafo, modelo, locación, editor, estudio o equipo profesional.
+No significa que la IA sea magia perfecta.
+Significa que vamos a usar un proceso para generar, revisar, corregir e iterar hasta tener imágenes útiles para vender.
+
+3.1. Antes de generar: prepara bien la prenda
+La calidad de la campaña empieza antes del prompt.
+Si la foto de referencia es mala, la IA va a trabajar con información mala.
+Para este ejemplo usamos dos fotos del polo:
+Vista frontal. Vista trasera.
+Eso es ideal porque la IA entiende mejor:
+La forma de la prenda. El cuello. Las mangas. Las rayas. La textura. El fit boxy. El diseño frontal. La espalda limpia. La caída general.
+La recomendación para el alumno es:
+Tomar la foto con buena luz. Usar fondo limpio. Evitar sombras fuertes. No subir la prenda demasiado arrugada. Tomar una foto frontal y otra trasera. No usar fotos borrosas. No tapar partes importantes de la prenda. No usar fotos con filtros.
+Una prenda arrugada puede parecer más real, pero si está demasiado mal presentada, la IA puede copiar errores o deformar la prenda.
+Y al contrario: si la IA deja la prenda demasiado perfecta, pero el producto real llega completamente diferente, el cliente puede sentirse engañado.
+Por eso la referencia debe ser buena, pero honesta.
+
+3.2. Limpieza inicial: fondo blanco neutro
+Antes de meter la prenda en campañas complejas, conviene tener una versión limpia.
+La primera producción debe ser sencilla:
+Producto frontal en fondo blanco. Producto trasero en fondo blanco. Producto con buena iluminación. Sin modelo. Sin fondos complicados. Sin texto innecesario.
+Esto sirve como base.
+Para hacerlo, el alumno puede subir las fotos a la herramienta de IA y escribir:
+Cambia el fondo de cada imagen de referencia por un fondo blanco neutro para una campaña de moda. Mantén la prenda exactamente igual: mismos colores, mismas rayas, mismo cuello, misma textura, misma forma y mismas proporciones. No cambies el diseño del producto.
+Con esto ya obtiene imágenes más limpias para catálogo, ecommerce o referencia principal.
+
+3.3. Prompt base de consistencia del producto
+Este prompt debe ir al inicio de casi todas las generaciones.
+Es como una “ancla” para que la IA no invente otra prenda.
+Usar como referencia exacta un polo tejido oversized de manga corta, cuello polo beige, botones frontales oscuros, rayas horizontales azul denim y beige, textura knit gruesa, manga amplia, fit boxy corto y estética rugby club vintage. Mantener colores, proporciones, cuello, rayas, textura, caída y estructura de la prenda. No cambiar el diseño del producto.
+Después de esa base se agrega la escena.
+Por ejemplo:
+Usar como referencia exacta un polo tejido oversized de manga corta, cuello polo beige, botones frontales oscuros, rayas horizontales azul denim y beige, textura knit gruesa, manga amplia, fit boxy corto y estética rugby club vintage. Mantener colores, proporciones, cuello, rayas, textura, caída y estructura de la prenda. No cambiar el diseño del producto.
+
+Fotografía editorial de moda masculina streetwear premium, modelo joven usando la prenda, fondo beige minimalista, pantalón crema amplio, mirada fuera de cámara, pose relajada, iluminación suave de estudio, composición limpia, estética rugby club moderno, alta nitidez.
+
+3.4. Producción rápida: generar varias imágenes en paralelo
+La manera rápida sirve cuando ya tienes prompts preparados.
+El proceso es:
+Subes las imágenes de referencia del producto. Activas el modo agente o el sistema que permita usar referencias. Agregas la imagen frontal y trasera como referencia. Pegas varios prompts de campaña. Generas varias imágenes al mismo tiempo. Luego eliges las mejores.
+Esta manera es perfecta para crear volumen rápido.
+Por ejemplo, puedes pedir:
+5 imágenes de producto limpio. 5 imágenes con modelo. 5 imágenes lifestyle. 5 imágenes web. 5 imágenes Instagram. 5 imágenes para anuncios.
+Así en vez de quedarte pensando imagen por imagen, produces una campaña completa y después seleccionas.
+
+3.5. Producción lenta: corregir lo que no salió bien
+La IA no siempre respeta todo.
+Puede cambiar las rayas. Puede deformar el cuello. Puede inventar texto raro. Puede borrar botones. Puede hacer la prenda demasiado ajustada. Puede dañar manos. Puede cambiar la textura. Puede crear logos falsos. Puede hacer que el polo parezca otra prenda.
+Esto es normal.
+No significa que el proceso falló.
+Significa que hay que iterar.
+La manera lenta es esta:
+Tomas la imagen que casi funciona. Reutilizas el prompt. Le dices qué salió mal. Refuerzas las reglas de consistencia. Generas 4 variaciones. Escoges la mejor. Repites si hace falta.
+Ejemplo de corrección:
+El resultado anterior no mantuvo bien la prenda. Corrige la generación manteniendo exactamente el polo de referencia: mismas rayas azul denim y beige, mismo cuello beige, mismos botones frontales, misma manga amplia, misma textura knit y mismo fit boxy. No inventes otra prenda. No cambies la distribución de las rayas. El modelo debe usar el polo de frente y la prenda debe verse completa.
+
+3.6. Tipos de imágenes que debe producir la campaña
+Una campaña útil no puede tener solo fotos bonitas.
+Necesita imágenes para diferentes usos.
+Para este producto, mínimo deberíamos producir:
+1. Fotos de catálogo
+Sirven para mostrar el producto claro.
+Frontal. Trasera. Detalle de textura. Detalle del cuello. Producto doblado. Producto colgado.
+2. Fotos con modelo
+Sirven para que el cliente entienda cómo queda puesta la prenda.
+Modelo frontal. Modelo caminando. Modelo sentado. Modelo mirando abajo. Modelo en fondo blanco. Modelo en ambiente urbano.
+3. Fotos lifestyle
+Sirven para vender deseo y contexto.
+Cafetería. Calle limpia. Pareja. Perro. Carro. Garaje premium. Interior minimalista.
+4. Fotos para web
+Sirven para banners y secciones de tienda.
+Hero banner horizontal. Detalle de textura horizontal. Lookbook horizontal. Pareja horizontal. Portada de colección.
+5. Fotos para redes
+Sirven para Instagram, reels, stories y carruseles.
+Portada de reel 9:16. Carrusel 4:5. Story espejo. Foto tipo UGC premium. Close-up del producto.
+6. Fotos para anuncios
+Sirven para vender directamente.
+Imagen con precio. Imagen con beneficio. Imagen con urgencia. Imagen para WhatsApp. Imagen de drop limitado.
+
+3.7. Prompt para pedir una campaña completa de 30 imágenes
+El alumno puede usar este prompt:
+Actúa como director creativo de moda y generador de prompts para campañas visuales con IA.
+
+Voy a darte una prenda de referencia. Quiero que me crees una campaña completa de 30 imágenes manteniendo la consistencia del producto.
+
+Producto:
+Polo tejido oversized de manga corta, cuello polo beige, botones frontales oscuros, rayas horizontales azul denim y beige, textura knit gruesa, manga amplia, fit boxy corto, estética rugby club vintage streetwear premium.
+
+Quiero que dividas la campaña así:
+
+5 imágenes de producto limpio para catálogo.
+5 imágenes con modelos en fondo blanco.
+5 imágenes lifestyle con animales o pareja.
+5 imágenes con carros o ambientes premium.
+5 imágenes editoriales para web en formato horizontal.
+5 imágenes para Instagram, anuncios y venta.
+
+Cada prompt debe incluir:
+- Descripción exacta del producto.
+- Modelo o escena.
+- Fondo o ambiente.
+- Pose.
+- Iluminación.
+- Formato recomendado.
+- Estética.
+- Negativos para evitar errores.
+
+Muy importante:
+La IA debe mantener la prenda fiel al producto original. No cambiar rayas, cuello, textura, colores, botones, silueta ni fit oversized.
+
+3.8. Control de calidad de cada imagen
+Después de generar, no se publica todo.
+Se revisa.
+Cada imagen debe pasar este filtro:
+¿La prenda se parece al producto real? ¿Los colores siguen siendo azul denim y beige? ¿Las rayas están bien ubicadas? ¿El cuello se ve correcto? ¿El fit sigue siendo oversized? ¿La textura parece tejida? ¿El modelo se ve natural? ¿Las manos están bien? ¿El fondo ayuda o distrae? ¿La imagen sirve para vender? ¿La imagen se siente de la misma marca que las demás?
+Si una imagen es bonita pero no vende, se descarta.
+Si una imagen es bonita pero cambia el producto, se descarta.
+Si una imagen es casi perfecta pero tiene un error pequeño, se itera.
+
+3.9. Resultado final del Paso 3
+Al terminar este paso, la persona debe tener un primer banco visual de campaña.
+No una imagen suelta.
+Un banco.
+Por ejemplo:
+10 imágenes buenas. 15 imágenes aceptables. 5 imágenes para corregir. Varias ideas nuevas para seguir produciendo.
+Y lo más importante:
+Ya no depende de tener un estudio.
+Tiene un sistema para producir contenido visual de moda desde una prenda real.
+
+PASO 4: MODELOS IA Y ROSTRO DE MARCA
+Haz que tu prenda cobre vida en personas reales, virtuales o en ti mismo
+Una prenda sola puede verse bonita.
+Pero una prenda en una persona genera deseo.
+El cliente no compra únicamente tela. Compra cómo cree que se va a ver usando esa prenda.
+Por eso este paso es clave.
+Aquí vamos a convertir el producto en una campaña con cuerpo, actitud y rostro.
+
+4.1. Por qué los modelos importan tanto
+Cuando muestras el polo solo en fondo blanco, el cliente entiende el diseño.
+Pero cuando lo ve en un modelo, entiende el estilo.
+Ve cómo cae. Ve cómo combina. Ve qué energía transmite. Ve qué tipo de persona lo usaría. Ve si es para salir, para una cita, para la calle, para fotos o para el día a día.
+El modelo ayuda a vender el contexto.
+En este ejemplo, el polo tejido oversized no debería verse como una prenda aburrida de catálogo.
+Debe verse como una pieza de estilo.
+Por eso necesitamos modelos que transmitan:
+Confianza. Relajación. Estilo urbano. Naturalidad. Aspiración. Sensación premium.
+
+4.2. Tres formas de trabajar modelos con IA
+Forma 1: Modelos virtuales creados desde cero
+Aquí la persona no usa fotos propias.
+Simplemente le pide a la IA un modelo que encaje con la marca.
+Ejemplo:
+Modelo masculino joven de 24 a 28 años, estilo urbano limpio, cabello oscuro natural, rostro realista, expresión tranquila, cuerpo promedio, actitud segura, usando polo tejido oversized azul denim y beige, jeans claros amplios y sneakers blancos, estética streetwear premium.
+Esta opción sirve para marcas que quieren producir campañas sin contratar modelos.
+
+Forma 2: Modelos de marca repetibles
+Aquí no queremos un modelo diferente en cada foto.
+Queremos crear un rostro que se repita, como si fuera parte de la identidad de la marca.
+Para eso se define una ficha fija.
+Ejemplo:
+Modelo masculino principal: Edad: 25 años. Cabello: castaño oscuro, natural, ligeramente ondulado. Piel: realista, textura natural. Estilo: urbano premium. Actitud: serio, tranquilo, seguro. Ropa complementaria: jeans claros, pantalón crema, sneakers blancos. Energía: modelo de lookbook editorial, no influencer exagerado.
+Prompt base:
+Mantener el mismo modelo masculino principal en todas las imágenes: joven de 25 años, cabello castaño oscuro ligeramente ondulado, rostro realista, piel natural, expresión tranquila, actitud segura, estilo urbano premium. Debe usar el polo tejido oversized azul denim y beige de referencia. Mantener coherencia facial, proporciones naturales y estética editorial.
+
+Forma 3: La persona como rostro de su propia marca
+Esta es una opción poderosa para emprendedores, marcas personales o dueños de marca.
+La persona puede aparecer usando su propia prenda.
+Esto genera más cercanía.
+Pero hay una regla importante:
+Solo se debe usar la imagen propia o la imagen de alguien que haya dado permiso.
+No se deben clonar rostros de personas sin autorización.
+Para este caso, el alumno podría usar varias fotos propias:
+Frontal. Perfil. Medio cuerpo. Sonriendo. Serio. Con buena luz.
+Y pedir:
+Usar a la persona de referencia como modelo principal de la campaña. Mantener su identidad facial, rasgos naturales, tono de piel, cabello y proporciones. Vestirla con el polo tejido oversized azul denim y beige de referencia. Crear una fotografía editorial de moda urbana premium, fondo beige minimalista, pose relajada, luz suave, estética lookbook.
+
+4.3. Cómo crear un “rostro de marca”
+Un rostro de marca no es solo una cara bonita.
+Es una persona que representa el estilo de la marca.
+Para este polo, el rostro de marca debe sentirse como alguien que usaría la prenda de verdad.
+No demasiado formal. No demasiado deportivo. No demasiado perfecto. No demasiado artificial.
+La dirección ideal sería:
+“Una persona joven, limpia, segura, con estilo urbano premium, que parece usar ropa buena sin esforzarse demasiado.”
+Ese es el efecto.
+
+4.4. Banco de modelos recomendado para esta campaña
+Para una campaña completa de este polo, podemos crear 4 perfiles:
+Modelo 1: Masculino streetwear premium
+Uso: lookbook, anuncios, web, catálogo. Energía: segura, limpia, aspiracional. Styling: jeans claros, pantalón crema, sneakers blancos.
+Modelo 2: Femenino unisex editorial
+Uso: mostrar que la prenda también puede ser unisex. Energía: calmada, sofisticada, natural. Styling: jeans claros, pelo natural, accesorios mínimos.
+Modelo 3: Pareja lifestyle
+Uso: Instagram, web, carruseles, campañas aspiracionales. Energía: cercanía, deseo, estilo compartido. Styling: denim, beige, blanco, prendas coordinadas.
+Modelo 4: Dueño o cliente real
+Uso: contenido orgánico, historias, WhatsApp, prueba social. Energía: confianza, cercanía, autenticidad. Styling: más real, menos editorial, pero cuidado.
+
+4.5. Prompts de modelos para este producto
+Prompt modelo masculino principal
+Fotografía editorial de moda masculina streetwear premium. Modelo masculino joven de 25 años, rostro realista, piel natural, cabello oscuro ligeramente ondulado, expresión tranquila y segura. Usa exactamente el polo tejido oversized de referencia: rayas horizontales azul denim y beige, cuello polo beige, botones frontales, textura knit gruesa, manga amplia y fit boxy corto. Combinar con jeans claros anchos y sneakers blancos. Fondo beige minimalista, luz suave de estudio, composición limpia, estética rugby club vintage urbano.
+Negativos: piel artificial, manos deformes, cambiar la prenda, rayas torcidas, logos externos, pose exagerada, fondo caótico.
+Prompt modelo femenino unisex
+Fotografía editorial unisex premium. Modelo femenina joven usando el polo tejido oversized de referencia como prenda protagonista, rayas azul denim y beige, cuello beige, botones frontales, textura knit visible, fit boxy amplio. Jeans claros, cabello natural, accesorios mínimos, expresión calmada, fondo blanco cálido, luz suave editorial, estética quiet luxury streetwear.
+Negativos: prenda ajustada, rayas deformadas, piel plástica, manos raras, cambiar colores, fondo saturado.
+Prompt pareja lifestyle
+Fotografía lifestyle editorial con pareja joven. Uno de los modelos usa exactamente el polo tejido oversized de referencia, vista frontal clara, rayas azul denim y beige, cuello beige, botones frontales, textura knit gruesa, manga amplia y fit boxy. La otra persona lleva styling neutro en denim, blanco y beige. Ambos en estudio gris cálido, pose cercana pero natural, actitud relajada, luz suave, estética campaña premium unisex.
+Negativos: contacto incómodo, manos deformes, ocultar la prenda, cambiar colores, texto deformado, fondo caótico.
+Prompt rostro propio
+Usar a la persona de referencia como modelo principal de una campaña de moda. Mantener su identidad facial, rasgos naturales, cabello, piel y proporciones. Vestirla con el polo tejido oversized de referencia: rayas azul denim y beige, cuello polo beige, botones frontales, textura knit gruesa, manga amplia y fit boxy corto. Crear una fotografía editorial premium en fondo beige minimalista, pose relajada, mirada fuera de cámara, luz suave, estética streetwear limpio y aspiracional.
+Negativos: cambiar el rostro, piel artificial, deformar manos, cambiar la prenda, alterar colores, rayas incorrectas, fondo caótico.
+
+4.6. Cómo mantener consistencia del modelo
+La IA puede cambiar el rostro entre imágenes.
+Para evitarlo, se repite siempre la misma ficha.
+Ejemplo:
+Mantener el mismo modelo en todas las imágenes: hombre joven de 25 años, cabello oscuro ondulado, rostro ovalado, piel natural, expresión tranquila, estilo urbano premium. Misma identidad facial, misma edad aparente, misma energía, sin cambios bruscos de rostro.
+Y si una imagen sale bien, se reutiliza como referencia para las siguientes.
+La consistencia se construye con tres cosas:
+Buena referencia. Descripción repetida. Corrección constante.
+
+4.7. Resultado final del Paso 4
+Al terminar este paso, la persona debe tener:
+Un modelo principal de marca. Un modelo secundario. Una versión lifestyle o pareja. Opcionalmente, una versión con su propio rostro. Varias imágenes donde la prenda ya no se ve fría, sino deseable.
+Aquí la campaña empieza a sentirse real.
+Ya no es solo un producto.
+Es una historia visual.
+
+PASO 5: CAMPAÑA LISTA PARA VENDER
+Convierte las imágenes en contenido para Instagram, WhatsApp, anuncios, catálogo y lanzamiento
+Este es el paso donde muchos fallan.
+Crean imágenes bonitas, pero no saben qué hacer con ellas.
+Una imagen bonita no siempre vende.
+Para vender, necesitamos convertir esas imágenes en piezas concretas:
+Post. Historia. Anuncio. Catálogo. Banner web. Mensaje de WhatsApp. Carrusel. Lanzamiento. Contenido de prueba social. Contenido de deseo. Contenido de oferta.
+Aquí convertimos la campaña visual en sistema de venta.
+
+5.1. Primero: separar las imágenes por función
+No todas las imágenes sirven para lo mismo.
+Una imagen limpia de producto sirve para catálogo.
+Una imagen con modelo sirve para Instagram.
+Una imagen con precio sirve para anuncio.
+Una imagen horizontal sirve para web.
+Una imagen lifestyle sirve para deseo.
+Una imagen de detalle sirve para justificar calidad.
+Entonces lo primero es organizar.
+Para este polo:
+Carpeta 1: Producto
+Frente. Espalda. Detalle textura. Detalle cuello. Producto doblado. Producto colgado.
+Uso: catálogo, ecommerce, WhatsApp, carrusel.
+Carpeta 2: Modelo
+Modelo frontal. Modelo caminando. Modelo sentado. Modelo fondo blanco. Modelo urbano.
+Uso: Instagram, anuncios, portada de reel, lookbook.
+Carpeta 3: Lifestyle
+Pareja. Cafetería. Perro. Carro. Calle. Garaje.
+Uso: deseo, marca, aspiración, contenido orgánico.
+Carpeta 4: Web
+Hero banner. Portada colección. Detalle horizontal. Lookbook horizontal.
+Uso: página web, landing, banners.
+Carpeta 5: Venta
+Imagen con precio. Imagen con beneficio. Imagen con urgencia. Imagen para WhatsApp. Imagen cuadrada para ads.
+Uso: campañas de conversión.
+
+5.2. Define el mensaje principal de venta
+La campaña no puede decir 20 cosas diferentes.
+Debe tener un mensaje central.
+Para este polo, el mensaje podría ser:
+Polo tejido oversized con estética premium, textura gruesa y fit boxy. Estilo club vintage para elevar cualquier outfit.
+Más directo para venta:
+Polo tejido oversized. Rayas azul denim + beige. Textura premium. Fit boxy. Estilo club vintage.
+Si el precio es $79.900, el ángulo sería:
+Estilo premium sin pagar precio premium.
+O:
+Una prenda que parece de colección, lista para usar en la calle.
+
+5.3. Beneficios que se deben comunicar
+No vendemos solo características.
+Características:
+Rayas azul denim y beige. Tejido grueso. Cuello polo. Fit oversized. Manga amplia. Estilo vintage.
+Beneficios:
+Se ve más premium. Combina fácil. Da presencia sin esfuerzo. Sirve para outfits casuales o más cuidados. Tiene una silueta moderna. No parece una camiseta básica más. Hace que el outfit se vea pensado.
+Texto para usar:
+No es otro polo básico. Es una prenda con textura, peso visual y silueta boxy para que tu outfit se vea más premium sin complicarte.
+
+5.4. Estructura de campaña para Instagram
+Para Instagram no se publica todo igual.
+Puedes armar una mini campaña de 7 días.
+Día 1: Teaser
+Imagen: detalle de textura o cuello. Copy:
+Textura, peso y silueta.
+Nuevo drop en camino.
+Día 2: Producto completo
+Imagen: polo frontal limpio. Copy:
+Polo tejido oversized.
+Rayas azul denim + beige.
+Fit boxy. Manga amplia. Estética club vintage.
+Día 3: Modelo usando la prenda
+Imagen: modelo frontal o caminando. Copy:
+Así se ve puesto.
+Una prenda fácil de combinar, pero con presencia.
+Día 4: Lifestyle
+Imagen: cafetería, calle o pareja. Copy:
+Para salir, para fotos, para elevar un outfit simple.
+El tipo de prenda que hace que todo se vea más pensado.
+Día 5: Detalle de calidad
+Imagen: macro textura. Copy:
+Textura knit visible.
+Cuello polo.
+Rayas azul denim y beige.
+Una pieza con estética premium desde el primer vistazo.
+Día 6: Oferta
+Imagen: anuncio con precio. Copy:
+Polo tejido oversized.
+Disponible por $79.900.
+Unidades limitadas.
+Pídelo por WhatsApp.
+Día 7: Cierre
+Imagen: mejor foto con modelo. Copy:
+Últimas unidades del drop.
+Si quieres una prenda diferente sin complicarte el outfit, esta es.
+Escríbenos por WhatsApp y separa la tuya.
+
+5.5. Secuencia de historias para vender
+Las historias deben ser rápidas.
+No explican todo.
+Llevan a la acción.
+Historia 1: Deseo
+Imagen: modelo usando el polo.
+Texto:
+Nuevo polo tejido oversized.
+Estética club vintage.
+Historia 2: Detalle
+Imagen: textura o cuello.
+Texto:
+Textura premium.
+Rayas azul denim + beige.
+Fit boxy.
+Historia 3: Cómo se ve puesto
+Imagen: full body.
+Texto:
+Así queda puesto.
+Oversized, cómodo y fácil de combinar.
+Historia 4: Precio
+Imagen: producto limpio.
+Texto:
+Disponible por $79.900.
+Unidades limitadas.
+Historia 5: CTA
+Imagen: lifestyle o producto doblado.
+Texto:
+Pide el tuyo por WhatsApp.
+Tallas disponibles.
+
+5.6. Carrusel de Instagram listo
+Carrusel recomendado de 6 slides:
+Slide 1
+Foto más potente con modelo.
+Texto:
+POLO TEJIDO OVERSIZED
+Slide 2
+Producto frontal.
+Texto:
+Rayas azul denim + beige.
+Slide 3
+Detalle textura.
+Texto:
+Textura knit premium.
+Slide 4
+Modelo full body.
+Texto:
+Fit boxy.
+Manga amplia.
+Caída relajada.
+Slide 5
+Lifestyle.
+Texto:
+Estilo club vintage para la calle.
+Slide 6
+Producto + precio.
+Texto:
+$79.900
+Pídelo por WhatsApp.
+
+5.7. Anuncios para Facebook e Instagram
+Para anuncios, no necesitamos ser poéticos.
+Necesitamos claridad.
+Anuncio 1: Producto directo
+Imagen: modelo frontal fondo limpio.
+Copy:
+Polo tejido oversized con textura premium, fit boxy y estética club vintage.
+
+Rayas azul denim + beige.
+Disponible por $79.900.
+
+Pídelo hoy por WhatsApp.
+Anuncio 2: Ángulo de estilo
+Imagen: lifestyle urbano.
+Copy:
+Eleva tu outfit sin complicarte.
+
+Este polo tejido oversized combina textura, caída amplia y un estilo premium fácil de usar.
+
+Disponible por $79.900.
+Escríbenos por WhatsApp.
+Anuncio 3: Drop limitado
+Imagen: fondo oscuro o estudio premium.
+Copy:
+Nuevo drop disponible.
+
+Polo tejido oversized.
+Textura premium.
+Fit boxy.
+Rayas azul denim + beige.
+
+Unidades limitadas por $79.900.
+Pide el tuyo por WhatsApp.
+
+5.8. Mensaje para WhatsApp
+Cuando alguien pregunte, no responder seco.
+Usar un mensaje de venta claro:
+Hola, claro 🙌
+
+Tenemos disponible el polo tejido oversized en rayas azul denim + beige.
+
+Es una prenda con textura premium, fit boxy, manga amplia y estética club vintage. Queda perfecta para outfits casuales, urbanos y más producidos.
+
+Precio: $79.900
+
+¿Quieres que te envíe tallas disponibles y fotos de cómo queda puesto?
+Si pregunta por precio:
+El polo está en $79.900.
+
+Es tejido, oversized, con textura gruesa y fit boxy. No es un polo básico liso; tiene más presencia y se ve mucho más premium puesto.
+
+¿Te paso las tallas disponibles?
+Si dice “lo pienso”:
+Dale, sin problema 🙌
+
+Solo te aviso que es drop limitado y algunas tallas se pueden agotar rápido.
+
+Te puedo enviar una foto de cómo queda puesto para que lo mires mejor.
+
+5.9. Catálogo básico de producto
+Para catálogo o WhatsApp, la ficha debe verse así:
+POLO TEJIDO OVERSIZED
+
+Color: Azul denim + beige
+Fit: Oversized / boxy
+Detalle: Cuello polo, botones frontales, textura knit
+Estilo: Club vintage / streetwear premium
+Precio: $79.900
+Disponibilidad: Unidades limitadas
+
+Ideal para outfits casuales, urbanos y looks con más presencia.
+
+5.10. Landing o sección web
+Para web, necesitas estas piezas:
+Hero principal
+Imagen horizontal 16:9 con modelo usando el polo y espacio negativo para texto.
+Texto:
+POLO TEJIDO OVERSIZED
+
+Textura premium. Fit boxy. Estética club vintage.
+Botón:
+Comprar ahora
+Sección de detalle
+Imagen macro de textura.
+Texto:
+Una prenda con peso visual, textura tejida y una silueta amplia pensada para elevar outfits simples.
+Sección cómo queda
+Imagen full body.
+Texto:
+Oversized sin verse descuidado.
+Amplio, cómodo y con estructura.
+Sección de cierre
+Imagen producto frontal.
+Texto:
+Disponible por $79.900.
+Unidades limitadas.
+Botón:
+Pedir por WhatsApp
+
+5.11. Regla importante: no dependas del texto generado por IA
+La IA puede crear imágenes muy buenas, pero todavía puede fallar escribiendo texto dentro de la imagen.
+Puede escribir mal el precio. Puede deformar palabras. Puede inventar letras. Puede hacer textos poco legibles.
+Para anuncios finales, lo más limpio es:
+Generar la imagen sin texto. Exportarla en buena calidad. Agregar el texto en Canva, Photoshop o editor. Usar tipografías limpias. No tapar la prenda. Mantener diseño premium.
+Esto hace que la campaña se vea mucho más profesional.
+
+5.12. Checklist final antes de publicar
+Antes de lanzar la campaña, revisa:
+¿Tengo foto frontal del producto? ¿Tengo foto trasera? ¿Tengo detalle de textura? ¿Tengo mínimo 3 fotos con modelo? ¿Tengo mínimo 2 fotos lifestyle? ¿Tengo imágenes verticales para Instagram? ¿Tengo imágenes cuadradas para anuncios? ¿Tengo imágenes horizontales para web? ¿Tengo copy de venta? ¿Tengo precio claro? ¿Tengo CTA a WhatsApp? ¿Las imágenes mantienen la prenda fiel al producto real? ¿Todo se ve como una misma marca?
+Si la respuesta es sí, ya tienes campaña.
+
+CIERRE DEL ENTRENAMIENTO
+Al final, la persona debe entender esto:
+No necesita ser experta en IA.
+Necesita un proceso.
+El proceso es:
+Primero define la prenda. Después limpia la referencia. Luego estudia campañas visuales. Después construye su ADN Editorial. Luego genera imágenes con intención. Después crea modelos y rostro de marca. Y finalmente convierte todo en contenido para vender.
+Eso es lo que transforma una prenda común en una campaña visual.
+No es “hacer imágenes con IA”.
+Es construir una marca que se ve mejor, vende mejor y compite visualmente con negocios mucho más grandes.
+

@@ -1,0 +1,637 @@
+[0] P: BONUS 3: TÚ COMO ROSTRO DE MARCA
+
+[1] P: Crea tu versión IA para aparecer en tus campañas sin posar durante horas
+
+[2] P: Una marca sin rostro puede vender.Pero una marca con rostro puede conectar.
+
+[3] P: Este bonus enseña a crear una versión IA de la persona detrás de la marca para que pueda aparecer en campañas, anuncios, banners, editoriales, lanzamientos y contenido visual sin depender siempre de sesiones de fotos, fotógrafos, estudios o modelos externos.
+
+[4] P: La idea no es crear una versión falsa de ti.La idea es crear una versión editorial, profesional y consistente de tu imagen para usarla como activo visual de marca.
+
+[5] P: Este bonus es ideal para fundadoras de marcas de ropa, creadoras, diseñadoras, emprendedoras o dueñas de negocio que quieren que su marca tenga más presencia, confianza y personalidad.
+
+[6] P: 
+
+[7] P: ¿Qué vas a lograr con este bonus?
+
+[8] P: Al terminar este bonus, vas a tener un sistema para:
+
+[9] P: Crear una versión IA de ti usando fotos simples tomadas con celular.
+
+[10] P: Mantener tu rostro consistente en diferentes imágenes.
+
+[11] P: Aparecer en campañas sin repetir sesiones de fotos cada semana.
+
+[12] P: Crear fotos tuyas en estudio, calle, editorial, backstage o lifestyle.
+
+[13] P: Cambiar outfits, fondos, iluminación y escenas sin perder identidad.
+
+[14] P: Usarte como modelo, fundadora, directora creativa o rostro principal de tu marca.
+
+[15] P: Crear contenido más emocional y más humano para vender con conexión.
+
+[16] P: 
+
+[17] P: MÓDULO 1: Por qué tu rostro puede cambiar la percepción de tu marca
+
+[18] P: Muchas marcas pequeñas venden solo mostrando prendas.
+
+[19] P: Fotos del producto.Fotos del perchero.Fotos sobre fondo blanco.Fotos sin historia.
+
+[20] P: Eso puede funcionar, pero tiene un límite.
+
+[21] P: Cuando una marca empieza a mostrar un rostro, aparece algo más fuerte: confianza, cercanía, aspiración y conexión.
+
+[22] P: La gente no solo compra ropa.Compra una historia, una energía, una identidad, una sensación.
+
+[23] P: Cuando tú apareces como rostro de marca, tu negocio deja de verse como “una tienda más” y empieza a sentirse como una marca con mundo propio.
+
+[24] P: No necesitas convertirte en influencer.No necesitas grabarte todos los días.No necesitas posar durante horas.
+
+[25] P: Solo necesitas crear una base visual consistente de ti y aprender a usarla con IA.
+
+[26] P: 
+
+[27] P: MÓDULO 2: La sesión base con celular
+
+[28] P: Antes de usar IA, necesitas crear tu material base.
+
+[29] P: No necesitas cámara profesional.No necesitas estudio.No necesitas fotógrafo.
+
+[30] P: Solo necesitas un celular, buena luz y fotos claras.
+
+[31] P: Fotos que debes tomar
+
+[32] P: Toma entre 10 y 15 fotos tuyas con el celular.
+
+[33] P: 1. Rostro frontal
+
+[34] P: Mira directo a cámara.Cara relajada.Luz natural.Sin filtros.Sin maquillaje exagerado.Sin lentes de sol.Sin sombras fuertes.
+
+[35] P: Esta foto será la base principal de tu identidad.
+
+[36] P: 2. Rostro en ángulo ¾
+
+[37] P: Gira ligeramente el rostro hacia un lado.No exageres la pose.La IA necesita entender tu estructura facial desde otro ángulo.
+
+[38] P: 3. Perfil lateral
+
+[39] P: Toma una foto de lado.Esto ayuda a mantener nariz, mandíbula, frente, mentón y proporciones.
+
+[40] P: 4. Expresiones
+
+[41] P: Toma fotos con expresiones diferentes:
+
+[42] P: Sonrisa leve.
+
+[43] P: Mirada seria.
+
+[44] P: Risa natural.
+
+[45] P: Expresión segura.
+
+[46] P: Expresión pensativa.
+
+[47] P: No hagas gestos extremos al principio.Primero necesitamos identidad clara.
+
+[48] P: 5. Medio cuerpo
+
+[49] P: Foto desde la cintura hacia arriba.
+
+[50] P: Esto ayuda a que la IA entienda:
+
+[51] P: Cuello.
+
+[52] P: Hombros.
+
+[53] P: Postura.
+
+[54] P: Proporción del torso.
+
+[55] P: Forma general del cuerpo.
+
+[56] P: 6. Cuerpo completo
+
+[57] P: Foto de pies a cabeza.
+
+[58] P: Esto ayuda a mantener:
+
+[59] P: Altura visual.
+
+[60] P: Proporción de piernas.
+
+[61] P: Silueta.
+
+[62] P: Postura general.
+
+[63] P: Forma de caminar o posar.
+
+[64] P: 
+
+[65] P: MÓDULO 3: Reglas para que tus fotos funcionen bien
+
+[66] P: La IA no puede hacer magia si le das malas referencias.
+
+[67] P: Tus fotos deben ser limpias, claras y simples.
+
+[68] P: Reglas importantes
+
+[69] P: Usa luz natural.Evita sombras duras.No uses filtros de Instagram.No uses fotos borrosas.No uses fotos con mucha edición.No uses fotos donde el rostro esté tapado.No uses gafas oscuras.No uses poses demasiado raras.No uses fondos con demasiado ruido visual.
+
+[70] P: La foto no tiene que ser bonita.Tiene que ser útil.
+
+[71] P: Primero creamos identidad.Después creamos estética.
+
+[72] P: 
+
+[73] P: MÓDULO 4: Crear tu Rostro Ancla
+
+[74] P: El Rostro Ancla es la imagen neutral que va a bloquear tu identidad.
+
+[75] P: No es una foto de campaña.No es una foto artística.No es una foto bonita.
+
+[76] P: Es una imagen limpia, frontal y clara de tu rostro.
+
+[77] P: Esta imagen será la referencia principal para que la IA entienda quién eres.
+
+[78] P: Prompt para crear tu Rostro Ancla
+
+[79] P: Sube tu mejor foto frontal y usa este prompt:
+
+[80] P: Prompt:
+
+[81] P: Crea una versión limpia y frontal de esta misma persona, como una foto de referencia de identidad. Mantén exactamente la misma estructura facial, tono de piel, forma de ojos, nariz, labios, mandíbula, cejas, textura de piel, proporciones y rasgos principales. La persona debe mirar al frente, con expresión neutral, iluminación natural y fondo simple. No embellezcas el rostro, no cambies la edad, no cambies el peinado, no cambies la forma de la cara, no cambies la identidad. Solo corrige la imagen para que sea una referencia clara, simétrica, natural y útil para mantener consistencia en futuras imágenes.
+
+[82] P: 
+
+[83] P: MÓDULO 5: Crear tu Kit de Identidad IA
+
+[84] P: El Kit de Identidad IA es el conjunto de imágenes que usarás para mantener tu rostro consistente.
+
+[85] P: No vamos a depender de una sola foto.Una sola foto no es suficiente.
+
+[86] P: La IA necesita entender tu rostro, tus ángulos, tus expresiones y tu cuerpo.
+
+[87] P: Tu kit debe tener mínimo 4 imágenes
+
+[88] P: 1. Rostro Ancla
+
+[89] P: Imagen frontal, limpia y neutral.
+
+[90] P: 2. Perfil o ángulo ¾
+
+[91] P: Sirve para mantener estructura facial en poses laterales.
+
+[92] P: 3. Expresión
+
+[93] P: Sirve para que la IA pueda crear emoción sin deformar tu cara.
+
+[94] P: 4. Medio cuerpo o cuerpo completo
+
+[95] P: Sirve para mantener proporciones, postura y silueta.
+
+[96] P: 
+
+[97] P: Prompt para crear ángulo ¾
+
+[98] P: Usa tu Rostro Ancla como referencia y escribe:
+
+[99] P: Crea esta misma persona en un ángulo ¾ natural. Mantén la identidad exactamente igual: estructura facial, ojos, nariz, labios, cejas, piel, proporciones, edad visual y forma del rostro. No cambies el estilo, no embellezcas, no alteres el peinado y no modifiques la personalidad visual. Solo cambia el ángulo de cámara para que el rostro se vea desde una perspectiva ¾ limpia y realista.
+
+[100] P: 
+
+[101] P: Prompt para crear expresión segura
+
+[102] P: Usa tu Rostro Ancla como referencia y escribe:
+
+[103] P: Crea esta misma persona con una expresión segura, elegante y natural. Mantén la identidad exactamente igual: rostro, piel, ojos, nariz, labios, cejas, edad visual, estructura ósea y proporciones. La expresión debe transmitir confianza de marca, presencia editorial y seguridad, sin verse exagerada. No cambies el peinado, no cambies la cara, no suavices demasiado la piel y no conviertas a la persona en otra.
+
+[104] P: 
+
+[105] P: Prompt para crear medio cuerpo
+
+[106] P: Usa tus fotos de rostro y medio cuerpo como referencia y escribe:
+
+[107] P: Crea una imagen de medio cuerpo de esta misma persona. Mantén exactamente la misma identidad facial, tono de piel, estructura del rostro, proporciones corporales, cuello, hombros y postura natural. La imagen debe funcionar como referencia corporal para futuras campañas de moda. Fondo simple, luz natural, ropa neutra, sin estilo artístico exagerado. No cambies el cuerpo, no cambies la edad, no cambies el rostro y no modifiques la esencia de la persona.
+
+[108] P: 
+
+[109] P: MÓDULO 6: Cómo usar tu Kit de Identidad en Google Flow / Nano Banana
+
+[110] P: Cuando ya tienes tu Kit de Identidad, no empiezas desde cero cada vez.
+
+[111] P: Ese es el error.
+
+[112] P: La clave es reutilizar siempre las mismas referencias.
+
+[113] P: Cada vez que quieras crear una campaña, sube tu Kit de Identidad y dile a la IA que esa persona es la identidad fija.
+
+[114] P: Prompt base de bloqueo de identidad
+
+[115] P: Usa este prompt antes de crear escenas:
+
+[116] P: Usa estas imágenes como referencia fija de identidad. Esta persona debe mantenerse igual en todas las imágenes. No cambies su estructura facial, tono de piel, proporciones, edad visual, ojos, nariz, labios, mandíbula, cejas, textura de piel, cuerpo ni esencia. Puedes cambiar ropa, escenario, iluminación, pose y estilo visual, pero la identidad debe permanecer consistente.
+
+[117] P: 
+
+[118] P: MÓDULO 7: Crear campañas donde tú eres el rostro de la marca
+
+[119] P: Ahora viene la parte potente.
+
+[120] P: Ya no estás generando “fotos tuyas al azar”.Estás creando campañas visuales.
+
+[121] P: Cada imagen debe tener intención.
+
+[122] P: Antes de pedirle algo a la IA, define 5 cosas:
+
+[123] P: Qué prenda vas a mostrar.
+
+[124] P: Qué energía quieres transmitir.
+
+[125] P: Dónde ocurre la escena.
+
+[126] P: Qué rol cumples tú en la imagen.
+
+[127] P: Para qué formato se usará la imagen.
+
+[128] P: 
+
+[129] P: Roles que puedes representar en tus campañas
+
+[130] P: Puedes aparecer como:
+
+[131] P: Fundadora de la marca.
+
+[132] P: Modelo principal.
+
+[133] P: Directora creativa.
+
+[134] P: Cliente ideal.
+
+[135] P: Persona usando la prenda en su vida real.
+
+[136] P: Figura editorial de la marca.
+
+[137] P: Rostro de lanzamiento.
+
+[138] P: Protagonista de una campaña seasonal.
+
+[139] P: Creadora detrás del proceso.
+
+[140] P: Esto hace que tu marca se sienta más humana, más cercana y más memorable.
+
+[141] P: 
+
+[142] P: MÓDULO 8: Prompts listos para usar
+
+[143] P: Prompt 1: Fundadora editorial
+
+[144] P: Coloca a esta persona como fundadora de una marca de moda en una imagen editorial premium. Debe estar usando una prenda de la marca con actitud segura, elegante y natural. Mantén su identidad exactamente igual usando las referencias proporcionadas. Escena minimalista, luz suave, composición limpia, estética de campaña de moda contemporánea. La imagen debe transmitir autoridad, creatividad y confianza. No cambies el rostro, no cambies la edad, no alteres proporciones corporales y no generes texto en la imagen.
+
+[145] P: 
+
+[146] P: Prompt 2: Campaña lifestyle
+
+[147] P: Coloca a esta persona en una escena lifestyle usando una prenda de la marca. Debe verse natural, real y aspiracional, como parte de una campaña para redes sociales. Mantén identidad 1:1 según las referencias. Cambia solo el entorno, la ropa, la iluminación y la pose. La imagen debe sentirse cercana, moderna y vendible. No cambies el rostro, no cambies la piel, no cambies el cuerpo y no agregues texto.
+
+[148] P: 
+
+[149] P: Prompt 3: Directora creativa de la marca
+
+[150] P: Crea una imagen editorial de esta persona como directora creativa de su propia marca de ropa. Debe aparecer en un espacio de trabajo visual, revisando prendas, referencias, moodboards o piezas de colección. Mantén su identidad igual a las imágenes de referencia. La escena debe transmitir estrategia, visión, creatividad y marca premium. Estética moderna, composición fuerte, luz editorial, sin texto generado, sin logos falsos y sin alterar el rostro.
+
+[151] P: 
+
+[152] P: Prompt 4: Banner web con rostro de marca
+
+[153] P: Crea una imagen horizontal 16:9 para banner web. Coloca a esta persona como rostro principal de la marca, usando una prenda protagonista. Mantén identidad exacta según las referencias. Deja espacio negativo en un lado de la imagen para colocar texto en diseño web. Estética editorial premium, fondo limpio, iluminación profesional, pose segura y natural. No agregues texto dentro de la imagen, no cambies el rostro y no deformes manos ni cuerpo.
+
+[154] P: 
+
+[155] P: Prompt 5: Anuncio para lanzamiento
+
+[156] P: Crea una imagen vertical 9:16 para anuncio de lanzamiento de marca de ropa. La persona debe aparecer usando la prenda principal con actitud segura, moderna y aspiracional. Mantén identidad exacta según las referencias. La imagen debe sentirse como una campaña real de moda, lista para usarse en Instagram Stories, Reels o anuncios. Fondo limpio, styling cuidado, luz atractiva y composición de alto impacto. No agregues texto, no cambies la cara y no conviertas a la persona en otra.
+
+[157] P: 
+
+[158] P: MÓDULO 9: Cómo evitar que la IA te cambie la cara
+
+[159] P: La IA puede fallar.
+
+[160] P: A veces te cambia la nariz.A veces te cambia la edad.A veces te hace demasiado perfecta.A veces te convierte en otra persona.
+
+[161] P: Por eso debes revisar cada imagen antes de usarla.
+
+[162] P: Checklist de consistencia
+
+[163] P: Antes de aprobar una imagen, revisa:
+
+[164] P: ¿Los ojos se parecen?
+
+[165] P: ¿La nariz mantiene la misma forma?
+
+[166] P: ¿La boca sigue siendo la tuya?
+
+[167] P: ¿La mandíbula cambió demasiado?
+
+[168] P: ¿La piel se ve demasiado plástica?
+
+[169] P: ¿La edad visual se mantuvo?
+
+[170] P: ¿El cuerpo se ve coherente?
+
+[171] P: ¿La expresión sigue siendo natural?
+
+[172] P: ¿La imagen parece una campaña real?
+
+[173] P: ¿La persona todavía se siente como tú?
+
+[174] P: Si una imagen se ve bonita pero ya no pareces tú, no sirve.
+
+[175] P: La consistencia vale más que una imagen espectacular sin identidad.
+
+[176] P: 
+
+[177] P: MÓDULO 10: Corrección cuando la identidad se pierde
+
+[178] P: Si la IA empieza a cambiarte, no sigas generando al azar.
+
+[179] P: Corrige con instrucciones claras.
+
+[180] P: Prompt de corrección
+
+[181] P: La imagen perdió consistencia facial. Corrige el resultado para que la persona vuelva a parecerse a las imágenes de referencia. Mantén la escena, ropa, iluminación y composición, pero restaura la identidad original: ojos, nariz, labios, mandíbula, piel, cejas, edad visual, proporciones faciales y expresión natural. No embellezcas, no suavices de más, no cambies el rostro y no alteres la estructura facial.
+
+[182] P: 
+
+[183] P: MÓDULO 11: Banco visual de rostro de marca
+
+[184] P: Cuando ya tengas imágenes buenas, no las uses solo una vez.
+
+[185] P: Crea un banco visual.
+
+[186] P: Organízalo por categorías:
+
+[187] P: Rostro de marca.
+
+[188] P: Fundadora.
+
+[189] P: Lifestyle.
+
+[190] P: Campaña producto.
+
+[191] P: Banner web.
+
+[192] P: Anuncios.
+
+[193] P: Backstage.
+
+[194] P: Lanzamientos.
+
+[195] P: Editorial premium.
+
+[196] P: Contenido para historias.
+
+[197] P: Así puedes reutilizar tu imagen en diferentes partes del negocio sin tener que empezar desde cero cada vez.
+
+[198] P: 
+
+[199] P: Resultado final del bonus
+
+[200] P: Al terminar este bonus, la persona no solo tendrá fotos bonitas.
+
+[201] P: Tendrá un sistema para convertirse en el rostro visual de su marca.
+
+[202] P: Una vez creado su Kit de Identidad IA, podrá generar campañas donde aparece ella misma usando sus prendas, presentando lanzamientos, protagonizando banners, creando anuncios y construyendo una marca más humana, más reconocible y más emocional.
+
+[203] P: Porque una marca sin rostro puede vender.Pero una marca con rostro puede conectar, quedarse en la mente y construir confianza.
+
+[204] P: 
+
+[205] P: Personaje ficticio Skai — character consistency: nano banana pro 🍌 Starter Pack
+
+[206] P: For humans tired of AI not giving a fck about their character’s consistency* 🤓
+
+[207] P: 
+      IMAGES: image13.png
+
+[208] P: be bold. push the limits of your character’s expressions
+
+[209] P: Nano Banana Pro can reason, edit and preserve details with surgical precision — but only if you give it a stable anchor ⚓
+
+[210] P: 1. Start with the Anchor Face
+
+[211] P: 
+      IMAGES: image12.png
+
+[212] P: I’m going to use this guy here from my last video as my Origin Image
+
+[213] P: Ok, so that was the starting point for me.
+
+[214] P: This is a guy I created for my last video, and I am going to use it to test Nano Banana Pro.
+
+[215] P: You might think the first step is to just upload this image and generate endless variations in different places with one click, right?
+
+[216] P: Not exactly :)
+
+[217] P: I mean, you could potentially do that yes but if you’re aiming for real consistency and quality across edits, the model needs a bit more guidance from you.
+
+[218] P: This Origin Image represents the vibe, expression, look and energy of my character at their best.
+
+[219] P: But it’s not the most neutral image, and it’s not strong enough to lock identity. What we need to extract from it first is a clean Anchor Face image that will lock his identity.
+
+[220] P: **Upload your Origin Image → ask Nano Banana Pro to create your Anchor Face ****
+
+[221] P: 
+      IMAGES: image7.png
+
+[222] P: Turn Origin Image into Anchor Face (prompt is below, under Identity Kit)
+
+[223] P: Anchor Face Rules
+
+[224] P: Create 1 Anchor reference with:
+
+[225] P: Neutral lighting
+
+[226] P: Clear facial structure
+
+[227] P: Zero distortion
+
+[228] P: No artistic filters
+
+[229] P: Keep it factual. Avoid those in your prompt:
+
+[230] P: random adjectives
+
+[231] P: cinematic magic dust
+
+[232] P: vibe words
+
+[233] P: vague features
+
+[234] P: <aside> 🥷🏼
+
+[235] P: Why it works
+
+[236] P: The model preserves fine detail shockingly well in editing mode and multi-image merging mode. It maintains facial identity even across major edits (hair, lighting, outfits) when a clean reference is given.
+
+[237] P: But yeah, you need your reference. Make a good one lol
+
+[238] P: If the face is unclear, the entire pipeline collapses
+
+[239] P: </aside>
+
+[240] P: 2. Build the Identity Kit
+
+[241] P: Nano Banana Pro loves multi-image identity anchoring (this is why it can maintain 10+ celebrities in one shot)
+
+[242] P: So let’s create ours. You only need 3 images to start with, **I’ve built those from my Origin Image above. First the Anchor Face - then Profile and Expression Variants - using those specific prompts:
+
+[243] P: 1- Anchor Face (neutral)
+
+[244] P: PROMPT: Recreate this same person in a *completely front-facing* , straight-on angle — like a passport photo. Do NOT rotate the head. Do NOT tilt the chin. Keep all identity markers identical: freckles, pore texture, skin tone, bone structure, nose shape, lip shape, eye shape, hairline, and proportions. Do NOT change expression, hairstyle, lighting, or style. Only correct the camera angle to a perfect straight-on, symmetrical view while preserving the exact identity 1:1
+
+[245] P: 
+      IMAGES: image6.png
+
+[246] P: 2- Profile Variant (side angle)
+
+[247] P: PROMPT: Rebuild this same person from a ¾ profile view. Keep all identity markers identical: freckles, nose structure, lips, skin texture, eye shape, hairline. Do not stylize. Only adjust the angle
+
+[248] P: 
+      IMAGES: image14.png
+
+[249] P: 3- Expression Variant (angry)
+
+[250] P: PROMPT: Create a strong angry expression for this same person. Identity must remain 1:1. Mouth open wide in a shout, showing upper and lower teeth. Lips stretched back and down. Eyebrows pulled inward and downward sharply, creating deep vertical tension lines. Eyes wide and intense, upper eyelids raised. Slight forward head thrust, no rotation. Keep lighting, proportions, and skin texture identical.
+      IMAGES: image2.png
+
+[251] P: You can do big laughter, determined, disgust, shock, fear… or whatever emotion you’re looking for. idk just get creative with it :)
+
+[252] P: 
+      IMAGES: image8.png
+
+[253] P: With those 3 images you’re covered.
+
+[254] P: It’s good enough to experiment and get dope results, but for the sake of high accuracy - specially if I want to get wild with my shots - I’ll also create a half and full-body image
+
+[255] P: <aside> 💾
+
+[256] P: Why?
+
+[257] P: When you only give close-ups, the model has to guess the body, and if you only give full-body, it has to guess facial micro-features
+
+[258] P: </aside>
+      IMAGES: image4.png
+
+[259] P: That’s what we’re teaching the model:
+      IMAGES: image3.png
+
+[260] P: Close-up
+
+[261] P: face geometry, pores, freckles, eyelids, lips
+
+[262] P: Half-body
+
+[263] P: shoulders, collarbones, neck length, torso proportions
+
+[264] P: Full-body
+
+[265] P: overall silhouette, limb proportions, posture, leg anatomy
+
+[266] P: Upload them together → Nano Banana Pro forms a stable identity memory
+
+[267] P: PROMPT: Use this person as the identity reference for all future edits. Do not alter the face geometry, skin texture, freckles, proportions or bone structure. This is the fixed identity
+
+[268] P: <aside> 👾
+
+[269] P: btw my Assistant Prompt Bot is designed to translate your ideas into efficient, editorial prompts, in and outside Nano Banana Pro
+
+[270] P: It has access to all those grammar principles and frameworks, so you simply prompt your idea and it translates it into efficient prompts
+
+[271] P: Send me a DM on Instagram if you want to be on the early-bird list, to catch the Bot drop and get early access as it’s launching very, veeeeeery soon 👀
+
+[272] P: </aside>
+      IMAGES: image5.png
+
+[273] P: this example was made using Nano Banana Pro in Higgsfield claramente lo hacemos nosotros en google flow de manera gratuita e ilimitada , but you can use it in a variety of platforms
+      IMAGES: image1.png
+
+[274] P: Keep the same references in the chat session
+
+[275] P: Nano Banana Pro uses Gemini’s memory window for the whole session.
+
+[276] P: Rules
+
+[277] P: Don’t start a new chat mid-project
+
+[278] P: Reuse the exact same 3 references (or as many as you created, but use only those ones)
+      IMAGES: image9.png
+
+[279] P: Pin Identity Kit > Continue edits in same thread > Reapply if drift appears
+
+[280] P: 3. Build Scenes with Reference + Edit Combo
+
+[281] P: This is where Nano Banana Pro outperforms every image model in terms of speed and efficiency.
+
+[282] P: 🍌 it is an editing monster that can preserve your character’s face across:
+
+[283] P: reposing
+
+[284] P: relighting
+
+[285] P: background replacements
+
+[286] P: outfit changes
+
+[287] P: stylistic transformations
+
+[288] P: perspective shifts
+
+[289] P: annotation or reasoning-based edits (fix objects, restore text)
+
+[290] P: <aside> 🥷🏼
+      IMAGES: image11.png
+
+[291] P: You never regenerate the character. You edit the same identity, every time
+
+[292] P: </aside>
+
+[293] P: Prompt style:
+
+[294] P: Place the character from these references in [scene]. Keep identity identical. Change only environment, clothing and lighting.
+
+[295] P: Upload scene reference > keep your Identity Kit
+
+[296] P: <aside> 🪡
+
+[297] P: character consistency — clean terminology
+
+[298] P: Origin Image → The first image that creates the character
+
+[299] P: Anchor Face → The neutral image that locks identity
+
+[300] P: Identity Kit → The multi-image system that preserves identity across angles
+
+[301] P: Clarity in roles creates consistency by default
+
+[302] P: 
+
+[303] P: </aside>
+      IMAGES: image15.png
+
+[304] P: see you in the next one
+
+[305] P: — Skai
+
+[306] P: <aside> 🧃
+
+[307] P: © 2025 Skai — AI Feelmaking Limited All rights reserved. This free resource is for personal use only and may not be reproduced, distributed or sold without permission.
+
+[308] P: AI Feelmaking
+
+[309] P: </aside>
+
+[310] P: 
+      IMAGES: image10.png
+

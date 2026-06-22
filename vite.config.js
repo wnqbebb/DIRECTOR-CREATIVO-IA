@@ -7,7 +7,9 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         director: resolve(__dirname, 'director-creativo.html'),
-        prendaCampana: resolve(__dirname, 'de-prenda-a-campana.html')
+        prendaCampana: resolve(__dirname, 'de-prenda-a-campana.html'),
+        clubMarca: resolve(__dirname, 'club-marca-editorial-ia.html'),
+        tuComoRostroMarca: resolve(__dirname, 'tu-como-rostro-de-marca.html')
       }
     }
   }

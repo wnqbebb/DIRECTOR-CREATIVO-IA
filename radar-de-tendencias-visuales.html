@@ -1,0 +1,1084 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2L15.5 8.5L24 12L15.5 15.5L12 24L8.5 15.5L0 12L8.5 8.5Z' fill='%23EFFF00'/%3E%3C/svg%3E" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BONUS 2: RADAR DE TENDENCIAS VISUALES - Dirección Creativa & Moda con IA</title>
+    
+    <!-- OpenGraph/SEO -->
+    <meta name="description" content="Aprende a usar Pinterest como un radar de dirección creativa profesional para tus campañas de moda. Traduce inspiración visual en prompts exactos." />
+    <meta property="og:title" content="BONUS 2: RADAR DE TENDENCIAS VISUALES" />
+    <meta property="og:description" content="Detecta patrones visuales, analiza poses, fondos, iluminación y compila prompts con dirección creativa para tu marca." />
+    <meta property="og:image" content="/media/radar_tendencias_cover.png" />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  </head>
+  <body>
+    <!-- Background Grid Effect -->
+    <div class="bg-grid"></div>
+
+    <!-- SVG Icons Definition -->
+    <svg style="display: none;">
+      <g id="crosshair-svg">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7.44-7.93H7v-2H5.56c.44-4.08 3.5-7.44 7.44-7.93V5h2v1.07c3.95.49 7 3.85 7.44 7.93H20v2h-1.56c-.44 4.08-3.5 7.44-7.44 7.93V19h-2v-.07z" fill="currentColor"/>
+        <circle cx="12" cy="12" r="2" fill="currentColor"/>
+      </g>
+      <g id="spark-svg">
+        <path d="M12 0C12 8.4 8.4 12 0 12c8.4 0 12 3.6 12 12 0-8.4 3.6-12 12-12-8.4 0-12-3.6-12-12z" fill="currentColor"/>
+      </g>
+      <g id="arrow-svg">
+        <path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4z" fill="currentColor"/>
+      </g>
+      <g id="pinterest-svg">
+        <path d="M12 0C5.37 0 0 5.37 0 12c0 5.08 3.14 9.43 7.62 11.17-.1-.95-.2-2.41.04-3.45.22-.94 1.4-5.95 1.4-5.95s-.36-.72-.36-1.78c0-1.67.97-2.92 2.18-2.92 1.03 0 1.53.77 1.53 1.69 0 1.03-.66 2.58-.99 4.02-.28 1.2.6 2.18 1.78 2.18 2.14 0 3.78-2.26 3.78-5.51 0-2.88-2.07-4.9-5.03-4.9-3.43 0-5.44 2.57-5.44 5.23 0 1.04.4 2.15.9 2.76.1.12.11.23.08.35l-.34 1.39c-.06.23-.18.28-.4.18-1.5-.7-2.44-2.89-2.44-4.65 0-3.79 2.75-7.27 7.94-7.27 4.17 0 7.4 2.97 7.4 6.94 0 4.14-2.61 7.47-6.23 7.47-1.22 0-2.36-.63-2.75-1.38l-.75 2.85c-.27 1.04-1 2.34-1.49 3.13C9.39 23.75 10.66 24 12 24c6.63 0 12-5.37 12-12S18.63 0 12 0z" fill="currentColor"/>
+      </g>
+    </svg>
+
+    <div class="app-container">
+      <!-- Sidebar Navigation -->
+      <aside class="sidebar">
+        <div class="logo-container">
+          <div class="logo-title">RADAR <span>TENDENCIAS</span></div>
+          <div class="logo-subtitle">MÉTODO BONUS 02</div>
+        </div>
+        
+        <nav style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+          <ul class="nav-menu">
+            <li class="nav-item">
+              <a href="#" class="nav-link active" id="nav-btn-hero">
+                <span class="nav-number">00</span> Portada
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#promesa" class="nav-link" id="nav-btn-promesa">
+                <span class="nav-number">01</span> La Promesa
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#investigacion" class="nav-link" id="nav-btn-investigacion">
+                <span class="nav-number">02</span> Investigación
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#ocho-elementos" class="nav-link" id="nav-btn-ocho-elementos">
+                <span class="nav-number">03</span> Los 8 Elementos
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#banco-busqueda" class="nav-link" id="nav-btn-banco-busqueda">
+                <span class="nav-number">04</span> Banco de Términos
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#ejercicio-refs" class="nav-link" id="nav-btn-ejercicio-refs">
+                <span class="nav-number">05</span> 5 Ref Maestras
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#prompts-formula" class="nav-link" id="nav-btn-prompts-formula">
+                <span class="nav-number">06</span> Prompts & Fórmula
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#direccion-creativa" class="nav-link" id="nav-btn-direccion-creativa">
+                <span class="nav-number">07</span> Ficha Creativa
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#vaca-purpura" class="nav-link" id="nav-btn-vaca-purpura">
+                <span class="nav-number">08</span> Vaca Púrpura
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#errores-comunes" class="nav-link" id="nav-btn-errores-comunes">
+                <span class="nav-number">09</span> Errores Comunes
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#metodo-campana" class="nav-link" id="nav-btn-metodo-campana">
+                <span class="nav-number">10</span> Método de Campaña
+              </a>
+            </li>
+          </ul>
+        </nav>
+        
+        <div class="sidebar-footer">
+          Radar de Tendencias Visuales<br>
+          © 2026 Start Grow Fast AI Agents.
+        </div>
+      </aside>
+
+      <!-- Main Content Area -->
+      <main class="main-content">
+
+        <!-- Hero / Portada -->
+        <header id="hero" class="hero-section">
+          <div class="hero-banner-container">
+            <img src="/media/radar_tendencias_cover.png" alt="Bonus 2: Radar de Tendencias Visuales" class="hero-banner-img" />
+          </div>
+          <div class="hero-cta-bar">
+            <a href="#promesa" class="cta-button">
+              Comenzar Lectura
+              <svg style="width: 14px; height: 14px; fill: currentColor;"><use href="#arrow-svg"></use></svg>
+            </a>
+            <a href="#direccion-creativa" class="cta-button highlight-cta">
+              Armar Dirección Creativa
+              <svg style="width: 14px; height: 14px; fill: currentColor;"><use href="#crosshair-svg"></use></svg>
+            </a>
+          </div>
+        </header>
+
+        <!-- Sección 01: La Promesa & Filosofía -->
+        <section id="promesa">
+          <div class="sticker-yellow" style="position: absolute; top: 30px; right: 50px; --rot: 2deg;">
+            BONUS 2
+          </div>
+          
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 01 / LA PROMESA ]</span>
+          </div>
+          
+          <h2 class="section-title">
+            Convierte Pinterest en tu <span class="trends">DIRECTOR CREATIVO</span> y deja de crear campañas de moda que parecen improvisadas
+          </h2>
+          
+          <div class="text-editorial" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <p style="font-size: 1.25rem; font-weight: 700; line-height: 1.5;">
+              Hay marcas de ropa que venden prendas. Y hay marcas de ropa que venden una escena. Una actitud. Un deseo. Un estilo de vida. Una sensación de pertenencia.
+            </p>
+            
+            <p>
+              Esa es la diferencia entre una marca que simplemente sube fotos de ropa y una marca que construye <span class="highlight-yellow">deseo real</span>. La mayoría de las pequeñas marcas de moda no fallan porque su producto sea malo. Fallan porque visualmente se ven igual que todas: misma foto, mismo fondo, misma pose, mismo feed sin intención.
+            </p>
+
+            <div class="compare-grid">
+              <div class="compare-box bad">
+                <div class="compare-badge bad">La guerra del precio</div>
+                <div class="compare-title bad">Sin Dirección Visual:</div>
+                <p style="font-style: italic; margin-bottom: 0.85rem;">"¿Cuánto cuesta?", "¿Tienes descuento?", "En otra tienda lo vi más barato."</p>
+                <p style="font-size: 0.9rem; opacity: 0.85;">
+                  Si tu comunicación visual no justifica el valor, la gente te comparará únicamente por precio. Venderás menos y sacrificarás tu margen.
+                </p>
+              </div>
+              <div class="compare-box good">
+                <div class="compare-badge good">Construcción de valor</div>
+                <div class="compare-title good">Con Radar de Tendencias:</div>
+                <p style="font-weight: 700; margin-bottom: 0.85rem; color: var(--color-green-light);">"Yo quiero verme así. Yo quiero sentirme así. Yo quiero que esa prenda sea parte de mi identidad."</p>
+                <p style="font-size: 0.9rem; opacity: 0.85;">
+                  Tus imágenes comunican estatus y deseo. Tu marca se siente valiosa y premium, eliminando la necesidad de competir por descuentos.
+                </p>
+              </div>
+            </div>
+
+            <div class="card-brutal" style="margin-top: 1.5rem; background-color: var(--color-bg-card);">
+              <h3 style="font-family: var(--font-heavy); font-size: 1.4rem; color: var(--color-acid); margin-bottom: 1rem; text-transform: uppercase;">
+                LA PROMESA DE ESTE BONUS
+              </h3>
+              <p style="margin-bottom: 1rem;">
+                El **Radar de Tendencias Visuales** te enseña a usar Pinterest no como una carpeta de imágenes bonitas o un cementerio de referencias, sino como una herramienta de dirección creativa profesional.
+              </p>
+              <ul style="margin-left: 1.5rem; font-size: 0.95rem; display: flex; flex-direction: column; gap: 0.5rem; list-style: square;">
+                <li>Aprenderás a detectar qué funciona visualmente en el mundo de la moda y traducirlo a tus propias campañas con IA.</li>
+                <li>Entenderás exactamente **por qué funciona una imagen** (su fondo, su pose, su luz, su paleta) para poder replicarla con identidad propia.</li>
+                <li>Pasarás de ser un emprendedor que improvisa contenido a ser una marca que construye percepción.</li>
+              </ul>
+            </div>
+            
+            <h3 style="font-family: var(--font-heavy); font-size: 1.6rem; text-transform: uppercase; margin-top: 2rem;">
+              ¿POR QUÉ PINTEREST VALE DINERO?
+            </h3>
+            <p>
+              Pinterest no vale por las imágenes que guarda. **Vale por los patrones que revela.** Cuando sabes mirar correctamente, detectas códigos visuales. Nada de lo que hacen las marcas grandes es casual: eligen cada elemento para construir una percepción. Si todo comunica, entonces todo puede vender o destruir valor.
+            </p>
+          </div>
+        </section>
+
+        <!-- Sección 02: Investigación Visual -->
+        <section id="investigacion" class="dark-section">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 02 / INVESTIGACIÓN ]</span>
+          </div>
+          
+          <h2 class="section-title">
+            Pinterest no es inspiración, es <span class="trends">INVESTIGACIÓN VISUAL</span>
+          </h2>
+          
+          <div class="text-editorial" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <p>
+              El error común es entrar, buscar "outfits bonitos", guardar 100 imágenes y creer que eso es inspiración. Eso se llama **acumulación visual** y solo genera confusión.
+            </p>
+            
+            <div class="bubble-brutal-dark" style="border-color: var(--color-acid); color: var(--color-acid); margin: 1rem 0;">
+              <p style="font-weight: 800; font-size: 1.15rem; text-transform: uppercase;">
+                Una idea bonita te inspira. Una idea útil se convierte en campaña.
+              </p>
+            </div>
+            
+            <p>
+              Antes de guardar cualquier imagen en tu radar, debes preguntarte como un estratega:
+              <em>"¿Por qué me llamó la atención? ¿Qué tiene esta imagen que mi marca necesita? ¿Es el fondo? ¿Es la pose? ¿Es la luz?"</em>
+            </p>
+            
+            <p>
+              No se trata de coleccionar imágenes al azar. Se trata de elegir **5 referencias maestras** con intención y saber exactamente qué extraer de cada una. Así trabaja una marca profesional.
+            </p>
+
+            <div class="card-brutal-dark" style="margin-top: 2rem;">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-acid); text-transform: uppercase; margin-bottom: 1rem; font-size: 1.3rem;">
+                EL CONCEPTO DE "VACA PÚRPURA" VISUAL
+              </h3>
+              <p style="font-size: 0.95rem; opacity: 0.9;">
+                En un mercado saturado, lo normal es invisible. La gente no recuerda lo correcto; recuerda lo diferente con intención. Una **Vaca Púrpura Visual** es una campaña que rompe el patrón del feed, una imagen que frena el scroll y le dice al cliente: <em>"Esta marca sabe lo que está haciendo."</em> Necesitas códigos visuales propios para ser reconocible, no solo visible.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 03: Los 8 Elementos Clave -->
+        <section id="ocho-elementos">
+          <div class="sticker-yellow" style="position: absolute; top: 30px; right: 50px; --rot: -4deg;">
+            NUEVO
+          </div>
+
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 03 / LECTURA VISUAL ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Los <span class="trends">8 ELEMENTOS</span> que debes leer en una imagen de campaña
+          </h2>
+
+          <p class="text-editorial" style="margin-bottom: 3.5rem;">
+            Una imagen de moda funciona porque varios elementos trabajan en equipo. Para construir un radar visual potente, debes aprender a decodificar estos 8 componentes clave:
+          </p>
+
+          <div class="bento-grid">
+            <div class="card-brutal">
+              <span class="stamp-brutal">01 / FONDO</span>
+              <h4 style="margin: 1rem 0 0.5rem; font-family: var(--font-heavy);">EL MUNDO DE LA PRENDA</h4>
+              <p style="font-size: 0.9rem; opacity: 0.9;">El fondo no es decoración: define dónde vive tu prenda y cambia su precio percibido. Un hoodie en fondo blanco se siente e-commerce; en concreto limpio se siente streetwear premium.</p>
+            </div>
+
+            <div class="card-brutal">
+              <span class="stamp-brutal">02 / MODELO</span>
+              <h4 style="margin: 1rem 0 0.5rem; font-family: var(--font-heavy);">EL CLIENTE ASPIRACIONAL</h4>
+              <p style="font-size: 0.9rem; opacity: 0.9;">El modelo encarna el tipo de cliente que la marca quiere atraer. La gente no compra la prenda; compra cómo se siente la persona que la lleva puesta (seguridad, elegancia, rebeldía).</p>
+            </div>
+
+            <div class="card-brutal">
+              <span class="stamp-brutal">03 / POSE</span>
+              <h4 style="margin: 1rem 0 0.5rem; font-family: var(--font-heavy);">LENGUAJE CORPORAL</h4>
+              <p style="font-size: 0.9rem; opacity: 0.9;">El cuerpo vende antes que el texto. La pose no debe verse forzada: caminando transmite naturalidad, mirando fuera de cámara da tono editorial, y manos en bolsillos da presencia.</p>
+            </div>
+
+            <div class="card-brutal">
+              <span class="stamp-brutal">04 / COLOR</span>
+              <h4 style="margin: 1rem 0 0.5rem; font-family: var(--font-heavy);">TEMPERATURA Y PRECIO</h4>
+              <p style="font-size: 0.9rem; opacity: 0.9;">La paleta visual cambia el valor percibido. Si quieres verte premium, los colores deben ser armónicos (neutros, tierra, o contrastes controlados). Evita paletas caóticas que abaraten la marca.</p>
+            </div>
+
+            <div class="card-brutal">
+              <span class="stamp-brutal">05 / LUZ</span>
+              <h4 style="margin: 1rem 0 0.5rem; font-family: var(--font-heavy);">TONO EMOCIONAL</h4>
+              <p style="font-size: 0.9rem; opacity: 0.9;">La luz define la emoción: luz natural suave es fresca y limpia; de atardecer evoca nostalgia veraniega; luz dura con sombras marcadas da fuerza y carácter urbano.</p>
+            </div>
+
+            <div class="card-brutal">
+              <span class="stamp-brutal">06 / COMPOSICIÓN</span>
+              <h4 style="margin: 1rem 0 0.5rem; font-family: var(--font-heavy);">DISEÑO PARA LA VENTA</h4>
+              <p style="font-size: 0.9rem; opacity: 0.9;">Responde a fines prácticos: ¿Queda espacio negativo libre para meter copy o logos? ¿El ojo va directo al producto o se pierde en el fondo? ¿Funciona en banner web u horizontal?</p>
+            </div>
+
+            <div class="card-brutal">
+              <span class="stamp-brutal">07 / STYLING</span>
+              <h4 style="margin: 1rem 0 0.5rem; font-family: var(--font-heavy);">EL LOOK COMPLETO</h4>
+              <p style="font-size: 0.9rem; opacity: 0.9;">Es el outfit completo. Ayuda a que el cliente se imagine cómo combinar la prenda. Un polo tejido básico con pantalón sastre y reloj discreto construye un universo de lujo silencioso.</p>
+            </div>
+
+            <div class="card-brutal">
+              <span class="stamp-brutal">08 / EMOCIÓN</span>
+              <h4 style="margin: 1rem 0 0.5rem; font-family: var(--font-heavy);">LO QUE SE QUEDA</h4>
+              <p style="font-size: 0.9rem; opacity: 0.9;">Es el impacto mental. Si la imagen no transmite nada, no vende. Debe poder resumirse en una sola palabra clara: calma, estatus, Summer vibes, poder o frescura.</p>
+            </div>
+          </div>
+
+          <h3 style="font-family: var(--font-heavy); font-size: 1.6rem; text-transform: uppercase; margin-top: 3rem; margin-bottom: 1.5rem;">
+            DIFERENCIAS COMERCIALES DE FORMATOS
+          </h3>
+          
+          <div class="table-brutal-wrapper">
+            <table class="table-brutal">
+              <thead>
+                <tr>
+                  <th>TIPO DE IMAGEN</th>
+                  <th>CARACTERÍSTICAS LECTURA</th>
+                  <th>CANAL RECOMENDADO</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Foto de producto / Catálogo</strong></td>
+                  <td>Fondo blanco o neutro gris, prenda 100% visible, iluminación limpia de estudio, pose frontal o espalda comercial.</td>
+                  <td>E-commerce, Ficha técnica, WhatsApp directo.</td>
+                </tr>
+                <tr>
+                  <td><strong>Foto Editorial / Branding</strong></td>
+                  <td>Tiene concepto, modelo con actitud, fondo narrativo, luz cálida/cinematográfica, ángulos expresivos. Crea deseo.</td>
+                  <td>Instagram feed, Portada web, Campañas.</td>
+                </tr>
+                <tr>
+                  <td><strong>Foto para Anuncios / Meta Ads</strong></td>
+                  <td>Composición con espacio negativo (aire), call to action implícito, frenado de scroll, prenda protagonista.</td>
+                  <td>Historias, Reels, Publicidad pagada.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <!-- Sección 04: Banco de Búsqueda de Términos -->
+        <section id="banco-busqueda" class="dark-section">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 04 / RECURSOS ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Banco interactivo de <span class="trends">TÉRMINOS DE BÚSQUEDA</span>
+          </h2>
+
+          <p class="text-editorial" style="margin-bottom: 2rem;">
+            Para buscar inspiración profesional, no busques palabras básicas. Combina estilo, tipo de campaña y locación. Utiliza este banco interactivo de términos en inglés (los que mejor lee Pinterest e IA) filtrados por categoría. Haz clic para copiar cualquier término al instante.
+          </p>
+
+          <!-- Pinterest Call-to-action Button -->
+          <div class="card-brutal" style="background-color: var(--color-bg-dark); border-color: var(--color-pinterest); box-shadow: 4px 4px 0px var(--color-pinterest); margin-bottom: 3rem; text-align: center;">
+            <h3 style="font-family: var(--font-heavy); color: var(--color-white-editorial); margin-bottom: 0.5rem; text-transform: uppercase;">
+              Investigación en Pinterest
+            </h3>
+            <p style="margin-bottom: 1.5rem; font-size: 0.95rem; opacity: 0.85; color: var(--color-white-editorial);">
+              Abre la plataforma para comenzar a buscar tus referencias y detectar patrones visuales para tus campañas de moda.
+            </p>
+            <a href="https://www.pinterest.com" target="_blank" class="cta-button" style="background-color: var(--color-pinterest); color: var(--color-white); border-color: var(--color-white-editorial); box-shadow: 4px 4px 0px var(--color-acid); display: inline-flex; width: fit-content; margin: 0 auto;">
+              <svg style="width: 16px; height: 16px; fill: currentColor; margin-right: 0.5rem;"><use href="#pinterest-svg"></use></svg>
+              Abrir Pinterest
+            </a>
+          </div>
+
+          <!-- Interactive Search Term Bank -->
+          <div class="term-bank">
+            <div class="term-bank-controls">
+              <div class="search-input-wrapper">
+                <input type="text" class="search-input" placeholder="Buscar palabras clave en el banco... (ej. hoodie, luxury, minimal)" />
+              </div>
+              <div class="category-filters">
+                <button class="filter-pill active" data-filter="all">Todos</button>
+                <button class="filter-pill" data-filter="general">General</button>
+                <button class="filter-pill" data-filter="streetwear">Streetwear</button>
+                <button class="filter-pill" data-filter="hoodies">Hoodies</button>
+                <button class="filter-pill" data-filter="t-shirts">T-shirts</button>
+                <button class="filter-pill" data-filter="premium-men">Moda Masculina</button>
+                <button class="filter-pill" data-filter="denim">Denim</button>
+                <button class="filter-pill" data-filter="dress-female">Vestidos/Femenino</button>
+                <button class="filter-pill" data-filter="activewear">Activewear</button>
+                <button class="filter-pill" data-filter="swimwear">Swimwear</button>
+                <button class="filter-pill" data-filter="kidswear">Kidswear</button>
+                <button class="filter-pill" data-filter="minimalist">Minimalista</button>
+                <button class="filter-pill" data-filter="old-money">Old Money</button>
+                <button class="filter-pill" data-filter="launch">Lanzamientos</button>
+                <button class="filter-pill" data-filter="ecommerce">E-commerce</button>
+                <button class="filter-pill" data-filter="web-banners">Web/Banners</button>
+              </div>
+            </div>
+            
+            <div class="terms-results">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 05: El Ejercicio de las 5 Referencias Maestras -->
+        <section id="ejercicio-refs">
+          <div class="sticker-yellow" style="position: absolute; top: 30px; right: 50px; --rot: 5deg;">
+            EJERCICIO
+          </div>
+
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 05 / METODOLOGÍA ]</span>
+          </div>
+
+          <h2 class="section-title">
+            El ejercicio de las <span class="trends">5 REFERENCIAS</span> maestras
+          </h2>
+
+          <div class="text-editorial" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <p>
+              Este es el ejercicio central de la dirección creativa. Antes de abrir la Inteligencia Artificial a generar imágenes, debes ir a Pinterest y elegir **solo 5 referencias**. Cada una cumplirá una función técnica exclusiva:
+            </p>
+
+            <div class="polaroid-grid-custom">
+              <div class="polaroid-item" style="--rot: -1.5deg;">
+                <div class="polaroid-img-wrapper" style="display: flex; align-items: center; justify-content: center; background-color: var(--color-bg-deep); color: var(--color-acid); border: 2.5px solid var(--color-bg-dark); position: relative;">
+                  <span style="position: absolute; top: 8px; left: 8px; font-family: var(--font-mono); font-size: 0.62rem; background-color: var(--color-acid); color: var(--color-bg-dark); padding: 0.15rem 0.4rem; font-weight: bold; border: 1.5px solid var(--color-bg-dark); box-shadow: 1px 1px 0px var(--color-white-editorial); transform: rotate(-3deg);">REF 01</span>
+                  <svg viewBox="0 0 100 100" style="width: 50px; height: 50px; fill: none; stroke: var(--color-acid); stroke-width: 1.5; opacity: 0.75;"><path d="M 10,20 L 10,10 L 20,10" /><path d="M 80,10 L 90,10 L 90,20" /><path d="M 10,80 L 10,90 L 20,90" /><path d="M 80,90 L 90,90 L 90,80" /><circle cx="50" cy="50" r="8" stroke-dasharray="3,3" /><line x1="50" y1="42" x2="50" y2="58" /><line x1="42" y1="50" x2="58" y2="50" /></svg>
+                </div>
+                <div class="polaroid-caption">1. Fondo / Entorno</div>
+                <div class="polaroid-desc">Elige la imagen únicamente por su fondo. Define el universo espacial de tu campaña.</div>
+              </div>
+
+              <div class="polaroid-item" style="--rot: 1deg;">
+                <div class="polaroid-img-wrapper" style="display: flex; align-items: center; justify-content: center; background-color: var(--color-bg-deep); color: var(--color-acid); border: 2.5px solid var(--color-bg-dark); position: relative;">
+                  <span style="position: absolute; top: 8px; left: 8px; font-family: var(--font-mono); font-size: 0.62rem; background-color: var(--color-acid); color: var(--color-bg-dark); padding: 0.15rem 0.4rem; font-weight: bold; border: 1.5px solid var(--color-bg-dark); box-shadow: 1px 1px 0px var(--color-white-editorial); transform: rotate(2deg);">REF 02</span>
+                  <svg viewBox="0 0 100 100" style="width: 50px; height: 50px; fill: none; stroke: var(--color-acid); stroke-width: 1.5; opacity: 0.75;"><path d="M 10,20 L 10,10 L 20,10" /><path d="M 80,10 L 90,10 L 90,20" /><path d="M 10,80 L 10,90 L 20,90" /><path d="M 80,90 L 90,90 L 90,80" /><circle cx="50" cy="50" r="8" stroke-dasharray="3,3" /><line x1="50" y1="42" x2="50" y2="58" /><line x1="42" y1="50" x2="58" y2="50" /></svg>
+                </div>
+                <div class="polaroid-caption">2. Modelo / Actitud</div>
+                <div class="polaroid-desc">Elige la imagen por la energía humana del modelo. Poses, gestos y naturalidad.</div>
+              </div>
+
+              <div class="polaroid-item" style="--rot: -2deg;">
+                <div class="polaroid-img-wrapper" style="display: flex; align-items: center; justify-content: center; background-color: var(--color-bg-deep); color: var(--color-acid); border: 2.5px solid var(--color-bg-dark); position: relative;">
+                  <span style="position: absolute; top: 8px; left: 8px; font-family: var(--font-mono); font-size: 0.62rem; background-color: var(--color-acid); color: var(--color-bg-dark); padding: 0.15rem 0.4rem; font-weight: bold; border: 1.5px solid var(--color-bg-dark); box-shadow: 1px 1px 0px var(--color-white-editorial); transform: rotate(-1deg);">REF 03</span>
+                  <svg viewBox="0 0 100 100" style="width: 50px; height: 50px; fill: none; stroke: var(--color-acid); stroke-width: 1.5; opacity: 0.75;"><path d="M 10,20 L 10,10 L 20,10" /><path d="M 80,10 L 90,10 L 90,20" /><path d="M 10,80 L 10,90 L 20,90" /><path d="M 80,90 L 90,90 L 90,80" /><circle cx="50" cy="50" r="8" stroke-dasharray="3,3" /><line x1="50" y1="42" x2="50" y2="58" /><line x1="42" y1="50" x2="58" y2="50" /></svg>
+                </div>
+                <div class="polaroid-caption">3. Paleta / Color</div>
+                <div class="polaroid-desc">Elige por la combinación tonal. Define la temperatura visual de tu marca.</div>
+              </div>
+
+              <div class="polaroid-item" style="--rot: 2.5deg;">
+                <div class="polaroid-img-wrapper" style="display: flex; align-items: center; justify-content: center; background-color: var(--color-bg-deep); color: var(--color-acid); border: 2.5px solid var(--color-bg-dark); position: relative;">
+                  <span style="position: absolute; top: 8px; left: 8px; font-family: var(--font-mono); font-size: 0.62rem; background-color: var(--color-acid); color: var(--color-bg-dark); padding: 0.15rem 0.4rem; font-weight: bold; border: 1.5px solid var(--color-bg-dark); box-shadow: 1px 1px 0px var(--color-white-editorial); transform: rotate(3deg);">REF 04</span>
+                  <svg viewBox="0 0 100 100" style="width: 50px; height: 50px; fill: none; stroke: var(--color-acid); stroke-width: 1.5; opacity: 0.75;"><path d="M 10,20 L 10,10 L 20,10" /><path d="M 80,10 L 90,10 L 90,20" /><path d="M 10,80 L 10,90 L 20,90" /><path d="M 80,90 L 90,90 L 90,80" /><circle cx="50" cy="50" r="8" stroke-dasharray="3,3" /><line x1="50" y1="42" x2="50" y2="58" /><line x1="42" y1="50" x2="58" y2="50" /></svg>
+                </div>
+                <div class="polaroid-caption">4. Composición</div>
+                <div class="polaroid-desc">Elige por el encuadre (primer plano, plano medio) y espacios para texto o banner.</div>
+              </div>
+
+              <div class="polaroid-item" style="--rot: -1.2deg;">
+                <div class="polaroid-img-wrapper" style="display: flex; align-items: center; justify-content: center; background-color: var(--color-bg-deep); color: var(--color-acid); border: 2.5px solid var(--color-bg-dark); position: relative;">
+                  <span style="position: absolute; top: 8px; left: 8px; font-family: var(--font-mono); font-size: 0.62rem; background-color: var(--color-acid); color: var(--color-bg-dark); padding: 0.15rem 0.4rem; font-weight: bold; border: 1.5px solid var(--color-bg-dark); box-shadow: 1px 1px 0px var(--color-white-editorial); transform: rotate(-2deg);">REF 05</span>
+                  <svg viewBox="0 0 100 100" style="width: 50px; height: 50px; fill: none; stroke: var(--color-acid); stroke-width: 1.5; opacity: 0.75;"><path d="M 10,20 L 10,10 L 20,10" /><path d="M 80,10 L 90,10 L 90,20" /><path d="M 10,80 L 10,90 L 20,90" /><path d="M 80,90 L 90,90 L 90,80" /><circle cx="50" cy="50" r="8" stroke-dasharray="3,3" /><line x1="50" y1="42" x2="50" y2="58" /><line x1="42" y1="50" x2="58" y2="50" /></svg>
+                </div>
+                <div class="polaroid-caption">5. Emoción</div>
+                <div class="polaroid-desc">Elige por lo que transmite. Deseo, lujo silencioso, rebeldía o verano libre.</div>
+              </div>
+            </div>
+
+            <p style="font-weight: 700; border-left: 4px solid var(--color-acid); padding-left: 1rem; margin-top: 1rem;">
+              Al separar la búsqueda por elementos individuales, dejas de abrumarte guardando imágenes completas. Filtra de forma brutal: si no aporta nada concreto, se descarta.
+            </p>
+          </div>
+        </section>
+
+        <!-- Sección 06: Cómo Convertir Referencias en Prompts + Live Prompt Builder -->
+        <section id="prompts-formula" class="dark-section">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 06 / FÓRMULA DE PROMPTS ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Cómo convertir referencias en <span class="trends">PROMPTS IA</span>
+          </h2>
+
+          <div class="text-editorial" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <p>
+              Después de analizar las 5 referencias maestras, consolidas los datos en un solo prompt técnico estructurado bajo la siguiente fórmula:
+            </p>
+
+            <div class="prompt-container" style="background-color: var(--color-bg-deep);">
+              <div class="prompt-header">
+                <span class="prompt-label">FÓRMULA UNIVERSAL DE PROMPT</span>
+              </div>
+              <pre class="prompt-text">Crea una campaña editorial de moda para una marca de [tipo de marca], mostrando un [tipo de prenda] en color [colores], material [material] en silueta [silueta], con un modelo que transmita actitud [actitud], en un entorno de [fondo], con iluminación [tipo de luz], composición [tipo de encuadre], styling [estilo del outfit], estética [referencia visual general] y sensación [emoción principal], fotografía profesional de moda urbana.</pre>
+            </div>
+
+            <!-- Live Prompt Builder (Interactive Customizer) -->
+            <div class="prompt-builder">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-acid); margin-bottom: 1.5rem; text-transform: uppercase; font-size: 1.3rem;">
+                LIVE PROMPT BUILDER INTERACTIVO
+              </h3>
+              <p style="font-size: 0.9rem; margin-bottom: 2rem; opacity: 0.85;">
+                Configura los parámetros clave de tu prenda e intenciones y mira cómo se compila el prompt exacto en tiempo real.
+              </p>
+              
+              <div class="builder-grid">
+                <div class="builder-field">
+                  <label for="bp-product">Prenda a vender</label>
+                  <input type="text" id="bp-product" class="builder-input" placeholder="ej. hoodie oversized negro, vestido ligero" />
+                </div>
+                <div class="builder-field">
+                  <label for="bp-color">Colores dominantes</label>
+                  <input type="text" id="bp-color" class="builder-input" placeholder="ej. negro, crema, beige, azul denim" />
+                </div>
+                <div class="builder-field">
+                  <label for="bp-material">Material / Textura</label>
+                  <input type="text" id="bp-material" class="builder-input" placeholder="ej. tejido de punto grueso, lino rústico" />
+                </div>
+                <div class="builder-field">
+                  <label for="bp-silueta">Corte / Silueta</label>
+                  <input type="text" id="bp-silueta" class="builder-input" placeholder="ej. oversized holgado, cropped entallado" />
+                </div>
+                <div class="builder-field">
+                  <label for="bp-publico">Público objetivo</label>
+                  <input type="text" id="bp-publico" class="builder-input" placeholder="ej. jóvenes urbanos de 18 a 30 años" />
+                </div>
+                <div class="builder-field">
+                  <label for="bp-estilo">Estilo de Marca</label>
+                  <input type="text" id="bp-estilo" class="builder-input" placeholder="ej. streetwear de lujo, old money clásico" />
+                </div>
+                <div class="builder-field">
+                  <label for="bp-emocion">Emoción central</label>
+                  <input type="text" id="bp-emocion" class="builder-input" placeholder="ej. estatus discreto, calma, rebeldía" />
+                </div>
+              </div>
+
+              <div class="prompt-container" style="margin-top: 1.5rem; border-color: var(--color-acid);">
+                <div class="prompt-header">
+                  <span class="prompt-label" style="color: var(--color-acid);">PROMPT FINAL COMPILADO</span>
+                  <button class="copy-btn" type="button">Copiar Prompt</button>
+                </div>
+                <pre class="prompt-text" id="live-prompt-code" style="color: var(--color-white-editorial);"></pre>
+              </div>
+            </div>
+
+            <h3 style="font-family: var(--font-heavy); font-size: 1.4rem; text-transform: uppercase; margin-top: 1.5rem; color: var(--color-white-editorial);">
+              EJEMPLOS DE PROMPTS DE CAMPAÑA EXTRAÍDOS
+            </h3>
+
+            <!-- Grid de Prompts de Ejemplo -->
+            <div class="bento-grid" style="margin-top: 1rem;">
+              <div class="card-brutal" style="margin-bottom: 0;">
+                <span class="stamp-brutal">EJEMPLO 1: STREETWEAR</span>
+                <p style="font-size: 0.85rem; margin: 1rem 0; font-family: var(--font-mono); color: var(--color-pinterest-light);">
+                  Prenda: Hoodie oversized negro | Fondo: Concreto urbano | Emoción: Rebeldía
+                </p>
+                <div class="prompt-container" style="padding: 1.2rem; margin: 0; background-color: var(--color-bg-deep);">
+                  <pre class="prompt-text" style="font-size: 0.8rem; max-height: 120px;">Crea una campaña editorial de moda para una marca streetwear premium, mostrando un hoodie oversized negro en un modelo joven con actitud segura y relajada, ubicado en un entorno urbano de concreto limpio, con paleta de colores negro, gris y blanco, iluminación cinematográfica suave, composición vertical editorial, styling moderno, sensación de rebeldía controlada, confianza y deseo, fotografía profesional de moda urbana.</pre>
+                  <button class="copy-btn mini-copy" style="margin-top: 0.75rem; font-size: 0.65rem;" type="button">Copiar</button>
+                </div>
+              </div>
+
+              <div class="card-brutal" style="margin-bottom: 0;">
+                <span class="stamp-brutal">EJEMPLO 2: OLD MONEY</span>
+                <p style="font-size: 0.85rem; margin: 1rem 0; font-family: var(--font-mono); color: var(--color-pinterest-light);">
+                  Prenda: Polo tejido | Fondo: Club privado terraza | Emoción: Lujo discreto
+                </p>
+                <div class="prompt-container" style="padding: 1.2rem; margin: 0; background-color: var(--color-bg-deep);">
+                  <pre class="prompt-text" style="font-size: 0.8rem; max-height: 120px;">Crea una campaña editorial de moda masculina premium, mostrando un polo tejido azul y beige en un modelo con actitud tranquila, segura y sofisticada, en un ambiente elegante tipo club privado con terraza y luz natural suave, paleta de colores crema, azul marino, beige y verde oliva, composición horizontal con espacio negativo para texto, estética old money contemporánea, sensación de estatus silencioso, buen gusto y lujo discreto.</pre>
+                  <button class="copy-btn mini-copy" style="margin-top: 0.75rem; font-size: 0.65rem;" type="button">Copiar</button>
+                </div>
+              </div>
+
+              <div class="card-brutal" style="margin-bottom: 0;">
+                <span class="stamp-brutal">EJEMPLO 3: VESTIDO DE VERANO</span>
+                <p style="font-size: 0.85rem; margin: 1rem 0; font-family: var(--font-mono); color: var(--color-pinterest-light);">
+                  Prenda: Vestido ligero | Fondo: Calle mediterránea | Emoción: Libertad
+                </p>
+                <div class="prompt-container" style="padding: 1.2rem; margin: 0; background-color: var(--color-bg-deep);">
+                  <pre class="prompt-text" style="font-size: 0.8rem; max-height: 120px;">Crea una campaña editorial de moda femenina para una marca aspiracional, mostrando un vestido ligero en una modelo con actitud natural, delicada y libre, caminando en un entorno cálido de verano con luz de atardecer suave, paleta de colores blanco, crema, rosa viejo y celeste, composición de cuerpo completo con movimiento en la prenda, estética romántica y premium, sensación de libertad, frescura y deseo.</pre>
+                  <button class="copy-btn mini-copy" style="margin-top: 0.75rem; font-size: 0.65rem;" type="button">Copiar</button>
+                </div>
+              </div>
+
+              <div class="card-brutal" style="margin-bottom: 0;">
+                <span class="stamp-brutal">EJEMPLO 4: ACTIVEWEAR</span>
+                <p style="font-size: 0.85rem; margin: 1rem 0; font-family: var(--font-mono); color: var(--color-pinterest-light);">
+                  Prenda: Set deportivo | Fondo: Ciudad amanecer | Emoción: Disciplina
+                </p>
+                <div class="prompt-container" style="padding: 1.2rem; margin: 0; background-color: var(--color-bg-deep);">
+                  <pre class="prompt-text" style="font-size: 0.8rem; max-height: 120px;">Crea una campaña editorial deportiva premium, mostrando un conjunto activewear en un modelo atlético con actitud fuerte, disciplinada y enfocada, en un entorno urbano al amanecer, con paleta de colores negro, gris, blanco y azul eléctrico, iluminación natural intensa, composición dinámica con sensación de movimiento, estética moderna de alto rendimiento, fotografía profesional de moda deportiva, transmitiendo energía, disciplina y potencia.</pre>
+                  <button class="copy-btn mini-copy" style="margin-top: 0.75rem; font-size: 0.65rem;" type="button">Copiar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 07: Ficha de Dirección Creativa (Interactive Checklist Builder) -->
+        <section id="direccion-creativa">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 07 / PLANTILLA CREATIVA ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Ficha interactiva de <span class="trends">DIRECCIÓN CREATIVA</span>
+          </h2>
+
+          <p class="text-editorial" style="margin-bottom: 3rem;">
+            Completa tu dirección creativa eligiendo una opción por cada parámetro. Tu ficha se consolidará de manera instantánea en la hoja de producción impresa a la derecha, compilando el prompt estratégico para tu Inteligencia Artificial.
+          </p>
+
+          <!-- Checklist Template Builder -->
+          <div class="checklist-builder-container">
+            <div class="checklist-options">
+              
+              <!-- Marca se siente -->
+              <div class="option-group">
+                <div class="option-group-title">Mi marca se debe sentir (Estilo)</div>
+                <div class="option-items">
+                  <button class="option-select-btn" data-group="estilo" data-val="Premium">Premium</button>
+                  <button class="option-select-btn" data-group="estilo" data-val="Urbana">Urbana</button>
+                  <button class="option-select-btn" data-group="estilo" data-val="Minimalista">Minimalista</button>
+                  <button class="option-select-btn" data-group="estilo" data-val="Femenina">Femenina</button>
+                  <button class="option-select-btn" data-group="estilo" data-val="Deportiva">Deportiva</button>
+                  <button class="option-select-btn" data-group="estilo" data-val="Juvenil">Juvenil</button>
+                  <button class="option-select-btn" data-group="estilo" data-val="Rebelde">Rebelde</button>
+                  <button class="option-select-btn" data-group="estilo" data-val="Artesanal">Artesanal</button>
+                  <button class="option-select-btn" data-group="estilo" data-val="Sofisticada">Sofisticada</button>
+                  <button class="option-select-btn" data-group="estilo" data-val="Exclusiva">Exclusiva</button>
+                </div>
+              </div>
+
+              <!-- Cliente ideal -->
+              <div class="option-group">
+                <div class="option-group-title">Mi cliente ideal se proyecta como</div>
+                <div class="option-items">
+                  <button class="option-select-btn" data-group="cliente" data-val="Seguro">Seguro</button>
+                  <button class="option-select-btn" data-group="cliente" data-val="Atractivo">Atractivo</button>
+                  <button class="option-select-btn" data-group="cliente" data-val="Moderno">Moderno</button>
+                  <button class="option-select-btn" data-group="cliente" data-val="Libre">Libre</button>
+                  <button class="option-select-btn" data-group="cliente" data-val="Fuerte">Fuerte</button>
+                  <button class="option-select-btn" data-group="cliente" data-val="Diferente">Diferente</button>
+                  <button class="option-select-btn" data-group="cliente" data-val="Relajado">Relajado</button>
+                  <button class="option-select-btn" data-group="cliente" data-val="Aspiracional">Aspiracional</button>
+                </div>
+              </div>
+
+              <!-- Fondo ideal -->
+              <div class="option-group">
+                <div class="option-group-title">El fondo / entorno ideal</div>
+                <div class="option-items">
+                  <button class="option-select-btn" data-group="fondo" data-val="Estudio Limpio">Estudio Limpio</button>
+                  <button class="option-select-btn" data-group="fondo" data-val="Calle Urbana">Calle Urbana</button>
+                  <button class="option-select-btn" data-group="fondo" data-val="Concreto Crudo">Concreto Crudo</button>
+                  <button class="option-select-btn" data-group="fondo" data-val="Playa Soleada">Playa Soleada</button>
+                  <button class="option-select-btn" data-group="fondo" data-val="Casa Elegante">Casa Elegante</button>
+                  <button class="option-select-btn" data-group="fondo" data-val="Terraza de Tarde">Terraza de Tarde</button>
+                  <button class="option-select-btn" data-group="fondo" data-val="Gimnasio Moderno">Gimnasio Moderno</button>
+                  <button class="option-select-btn" data-group="fondo" data-val="Fondo Beige Premium">Fondo Beige Premium</button>
+                  <button class="option-select-btn" data-group="fondo" data-val="Estudio Oscuro Drama">Estudio Oscuro Drama</button>
+                </div>
+              </div>
+
+              <!-- Actitud modelo -->
+              <div class="option-group">
+                <div class="option-group-title">La actitud del modelo</div>
+                <div class="option-items">
+                  <button class="option-select-btn" data-group="actitud" data-val="Relajada">Relajada</button>
+                  <button class="option-select-btn" data-group="actitud" data-val="Segura">Segura</button>
+                  <button class="option-select-btn" data-group="actitud" data-val="Seria">Seria</button>
+                  <button class="option-select-btn" data-group="actitud" data-val="Rebelde">Rebelde</button>
+                  <button class="option-select-btn" data-group="actitud" data-val="Natural">Natural</button>
+                  <button class="option-select-btn" data-group="actitud" data-val="Elegante">Elegante</button>
+                  <button class="option-select-btn" data-group="actitud" data-val="Sofisticada">Sofisticada</button>
+                  <button class="option-select-btn" data-group="actitud" data-val="Misteriosa">Misteriosa</button>
+                </div>
+              </div>
+
+              <!-- Paleta colores -->
+              <div class="option-group">
+                <div class="option-group-title">La paleta de colores dominantes</div>
+                <div class="option-items">
+                  <button class="option-select-btn" data-group="color" data-val="Neutra">Neutra</button>
+                  <button class="option-select-btn" data-group="color" data-val="Cálida">Cálida</button>
+                  <button class="option-select-btn" data-group="color" data-val="Fría">Fría</button>
+                  <button class="option-select-btn" data-group="color" data-val="Oscura">Oscura</button>
+                  <button class="option-select-btn" data-group="color" data-val="Pastel">Pastel</button>
+                  <button class="option-select-btn" data-group="color" data-val="Monocromática">Monocromática</button>
+                  <button class="option-select-btn" data-group="color" data-val="Tierra">Tierra</button>
+                  <button class="option-select-btn" data-group="color" data-val="Vibrante">Vibrante</button>
+                </div>
+              </div>
+
+              <!-- Composición -->
+              <div class="option-group">
+                <div class="option-group-title">Composición y Formato idóneo</div>
+                <div class="option-items">
+                  <button class="option-select-btn" data-group="composicion" data-val="Anuncio Vertical">Anuncio Vertical</button>
+                  <button class="option-select-btn" data-group="composicion" data-val="Historia 9:16">Historia 9:16</button>
+                  <button class="option-select-btn" data-group="composicion" data-val="Banner Web Horizontal">Banner Web Horizontal</button>
+                  <button class="option-select-btn" data-group="composicion" data-val="Catálogo Centrado">Catálogo Centrado</button>
+                  <button class="option-select-btn" data-group="composicion" data-val="Plano Detalle Textura">Plano Detalle Textura</button>
+                </div>
+              </div>
+
+              <!-- Emoción -->
+              <div class="option-group">
+                <div class="option-group-title">La emoción central</div>
+                <div class="option-items">
+                  <button class="option-select-btn" data-group="emocion" data-val="Deseo">Deseo</button>
+                  <button class="option-select-btn" data-group="emocion" data-val="Confianza">Confianza</button>
+                  <button class="option-select-btn" data-group="emocion" data-val="Lujo Silencioso">Lujo Silencioso</button>
+                  <button class="option-select-btn" data-group="emocion" data-val="Libertad">Libertad</button>
+                  <button class="option-select-btn" data-group="emocion" data-val="Poder">Poder</button>
+                  <button class="option-select-btn" data-group="emocion" data-val="Frescura">Frescura</button>
+                  <button class="option-select-btn" data-group="emocion" data-val="Calma">Calma</button>
+                  <button class="option-select-btn" data-group="emocion" data-val="Disciplina">Disciplina</button>
+                </div>
+              </div>
+
+            </div>
+
+            <!-- Output Sheet -->
+            <div class="checklist-output-sheet">
+              <div class="output-title-bar">
+                <h3>Ficha de Producción</h3>
+                <span class="hand-note-dark" style="font-size: 1.2rem; --rot: -4deg;">Radar 02</span>
+              </div>
+              
+              <div class="output-list-items">
+                <div>
+                  <strong>Estilo de Marca</strong>
+                  <span id="out-estilo">---</span>
+                </div>
+                <div>
+                  <strong>Personalidad Cliente</strong>
+                  <span id="out-cliente">---</span>
+                </div>
+                <div>
+                  <strong>Entorno / Fondo</strong>
+                  <span id="out-fondo">---</span>
+                </div>
+                <div>
+                  <strong>Actitud Modelo</strong>
+                  <span id="out-actitud">---</span>
+                </div>
+                <div>
+                  <strong>Paleta de Color</strong>
+                  <span id="out-color">---</span>
+                </div>
+                <div>
+                  <strong>Composición</strong>
+                  <span id="out-composicion">---</span>
+                </div>
+                <div>
+                  <strong>Emoción de Campaña</strong>
+                  <span id="out-emocion">---</span>
+                </div>
+              </div>
+
+              <div class="prompt-container" style="margin-top: 1.5rem; background-color: var(--color-bg-dark); border: 2.5px solid var(--color-bg-dark); padding: 1.2rem; box-shadow: 4px 4px 0px var(--color-acid);">
+                <div class="prompt-header" style="margin-bottom: 0.8rem; padding-bottom: 0.5rem; border-color: rgba(244, 244, 241, 0.15);">
+                  <span class="prompt-label" style="color: var(--color-acid); font-size: 0.7rem;">PROMPT COMPILADO</span>
+                  <button class="copy-btn" type="button" style="border-color: var(--color-acid); color: var(--color-acid); font-size: 0.65rem; padding: 0.25rem 0.75rem;">Copiar</button>
+                </div>
+                <pre class="prompt-text" id="checklist-prompt-code" style="color: var(--color-white-editorial); font-size: 0.8rem; line-height: 1.4; max-height: 120px;"></pre>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 08: Campañas Vaca Púrpura -->
+        <section id="vaca-purpura" class="dark-section">
+          <div class="sticker-yellow" style="position: absolute; top: 30px; right: 50px; --rot: -3deg;">
+            5 REFERENCIAS
+          </div>
+
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 08 / CASOS DE ESTUDIO ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Ejemplos de campañas <span class="trends">VACA PÚRPURA</span> para moda
+          </h2>
+
+          <p class="text-editorial" style="margin-bottom: 3.5rem;">
+            Revisa estas 5 ideas de campañas narrativas de alto nivel visual que rompen el feed genérico. Puedes tomarlas como base estratégica para tu marca:
+          </p>
+
+          <div style="display: flex; flex-direction: column; gap: 3rem;">
+            <!-- Campaña 1 -->
+            <div class="card-brutal" style="background-color: var(--color-bg-deep); margin-bottom: 0;">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-acid); font-size: 1.5rem; text-transform: uppercase;">
+                1. "No vendes una camiseta, vendes pertenencia"
+              </h3>
+              <p style="font-size: 0.85rem; font-family: var(--font-mono); color: var(--color-pinterest-light); margin-bottom: 1rem;">
+                Ideal para marcas Streetwear de Camisetas Oversized
+              </p>
+              <p style="margin-bottom: 1rem; font-size: 0.95rem;">
+                En vez de una foto estática de catálogo en fondo blanco, muestra una escena urbana nocturna con tres modelos caminando juntos, luz de farolas y ciudad desenfocada, concreto mojado y actitud de grupo. La camiseta deja de ser solo una prenda de algodón: se convierte en el uniforme de una comunidad, una tribu urbana.
+              </p>
+            </div>
+
+            <!-- Campaña 2 -->
+            <div class="card-brutal" style="background-color: var(--color-bg-deep); margin-bottom: 0;">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-acid); font-size: 1.5rem; text-transform: uppercase;">
+                2. "El polo que no parece de tienda pequeña"
+              </h3>
+              <p style="font-size: 0.85rem; font-family: var(--font-mono); color: var(--color-pinterest-light); margin-bottom: 1rem;">
+                Ideal para marcas de Polos Tejidos o Moda Masculina Premium
+              </p>
+              <p style="margin-bottom: 1rem; font-size: 0.95rem;">
+                En vez de colgar la prenda o ponerla en maniquí, muestra un modelo en la terraza de una casa antigua o club de campo elegante, luz suave de tarde, styling de pantalón claro y reloj clásico, actitud contenida. Comunicas: buen gusto, estatus silencioso, lujo discreto y verano refinado. La prenda parece mucho más valiosa sin cambiar su tejido.
+              </p>
+            </div>
+
+            <!-- Campaña 3 -->
+            <div class="card-brutal" style="background-color: var(--color-bg-deep); margin-bottom: 0;">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-acid); font-size: 1.5rem; text-transform: uppercase;">
+                3. "El vestido que vende una tarde completa"
+              </h3>
+              <p style="font-size: 0.85rem; font-family: var(--font-mono); color: var(--color-pinterest-light); margin-bottom: 1rem;">
+                Ideal para vestidos y colecciones femeninas casuales
+              </p>
+              <p style="margin-bottom: 1rem; font-size: 0.95rem;">
+                No muestres el vestido plano de frente sin vida. Muestra a una mujer caminando feliz por una calle cálida de pueblo mediterráneo, con movimiento natural en el tejido de la falda, luz dorada de atardecer, expresión relajada. No vendes solo la tela: vendes la tarde entera, la salida con amigas, las vacaciones que tu clienta sueña habitar.
+              </p>
+            </div>
+
+            <!-- Campaña 4 -->
+            <div class="card-brutal" style="background-color: var(--color-bg-deep); margin-bottom: 0;">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-acid); font-size: 1.5rem; text-transform: uppercase;">
+                4. "Activewear que parece disciplina, no solo licra"
+              </h3>
+              <p style="font-size: 0.85rem; font-family: var(--font-mono); color: var(--color-pinterest-light); margin-bottom: 1rem;">
+                Ideal para marcas deportivas y fitness
+              </p>
+              <p style="margin-bottom: 1rem; font-size: 0.95rem;">
+                En vez de poses ensayadas en un gimnasio genérico con focos artificiales, muestra una modelo al amanecer, en movimiento, con sudor sutil, luz dura natural de mañana, en calles de ciudad vacías y mirada enfocada. La prenda deportiva se convierte en un símbolo de disciplina, superación y fuerza mental. Vendes identidad deportiva.
+              </p>
+            </div>
+
+            <!-- Campaña 5 -->
+            <div class="card-brutal" style="background-color: var(--color-bg-deep); margin-bottom: 0;">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-acid); font-size: 1.5rem; text-transform: uppercase;">
+                5. "Básicos que parecen lujo"
+              </h3>
+              <p style="font-size: 0.85rem; font-family: var(--font-mono); color: var(--color-pinterest-light); margin-bottom: 1rem;">
+                Ideal para camisetas básicas, tops y sudaderas simples
+              </p>
+              <p style="margin-bottom: 1rem; font-size: 0.95rem;">
+                El error es pensar que básico es sinónimo de aburrido. Una campaña de básicos se eleva al nivel de obra de arte si utiliza fondos neutros de estudio, luz natural suave, una composición limpia con espacio negativo y texturas macro de algodón visible. Envías un mensaje claro de lujo silencioso: **"No necesito gritar para verme bien."**
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 09: Errores Comunes -->
+        <section id="errores-comunes">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 09 / GARGANTAS CREATIVAS ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Errores comunes al buscar en <span class="trends">PINTEREST</span>
+          </h2>
+
+          <div class="text-editorial" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <p>
+              Buscar inspiración visual parece sencillo, pero existen fallos estratégicos que destruyen el valor creativo de una campaña. Evita cometer estos 7 errores:
+            </p>
+
+            <div class="sheet-card" style="margin-top: 1rem;">
+              <div class="sheet-card-header">
+                <h4>Guía de Errores que Cuestan Ventas</h4>
+                <span class="hand-note-dark" style="--rot: -2deg; font-size: 1.1rem; color: var(--color-pinterest);">Filtro Brutal</span>
+              </div>
+              
+              <ol style="margin-left: 1.5rem; display: flex; flex-direction: column; gap: 1rem; font-size: 0.92rem; line-height: 1.5;">
+                <li><strong>Guardar imágenes sin analizarlas:</strong> Acumular no es entender. Si no puedes explicar técnicamente por qué elegiste una referencia (su luz, su pose, su fondo), no te servirá para estructurar prompts en IA.</li>
+                <li><strong>Mezclar demasiadas estéticas:</strong> Una marca no puede ser streetwear, old money, romántica y futurista a la vez. Eso no es versatilidad: es confusión de marca. Mantén coherencia.</li>
+                <li><strong>Copiar en vez de traducir:</strong> Copiar una campaña de otra marca (ej. replicar Zara idéntica) te hace lucir falso. Traducir es capturar la lógica visual de una referencia y adaptarla al ADN de tu producto.</li>
+                <li><strong>Elegir referencias que no representan al cliente real:</strong> Una imagen puede ser artísticamente bella, pero si no encaja con el estilo de vida o edad de tu público objetivo, no generará conversiones.</li>
+                <li><strong>Olvidar el producto principal:</strong> Hay referencias muy editoriales donde la prenda casi no se entiende o está tapada. Una marca pequeña necesita equilibrio: verse aspiracional, sí, pero enseñando claramente el producto que vende.</li>
+                <li><strong>No pensar en los formatos:</strong> Guardar solo imágenes verticales para Instagram y luego no tener ideas horizontales para banners web o anuncios comerciales de Meta Ads. Analiza el formato final de producción.</li>
+                <li><strong>Pedirle todo a la IA en una sola frase:</strong> Pretender que la IA lea tu mente escribiendo "foto profesional de modelo usando mi ropa". Si tu prompt no define fondo, luz, pose, paleta y emoción, el resultado dependerá de la suerte.</li>
+              </ol>
+            </div>
+          </div>
+        </section>
+
+        <!-- Sección 10: Cómo Usar Este Radar Antes de Cada Campaña (Proceso de Campaña) -->
+        <section id="metodo-campana" class="dark-section" style="border-bottom: none;">
+          <div class="section-meta">
+            <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 0.25rem;"><use href="#crosshair-svg"></use></svg>
+            <span>[ SECCIÓN 10 / PLAN DE ACCIÓN ]</span>
+          </div>
+
+          <h2 class="section-title">
+            Proceso de campaña en <span class="trends">7 PASOS</span>
+          </h2>
+
+          <p class="text-editorial" style="margin-bottom: 3.5rem;">
+            Antes de crear tu próxima campaña de moda con Inteligencia Artificial, sigue religiosamente este orden de pasos para asegurar un resultado coherente, profesional y memorable:
+          </p>
+
+          <div style="max-width: 800px;">
+            
+            <div class="step-item">
+              <div class="step-num-box">01</div>
+              <div class="step-content">
+                <h3>Paso 1: Define la Prenda Principal</h3>
+                <p style="opacity: 0.9;">No puedes dirigir una campaña sin saber qué vas a vender. Define primero si es un hoodie, vestido de lino, chaqueta sastre, material, silueta y detalles del producto real.</p>
+              </div>
+            </div>
+
+            <div class="step-item">
+              <div class="step-num-box">02</div>
+              <div class="step-content">
+                <h3>Paso 2: Define el Cliente Ideal</h3>
+                <p style="opacity: 0.9;">Determina quién comprará la colección. La comunicación visual cambia radicalmente si te diriges a una mujer de negocios sofisticada o a un joven entusiasta del skate.</p>
+              </div>
+            </div>
+
+            <div class="step-item">
+              <div class="step-num-box">03</div>
+              <div class="step-content">
+                <h3>Paso 3: Búsquedas con Intención en Pinterest</h3>
+                <p style="opacity: 0.9;">Usa el banco de búsqueda en inglés combinando estilo, tipo de prenda y locación. No busques palabras sencillas de consumidor; busca términos de director de arte.</p>
+              </div>
+            </div>
+
+            <div class="step-item">
+              <div class="step-num-box">04</div>
+              <div class="step-content">
+                <h3>Paso 4: Selecciona las 5 Referencias Maestras</h3>
+                <p style="opacity: 0.9;">Filtra y quédate únicamente con 5 imágenes maestras. Asigna una función técnica a cada una: una para Fondo, otra para Modelo, otra para Color, otra para Composición y otra para Emoción.</p>
+              </div>
+            </div>
+
+            <div class="step-item">
+              <div class="step-num-box">05</div>
+              <div class="step-content">
+                <h3>Paso 5: Decodifica con Criterio</h3>
+                <p style="opacity: 0.9;">Analiza cada referencia con tu checklist. No te limites a mirarlas: extrae decisiones prácticas (ej. "el fondo beige premium aporta calidez", "la pose sentada comunica cercanía").</p>
+              </div>
+            </div>
+
+            <div class="step-item">
+              <div class="step-num-box">06</div>
+              <div class="step-content">
+                <h3>Paso 6: Completa la Ficha de Dirección Creativa</h3>
+                <p style="opacity: 0.9;">Escribe o selecciona tu ficha técnica consolidando estilo, cliente, fondo, actitud, colores, formato y emoción. Aquí es donde transformas la inspiración visual en estrategia comercial.</p>
+              </div>
+            </div>
+
+            <div class="step-item">
+              <div class="step-num-box">07</div>
+              <div class="step-content">
+                <h3>Paso 7: Redacta tu Prompt ESTRUCTURADO</h3>
+                <p style="opacity: 0.9;">Usa la fórmula técnica uniendo todas las decisiones de tu ficha en un párrafo. Ahora sí puedes abrir la IA y pegar tu prompt estructurado con dirección creativa. Adiós al azar.</p>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- LO QUE HAS APRENDIDO EN ESTE BONUS -->
+          <div class="card-brutal" style="margin-top: 5rem; background-color: var(--color-bg-card); border-color: var(--color-white-editorial); box-shadow: 6px 6px 0px var(--color-acid);">
+            <div class="sheet-card-header" style="border-color: var(--color-white-editorial); margin-bottom: 2rem;">
+              <h2 style="font-family: var(--font-heavy); color: var(--color-white-editorial); font-size: 2.2rem; text-transform: uppercase;">
+                Lo que Has Aprendido en este Bonus
+              </h2>
+              <span class="hand-note-dark" style="color: var(--color-acid); font-size: 1.4rem; --rot: -3deg;">Fin del Bonus</span>
+            </div>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 3rem;">
+              <div>
+                <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.8rem; font-size: 0.95rem;">
+                  <li style="display: flex; align-items: center; gap: 0.5rem;">
+                    <span style="color: var(--color-acid); font-weight: bold;">✔</span> un sistema para buscar inspiración con intención,
+                  </li>
+                  <li style="display: flex; align-items: center; gap: 0.5rem;">
+                    <span style="color: var(--color-acid); font-weight: bold;">✔</span> un banco de términos de búsqueda para Pinterest,
+                  </li>
+                  <li style="display: flex; align-items: center; gap: 0.5rem;">
+                    <span style="color: var(--color-acid); font-weight: bold;">✔</span> una guía para analizar imágenes de campaña,
+                  </li>
+                  <li style="display: flex; align-items: center; gap: 0.5rem;">
+                    <span style="color: var(--color-acid); font-weight: bold;">✔</span> una plantilla para estudiar 5 referencias maestras,
+                  </li>
+                </ul>
+              </div>
+              <div>
+                <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.8rem; font-size: 0.95rem;">
+                  <li style="display: flex; align-items: center; gap: 0.5rem;">
+                    <span style="color: var(--color-acid); font-weight: bold;">✔</span> una dirección creativa clara para su próxima campaña,
+                  </li>
+                  <li style="display: flex; align-items: center; gap: 0.5rem;">
+                    <span style="color: var(--color-acid); font-weight: bold;">✔</span> una fórmula para convertir referencias en prompts,
+                  </li>
+                  <li style="display: flex; align-items: center; gap: 0.5rem;">
+                    <span style="color: var(--color-acid); font-weight: bold;">✔</span> ejemplos por tipo de marca y prenda,
+                  </li>
+                  <li style="display: flex; align-items: center; gap: 0.5rem;">
+                    <span style="color: var(--color-acid); font-weight: bold;">✔</span> criterio para saber qué referencias sirven y cuáles descartar.
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- The Big Result Message -->
+            <div class="card-brutal-dark" style="border-color: var(--color-acid); padding: 2.2rem; background-color: var(--color-bg-dark);">
+              <h3 style="font-family: var(--font-heavy); color: var(--color-acid); font-size: 1.4rem; text-transform: uppercase; margin-bottom: 1rem;">
+                Pero el resultado más importante es este:
+              </h3>
+              <p style="font-size: 1.25rem; font-weight: 700; line-height: 1.5; color: var(--color-white-editorial); margin-bottom: 1.5rem;">
+                Que tu dejes de depender de la suerte.
+              </p>
+              
+              <div style="background-color: var(--color-bg-deep); padding: 1.5rem; border-left: 4px solid var(--color-acid); font-family: var(--font-mono); font-size: 0.92rem; color: var(--color-white-editorial); margin-bottom: 2rem;">
+                <p style="margin-bottom: 0.5rem; opacity: 0.7;">Deja de decir:</p>
+                <p style="font-weight: bold; font-size: 1.15rem; color: var(--color-white-editorial); margin-bottom: 1rem; padding-left: 1rem;">“Voy a ver qué sale.”</p>
+                <p style="margin-bottom: 0.5rem; opacity: 0.7;">Y empieza a decir:</p>
+                <p style="font-weight: bold; font-size: 1.15rem; color: var(--color-acid); padding-left: 1rem;">“Esto es lo que quiero comunicar.”</p>
+              </div>
+
+              <h4 style="font-family: var(--font-heavy); font-size: 1.2rem; text-transform: uppercase; color: var(--color-white-editorial); margin-bottom: 1.5rem;">
+                Ese es el salto real:
+              </h4>
+
+              <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem; font-size: 0.95rem; margin-bottom: 2rem;">
+                <div style="border-bottom: 1px dashed rgba(244, 244, 241, 0.15); padding-bottom: 0.75rem;">
+                  <span style="color: var(--color-acid); display: block; font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; font-weight: bold;">De</span>
+                  Improvisar contenido
+                  <span style="color: var(--color-green-light); display: block; font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; margin-top: 0.5rem; font-weight: bold;">A</span>
+                  construir percepción.
+                </div>
+                <div style="border-bottom: 1px dashed rgba(244, 244, 241, 0.15); padding-bottom: 0.75rem;">
+                  <span style="color: var(--color-acid); display: block; font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; font-weight: bold;">De</span>
+                  vender prendas
+                  <span style="color: var(--color-green-light); display: block; font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; margin-top: 0.5rem; font-weight: bold;">A</span>
+                  vender deseo.
+                </div>
+                <div style="border-bottom: 1px dashed rgba(244, 244, 241, 0.15); padding-bottom: 0.75rem;">
+                  <span style="color: var(--color-acid); display: block; font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; font-weight: bold;">De</span>
+                  parecer una tienda más
+                  <span style="color: var(--color-green-light); display: block; font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; margin-top: 0.5rem; font-weight: bold;">A</span>
+                  parecer una marca con mundo propio.
+                </div>
+              </div>
+
+              <p style="font-size: 1.05rem; border-top: 1px solid rgba(244, 244, 241, 0.15); padding-top: 1.5rem; line-height: 1.6; color: var(--color-white-editorial);">
+                Y cuando una marca tiene mundo propio, deja de competir solo por precio.<br>
+                Empieza a competir por identidad. Ahí está el valor.
+              </p>
+            </div>
+          </div>
+
+        </section>
+
+      </main>
+    </div>
+
+    <!-- Lightbox Zoom Modal (Interactive) -->
+    <div class="brutal-lightbox">
+      <div class="lightbox-content">
+        <span class="lightbox-close">&times;</span>
+        <img src="" alt="Zoom" class="lightbox-img">
+        <div class="lightbox-caption"></div>
+      </div>
+    </div>
+
+    <!-- Load JavaScript -->
+    <script type="module" src="/src/radar.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1829 @@
+BONUS 4: CASTING INFINITO IA
+Crea modelos virtuales, avatares consistentes y embajadores de marca para mostrar prendas sin pagar sesiones, modelos ni producción
+Entendido. Sin lienzo. Todo en texto normal, completo, granular y más desarrollado.
+Estoy tomando como base el PDF de creación de avatar, donde se trabaja la idea de crear un personaje consistente, memorable, creíble y replicable en el tiempo, además de fijar anclas visuales como pelo, accesorios, personalidad y contexto. También estoy usando el documento de Angie Nicol, donde ya existe una identidad narrativa completa del avatar: nombre, historia, psicología, tono, frases madre, rol público y función de marca.
+BONUS 4: CASTING INFINITO IA
+Crea modelos virtuales, avatares consistentes y embajadores de marca para mostrar prendas sin pagar sesiones, modelos ni producción
+
+1. INTRODUCCIÓN GENERAL DEL BONUS
+Este bonus existe para resolver uno de los problemas más comunes, más frustrantes y más limitantes para cualquier persona que vende ropa, accesorios o productos visuales:
+“Tengo la prenda, pero no tengo quién me la modele.”
+Ese problema parece pequeño, pero en realidad bloquea toda la producción visual de una marca.
+Porque una prenda sola puede mostrar información.Pero una prenda puesta en una persona muestra deseo.
+Una camiseta en una mesa muestra algodón.Una camiseta puesta en una modelo con actitud muestra estilo.
+Un vestido colgado muestra forma.Un vestido sobre un cuerpo muestra caída, movimiento, proporción y aspiración.
+Un bolso sobre fondo blanco muestra producto.Un bolso en una escena con una mujer caminando muestra vida, ocasión y personalidad.
+Una gorra en una foto de catálogo muestra objeto.Una gorra en un modelo con energía streetwear muestra identidad.
+La ropa no se vende solo por existir.La ropa se vende cuando la persona puede imaginarse dentro de una escena.
+Y ahí es donde entra el Casting Infinito IA.
+Este bonus te enseña a crear modelos virtuales para tu marca usando inteligencia artificial. Pero no modelos genéricos. No caras perfectas de plástico. No influencers falsos sin alma. No imágenes bonitas que se olvidan en dos segundos.
+Aquí vas a aprender a construir modelos con intención.
+Modelos que sirvan para mostrar prendas.Modelos que sirvan para crear campañas.Modelos que sirvan para catálogos.Modelos que sirvan para banners.Modelos que sirvan para anuncios.Modelos que sirvan para contenido de Instagram, TikTok, web y lanzamientos.Y, en un nivel más avanzado, modelos que puedan convertirse en embajadores visuales de marca.
+La promesa de este bonus es simple:
+Vas a dejar de depender de tener modelos reales disponibles para poder mostrar tus prendas con fuerza visual.
+No porque los modelos reales no sirvan.Sí sirven.
+Pero si cada vez que quieres lanzar contenido necesitas conseguir modelo, fotógrafo, locación, maquillaje, dirección, horario, clima, presupuesto y edición, tu marca avanza lento.
+Con IA puedes crear un sistema visual mucho más flexible.
+Puedes crear una modelo femenina para una colección romántica.Puedes crear un hombre joven para streetwear.Puedes crear una mujer elegante para prendas premium.Puedes crear una modelo curvy para ropa más real y cercana.Puedes crear un modelo masculino para polos, hoodies o chaquetas.Puedes crear manos para accesorios.Puedes crear cuello, orejas y rostro para joyería.Puedes crear escenas completas para mostrar estilo de vida.Puedes crear una embajadora de marca con historia, personalidad y presencia.
+Eso es lo que vamos a desarrollar aquí.
+
+2. QUÉ ES REALMENTE UN CASTING INFINITO IA
+Un casting infinito IA no es una carpeta llena de caras generadas al azar.
+Eso no sirve.
+Un casting infinito IA es una biblioteca estratégica de modelos virtuales creados para cumplir funciones visuales específicas dentro de una marca.
+La palabra clave es función.
+Cada modelo debe tener una razón para existir.
+No creamos una modelo porque “se ve linda”.La creamos porque ayuda a vender una sensación concreta.
+No creamos un hombre porque “se ve cool”.Lo creamos porque comunica el estilo que la marca quiere proyectar.
+No creamos una embajadora porque “se ve profesional”.La creamos porque representa el ADN emocional, visual y comercial de la marca.
+Un casting IA bien hecho responde preguntas como:
+¿Qué tipo de cuerpo necesita esta prenda para verse mejor?¿Qué edad visual conecta con mi cliente ideal?¿Qué actitud hace que esta ropa se vea deseable?¿Qué energía debe tener la persona que usa esta prenda?¿Qué escena ayuda a que el producto se entienda?¿Qué nivel de realismo necesita la imagen?¿Qué modelo podría convertirse en rostro recurrente de la marca?¿Qué tipo de casting me permite producir contenido durante meses?
+La mayoría de personas se queda en un prompt básico:
+“Modelo usando camiseta negra, fotografía realista.”
+Eso produce algo genérico.
+Una persona que dirige visualmente piensa diferente:
+“Necesito una modelo petite, joven, de energía suave pero segura, con pelo rizado negro como ancla visual, piel real con textura, sonrisa cálida, fondo lavanda, luz editorial suave, usando una camiseta negra charcoal de algodón con arrugas naturales, para construir un rostro de marca femenino, magnético y humano.”
+Eso ya no es un prompt.
+Eso es dirección creativa.
+
+3. QUÉ PROBLEMAS RESUELVE ESTE BONUS
+Este bonus resuelve problemas reales de producción.
+Problema 1: No tienes modelos
+Muchas marcas tienen prendas buenas, pero no tienen quién las use.
+Entonces publican fotos de producto plano, prendas colgadas, fotos sobre cama, maniquíes o imágenes sin vida.
+Eso puede funcionar para mostrar inventario, pero no para construir deseo.
+La IA permite crear cuerpos, rostros, estilos y escenas sin depender de conseguir personas reales para cada prenda.
+Problema 2: No tienes presupuesto
+Una sesión real puede implicar:
+modelo, fotógrafo, estudio, maquillaje, styling, transporte, edición, coordinación y tiempo.
+Para una marca pequeña, eso puede ser demasiado.
+Con IA puedes hacer pruebas visuales, campañas piloto y contenido base sin quemar presupuesto.
+Problema 3: No tienes variedad
+Una sola modelo real puede limitar la percepción de la marca.
+Con IA puedes mostrar la misma prenda en:
+una mujer joven,una mujer madura,una mujer curvy,una modelo editorial,una chica casual,un hombre streetwear,un modelo elegante,una persona de estética urbana,un cuerpo más atlético,un cuerpo más cotidiano.
+Esa variedad ayuda a que más personas se identifiquen.
+Problema 4: No puedes repetir producción cada semana
+Si vendes moda, necesitas contenido constantemente.
+No puedes depender de hacer una gran sesión cada tres meses y luego quedarte sin imágenes.
+El casting IA permite producir piezas nuevas de forma mucho más rápida.
+Problema 5: Tu marca se ve pequeña
+Cuando una marca solo muestra productos aislados, se puede ver improvisada.
+Cuando muestra personas, escenas, campañas, actitudes y estilo editorial, empieza a verse más grande.
+El casting IA ayuda a elevar percepción.
+No cambia la calidad real de la prenda, pero sí cambia la forma en que se percibe.
+Problema 6: Tus prendas no tienen contexto
+La ropa necesita contexto.
+Una chaqueta no se entiende igual en fondo blanco que en una calle nocturna con luz editorial.
+Un top no se percibe igual en una modelo rígida que en una escena de café, playa, estudio o habitación.
+El contexto vende la historia de uso.
+
+4. DIFERENCIA ENTRE MODELO IA, AVATAR IA Y EMBAJADOR DE MARCA IA
+Antes de producir, hay que ordenar conceptos.
+No todo es lo mismo.
+4.1 Modelo IA
+Un modelo IA es una persona generada para mostrar una prenda o accesorio.
+Su objetivo principal es visual y comercial.
+Sirve para:
+mostrar fit,mostrar actitud,mostrar estilo,crear catálogo,crear anuncios,crear contenido.
+Ejemplo:
+Una mujer usando una blusa blanca en un estudio minimalista.Un hombre usando un hoodie oversized en una calle urbana.Una modelo mostrando aretes en primer plano.Un chico usando una gorra en una escena de skate.
+El modelo IA puede aparecer una vez o varias veces.
+No necesariamente necesita historia profunda.
+4.2 Avatar IA
+Un avatar IA es un modelo con identidad más estable.
+Ya no es solo “una persona para una imagen”.
+Tiene rasgos definidos y se puede repetir.
+Tiene anclas visuales.
+Por ejemplo:
+cabello negro rizado,sonrisa pequeña,piel clara oliva,cuerpo petite,fondo lavanda,camiseta charcoal,mirada directa,textura real.
+Un avatar puede usarse varias veces porque tiene identidad reconocible.
+4.3 Embajador de Marca IA
+Un embajador de marca IA es el nivel más avanzado.
+Aquí el personaje no solo tiene rostro.
+Tiene:
+nombre,historia,personalidad,tono,valores,forma de hablar,frases propias,función dentro de la marca,energía narrativa,conflicto,deseo,punto de vista.
+Un embajador IA puede convertirse en una figura recurrente.
+Puede ser la cara de una campaña.Puede representar una colección.Puede aparecer en piezas educativas.Puede presentar productos.Puede explicar ideas.Puede construir comunidad.Puede darle humanidad a la marca.
+La diferencia es esta:
+Modelo IA: muestra la prenda.Avatar IA: mantiene identidad visual.Embajador IA: representa la marca.
+
+5. LA INTENCIÓN REAL DEL BONUS
+Este bonus no busca enseñar a “hacer modelos bonitos”.
+Eso sería demasiado superficial.
+La intención real es enseñar un sistema.
+El alumno debe salir con la capacidad de:
+analizar qué tipo de modelo necesita su prenda,crear una identidad visual base,generar varias imágenes del mismo modelo,mantener consistencia,crear campañas con ese modelo,crear diferentes modelos para diferentes estilos,y convertir uno de esos modelos en embajador de marca.
+Aquí el alumno aprende a pensar como director creativo.
+No solo escribe prompts.
+Decide.
+Decide qué cuerpo representa mejor la prenda.Decide qué energía vende mejor la colección.Decide qué rostro puede convertirse en ancla de marca.Decide qué estilo visual debe repetirse.Decide qué detalles hacen memorable al avatar.Decide qué elementos pueden romper la consistencia.Decide qué escenas tienen sentido comercial.
+La IA ejecuta.
+Pero la dirección la pone la persona.
+
+6. PRINCIPIO CENTRAL: CREDIBILIDAD ANTES QUE PERFECCIÓN
+La IA tiende a exagerar.
+Si le pides belleza, te da piel plástica.Si le pides editorial, te da una imagen demasiado producida.Si le pides lujo, puede darte algo frío y falso.Si le pides modelo, puede darte una persona perfecta pero sin humanidad.
+Por eso el principio central es:
+Credibilidad antes que perfección.
+Una imagen no vende más solo porque el modelo sea perfecto.
+A veces vende menos, porque parece falsa.
+El realismo visual necesita imperfecciones.
+Necesita:
+poros,pequeñas asimetrías,textura de piel,arrugas naturales en la ropa,cabello con mechones imperfectos,manos normales,expresión humana,postura con peso,sombras reales,luz creíble,fondos con pequeñas imperfecciones.
+Una marca no necesita parecer generada por IA.
+Necesita parecer producida con criterio.
+La mejor imagen IA no es la que grita “mira qué espectacular”.
+La mejor imagen IA es la que la persona mira y piensa:
+“Esto podría ser una campaña real.”
+
+7. LA REGLA DE LAS ANCLAS VISUALES
+Un avatar consistente necesita anclas.
+Las anclas visuales son elementos que se repiten y hacen reconocible al personaje.
+Sin anclas, la IA cambia el rostro, el cuerpo, el pelo, la energía y la identidad en cada imagen.
+Con anclas, el modelo empieza a mantenerse estable.
+7.1 Qué puede ser un ancla visual
+Puede ser:
+tipo de pelo,color de pelo,sonrisa,forma del rostro,tono de piel,complexión,estatura,tipo de mirada,accesorio simple,prenda base,fondo base,color de marca,luz recurrente,gesto,actitud,paleta visual.
+7.2 Cuántas anclas usar
+Lo ideal es usar entre 3 y 5 anclas principales.
+Si usas solo una, la identidad puede ser débil.
+Si usas demasiadas, la IA se confunde.
+Ejemplo de anclas para Andrea / Angie:
+Cabello negro, rizado, abundante y brillante.
+Sonrisa cálida con dientes pequeños.
+Complexión petite, delgada y delicada.
+Piel clara / mestiza clara con textura real.
+Fondo lavanda profundo como entorno base.
+Esas cinco anclas bastan para que el avatar tenga identidad.
+No necesitamos tatuajes complejos, joyería difícil, logos, estampados raros o elementos imposibles de mantener.
+7.3 Anclas buenas vs anclas peligrosas
+Buenas anclas
+Cabello definido.Color de fondo.Tipo de luz.Complexión.Forma de rostro.Sonrisa.Accesorio simple.Gafas simples.Gorra simple.Paleta de ropa.Actitud visual.
+Anclas peligrosas
+Tatuajes complejos.Texto en ropa.Logos reales.Joyería muy detallada.Uñas con diseños complejos.Peinados imposibles.Estampados muy específicos.Maquillaje excesivo.Manos en poses difíciles.Accesorios que cambian de forma.
+La regla es:
+Mientras más simple sea el ancla, más fácil será repetirla.Mientras más compleja sea el ancla, más riesgo hay de inconsistencia.
+
+8. LAS 6 CAPAS DE UN MODELO IA PROFESIONAL
+Para crear modelos IA profesionales, trabajamos con 6 capas.
+No escribas prompts desde el caos.
+Construye por capas.
+Capa 1: Identidad física
+Aquí defines el cuerpo y el rostro.
+Incluye:
+género,edad visual,etnicidad o mezcla visual,tono de piel,complexión,altura aproximada,rostro,ojos,nariz,labios,mandíbula,pelo,manos,postura base.
+Ejemplo:
+“Mujer de 23 años, piel clara mestiza, complexión petite y delgada, rostro delicado, sonrisa cálida, dientes pequeños, cabello negro rizado abundante.”
+Capa 2: Realismo humano
+Aquí defines qué imperfecciones debe conservar.
+Incluye:
+poros visibles,textura real,asimetría natural,ligera rojez,pecas suaves,líneas finas,cabello con frizz sutil,piel sin suavizado de belleza,gestos no robóticos.
+Ejemplo:
+“Visible pores, natural skin texture, slight redness, micro asymmetry, no beauty smoothing.”
+Capa 3: Energía / actitud
+Aquí defines lo que transmite.
+Ejemplos:
+serena,confiada,tierna,rebelde,editorial,lujosa,cercana,magnética,intelectual,juvenil,urbana,minimalista,sensual sin vulgaridad,aspiracional,amigable.
+La energía debe coincidir con la marca.
+No todas las marcas necesitan modelos sexys.
+No todas necesitan modelos serias.
+No todas necesitan modelos sonrientes.
+La actitud debe vender el universo de la prenda.
+Capa 4: Vestuario y tela
+Aquí defines la prenda.
+Incluye:
+tipo de prenda,color,fit,material,caída,arrugas,textura,costuras,volumen,cómo toca el cuerpo,cómo se mueve.
+Ejemplo:
+“dark charcoal black crewneck t-shirt, realistic cotton folds, natural fabric texture, soft wrinkles around shoulders.”
+Capa 5: Entorno y escena
+Aquí defines dónde vive la imagen.
+Ejemplos:
+estudio blanco,fondo lavanda,apartamento real,café,calle urbana,rooftop,habitación,baño,pasarela,fondo editorial,tienda,playa,escaleras,metro,hotel,set minimalista.
+El entorno no se elige porque sí.
+El entorno debe reforzar la promesa de la prenda.
+Capa 6: Cámara, luz y composición
+Aquí defines la producción.
+Incluye:
+cámara full-frame,lente 35mm, 50mm, 85mm,apertura,ISO,distancia,tipo de luz,dirección de luz,temperatura,sombras,encuadre,aspect ratio,nivel de grano,retoque.
+Ejemplo:
+“Full-frame photography, 85mm lens, f/1.8, ISO 100, soft editorial butterfly lighting, extremely sharp focus on eyes and smile.”
+
+9. PLANTILLA INTERACTIVA BASE PARA CREAR UN MODELO IA
+Esta plantilla es el esqueleto profesional.
+El alumno no tiene que inventar desde cero.
+Solo debe rellenar los campos según su marca, prenda y campaña.
+PLANTILLA BASE
+{
+
+  "task": "generate",
+
+  "subject": {
+
+    "type": "human",
+
+    "gender": "male",
+
+    "age_range": "18-22",
+
+    "ethnicity": "mediterranean / southern european",
+
+    "skin_tone": "light olive with natural redness",
+
+    "face_details": [
+
+      "visible skin pores",
+
+      "slight freckles",
+
+      "natural asymmetry",
+
+      "soft jawline",
+
+      "defined lips with real texture"
+
+    ],
+
+    "hair": {
+
+      "color": "light brown",
+
+      "texture": "curly, natural volume",
+
+      "style": "unstyled, editorial natural curls"
+
+    },
+
+    "expression": "neutral, calm, confident",
+
+    "vitality": "alive, relaxed breathing, micro facial tension"
+
+  },
+
+  "wardrobe": {
+
+    "top": "plain white cotton t-shirt",
+
+    "fit": "regular, slightly relaxed",
+
+    "fabric_details": [
+
+      "visible cotton weave",
+
+      "natural wrinkles",
+
+      "soft folds around shoulders and chest"
+
+    ],
+
+    "accessories": "none"
+
+  },
+
+  "environment": {
+
+    "background": "pure white seamless studio backdrop",
+
+    "floor": "white matte studio floor",
+
+    "cleanliness": "minimal dust, studio realism"
+
+  },
+
+  "lighting": {
+
+    "setup": "editorial studio lighting",
+
+    "key_light": {
+
+      "type": "large softbox",
+
+      "position": "front-left",
+
+      "angle_deg": 35,
+
+      "temperature_k": 5600
+
+    },
+
+    "fill_light": {
+
+      "type": "soft reflector",
+
+      "intensity": "low"
+
+    },
+
+    "back_light": {
+
+      "type": "strip softbox",
+
+      "intensity": "very subtle"
+
+    },
+
+    "shadows": "soft, realistic falloff"
+
+  },
+
+  "camera": {
+
+    "type": "full-frame photography",
+
+    "lens_mm": 50,
+
+    "aperture": "f/4",
+
+    "iso": 100,
+
+    "shutter_speed": "1/125",
+
+    "distance_subject_m": 2.4,
+
+    "distance_background_m": 3.5
+
+  },
+
+  "angles": [
+
+    {
+
+      "name": "frontal",
+
+      "description": "head-on portrait, shoulders squared, direct gaze"
+
+    },
+
+    {
+
+      "name": "three_quarter_left",
+
+      "description": "body rotated 30 degrees left, head slightly back to camera"
+
+    },
+
+    {
+
+      "name": "three_quarter_right",
+
+      "description": "body rotated 30 degrees right, relaxed neck"
+
+    },
+
+    {
+
+      "name": "profile_left",
+
+      "description": "clean side profile, jawline visible"
+
+    },
+
+    {
+
+      "name": "profile_right",
+
+      "description": "opposite side profile, natural posture"
+
+    },
+
+    {
+
+      "name": "slight_top_down",
+
+      "description": "camera raised 25 cm above eye level, subtle editorial dominance"
+
+    }
+
+  ],
+
+  "composition": {
+
+    "framing": "bust-up to chest",
+
+    "placement": "centered",
+
+    "negative_space": "medium",
+
+    "aspect_ratio": "3:4"
+
+  },
+
+  "realism_constraints": {
+
+    "no_cgi": true,
+
+    "no_illustration": true,
+
+    "no_beauty_smoothing": true,
+
+    "retain_imperfections": true,
+
+    "no_text_on_image": true
+
+  },
+
+  "post_processing": {
+
+    "retouching": "minimal editorial cleanup only",
+
+    "grain": "subtle photographic grain",
+
+    "color_profile": "neutral studio tones"
+
+  },
+
+  "output": {
+
+    "quality": "high",
+
+    "style": "fashion editorial realism",
+
+  }
+
+} 
+
+
+10. CÓMO EXPLICAR LA PLANTILLA AL ALUMNO
+Esta plantilla no es para copiar y pegar sin pensar.
+Es una ficha de dirección creativa.
+Cada bloque controla una parte de la imagen.
+10.1 Bloque task
+"task": "generate"
+
+Aquí se indica que queremos generar una imagen nueva.
+10.2 Bloque subject
+Este es el bloque más importante para crear identidad.
+Aquí defines a la persona.
+No debes escribir solo:
+“female model”
+Eso es demasiado débil.
+Debes definir:
+tipo humano,género,edad,etnicidad visual,tono de piel,detalles del rostro,cabello,expresión y vitalidad.
+La palabra vitality es muy importante.
+"vitality": "alive, relaxed breathing, micro facial tension"
+
+Esto ayuda a evitar modelos muertos, rígidos o demasiado perfectos.
+Queremos que parezcan vivos.
+10.3 Bloque wardrobe
+Aquí defines la prenda.
+No basta con decir “white t-shirt”.
+Se define:
+fit,tela,arrugas,caída,textura,accesorios.
+La ropa debe parecer ropa real.
+Una prenda IA sin arrugas, peso o textura parece disfraz digital.
+10.4 Bloque environment
+Aquí defines el entorno.
+Para el primer avatar, lo ideal es un fondo limpio.
+¿Por qué?
+Porque el objetivo del primer avatar no es vender una escena.
+Es fijar identidad.
+Por eso se usa fondo blanco, lavanda, gris, beige o estudio.
+10.5 Bloque lighting
+La luz define la calidad.
+Una mala luz puede hacer que la imagen se vea barata.
+Una buena luz hace que el modelo parezca de editorial.
+En la plantilla hay:
+key light,fill light,back light,sombras.
+Esto permite controlar volumen, piel, cabello y profundidad.
+10.6 Bloque camera
+La cámara ayuda a que la IA entienda la estética fotográfica.
+No es lo mismo:
+26mm smartphone,35mm calle,50mm retrato natural,85mm editorial premium.
+El lente cambia la percepción del rostro.
+Para identidad editorial, 85mm suele verse más premium.Para lifestyle, 35mm o 50mm se siente más natural.Para UGC, 26mm smartphone se siente más cotidiano.
+10.7 Bloque angles
+Este bloque sirve para crear consistencia.
+No basta una imagen frontal.
+Debes pedir diferentes ángulos.
+Eso ayuda a que el avatar pueda funcionar en campañas reales.
+10.8 Bloque realism_constraints
+Este bloque es obligatorio.
+Debe mantenerse casi siempre.
+"no_cgi": true,
+"no_illustration": true,
+"no_beauty_smoothing": true,
+"retain_imperfections": true,
+"no_text_on_image": true
+
+Esto protege el realismo.
+10.9 Bloque post_processing
+Aquí defines el acabado.
+Para moda, normalmente conviene:
+retoque mínimo,grano sutil,tonos neutrales,textura real.
+No queremos filtros excesivos.
+Queremos imagen usable.
+
+11. PROCESO PASO A PASO PARA CREAR TU PRIMER MODELO IA
+Paso 1: Define para qué necesitas el modelo
+Antes de generar, responde:
+¿Este modelo es para catálogo?¿Para campaña editorial?¿Para anuncio?¿Para redes?¿Para web?¿Para accesorios?¿Para una colección específica?¿Para ser rostro recurrente de marca?
+No es lo mismo crear una imagen para e-commerce que para una campaña aspiracional.
+Paso 2: Define el tipo de cliente que debe verse reflejado
+Una marca vende más cuando la persona siente:
+“Esto podría ser para mí.”
+Por eso debes definir:
+edad del cliente,estilo de vida,nivel aspiracional,tipo de cuerpo,ciudad o ambiente,energía,estatus,personalidad.
+Ejemplo:
+Si tu marca vende ropa casual femenina para chicas de 20 a 28 años, probablemente no necesitas una modelo de pasarela intimidante. Quizá necesitas una modelo natural, urbana, cercana, con belleza realista y actitud de amiga cool.
+Si vendes ropa masculina premium, quizá necesitas un hombre sobrio, seguro, con postura elegante, fondo limpio y luz editorial.
+Si vendes accesorios, quizá necesitas rostro, manos, cuello y orejas bien definidos.
+Paso 3: Elige 3 a 5 anclas visuales
+Ejemplo femenino:
+cabello rizado negro,piel oliva clara,sonrisa cálida,complexión petite,fondo lavanda.
+Ejemplo masculino:
+barba irregular,cabello corto despeinado,piel mediterránea,sudadera lisa,balcón urbano.
+Ejemplo accesorios:
+manos delgadas,uñas naturales,piel real,joyería minimalista,fondo crema.
+Paso 4: Crea una imagen ancla
+La imagen ancla debe ser simple.
+No metas todavía:
+poses complejas,varios productos,fondos cargados,luces raras,ropa con texto,otros personajes.
+Primero crea una foto clara del modelo.
+Paso 5: Genera variaciones de ángulo
+Después de tener la primera imagen, genera:
+frontal,close-up,perfil,tres cuartos,plano medio,vista posterior,contact sheet.
+Paso 6: Revisa consistencia
+Mira si se mantiene:
+rostro,pelo,piel,sonrisa,proporciones,complexión,energía.
+Si cambia mucho, debes reforzar el prompt.
+Paso 7: Crea escenas de campaña
+Solo cuando el avatar esté estable, lo llevas a:
+calle,café,habitación,estudio,lookbook,editorial,e-commerce,anuncios.
+Paso 8: Integra la prenda
+Sube o describe tu prenda.
+Define:
+color,fit,material,textura,detalles,costuras,caída,qué debe mantenerse exacto.
+Paso 9: Genera piezas por formato
+Crea imágenes para:
+Instagram 4:5,stories 9:16,web 16:9,catálogo 3:4,cuadrado 1:1,banner horizontal,detalle de textura,plano cuerpo completo.
+Paso 10: Guarda el sistema
+No guardes solo imágenes.
+Guarda:
+prompt base,prompts de ángulos,prompts de campaña,anclas visuales,historia,paleta,estilo de luz,errores corregidos.
+Eso se convierte en tu sistema visual.
+
+12. EJEMPLO PROFESIONAL: ANDREA COMO BASE VISUAL Y ANGIE COMO EMBAJADORA
+En este ejemplo, Andrea es la base visual.
+Andrea es el rostro inicial, el cuerpo, la energía visual y la estética del avatar.
+Luego esa base se eleva y se convierte en una identidad más completa: Angie Nicol.
+Aquí hay una diferencia importante:
+Andrea funciona como referencia visual.Angie Nicol funciona como identidad narrativa y embajadora de marca.
+Esto es muy poderoso porque separa dos niveles:
+El nivel visual responde:¿Cómo se ve?
+El nivel narrativo responde:¿Quién es?¿Qué representa?Por qué existe?Cómo habla?Qué vende emocionalmente?Qué energía aporta a la marca?
+Un avatar fuerte necesita ambos niveles.
+
+13. PROMPTS EXACTOS DE ANDREA PARA CREAR EL PACK DE IDENTIDAD
+Estos prompts se usan tal cual para generar el paquete base del avatar.
+La intención es crear varias imágenes del mismo rostro, cuerpo y energía para construir consistencia.
+Prompt 1: Anchor portrait universal
+Objective: Universal identity anchor portrait, petite and feminine high-fashion. Scene: Stunningly attractive 23-year-old female model of fair, light-skinned Caucasian or Mestiza complexión (not pale, just light, explicitly not morena). She has a petite and very slender, delicate physique with a tender facial structure. She is looking directly at the camera with a beautiful, warm smile showing small, perfectly formed teeth. Her hair is incredibly abundant, shiny jet black, styled in tight, bouncy natural curls (rulitos) and waves that catch the light. Wearing a simple dark charcoal black crewneck t-shirt. Environment: Professional photo studio set with a solid, seamless deep lavender (plum-tone) backdrop. Lighting: Soft, high-end editorial butterfly lighting; a large softbox providing gentle shadows to define her petite structure and the texture of her hair. Subtle lavender environmental reflections on the skin. Camera: Full-frame photography, 85mm lens, f/1.8, ISO 100, extremely sharp focus on the smile and eyes. Style: Raw photographic realism, 8k, no_beauty_smoothing: true, retain_imperfections: true to keep natural skin pores, fine lines, and authentic texture visible.
+
+Intención del prompt
+Este es el prompt madre.
+Sirve para crear la primera imagen ancla del avatar.
+Aquí no estamos buscando todavía una campaña de ropa.
+Estamos buscando una identidad visual estable.
+Por eso el prompt define:
+edad,complexión,piel,sonrisa,dientes,cabello,ropa simple,fondo,luz,cámara,realismo.
+La frase más importante es:
+Universal identity anchor portrait
+Eso le dice a la IA que esta imagen no es una foto cualquiera.Es el origen del personaje.
+Prompt 2: Extreme close-up
+Extreme close-up of the 23-year-old petite fair-skinned woman from reference. Focus on her warm smile and small, perfectly aligned teeth. Raw skin texture with visible pores and natural delicate lines. Intense shine on the jet black hair curls framing her face. Deep lavender solid backdrop. 85mm lens, no_beauty_smoothing: true.
+
+Intención del prompt
+Este prompt sirve para fijar el rostro de cerca.
+En planos cercanos la IA suele fallar.
+Puede cambiar los dientes, la sonrisa, la textura de piel o los ojos.
+Por eso este prompt se enfoca en:
+sonrisa,dientes pequeños,poros,líneas naturales,rizos,brillo del cabello.
+Este prompt ayuda a que el avatar sea reconocible incluso en primeros planos.
+Prompt 3: 3/4 right profile
+3/4 right profile of the reference subject. High-definition focus on the abundant, shiny jet black natural curls (rulitos). Her fair skin shows natural texture and tiny freckles. Solid deep plum-lavender studio background. Large softbox lighting defining her slender facial structure. Raw photographic quality.
+
+Intención del prompt
+El ángulo tres cuartos es esencial.
+Sirve para ver:
+volumen de rostro,nariz,mandíbula,pómulos,cuello,cabello,proporción.
+Una identidad que solo funciona de frente no es estable.
+Un avatar útil para campañas debe funcionar desde varios ángulos.
+Prompt 4: 90-degree left profile
+90-degree left profile. The deep lavender background highlights her very slender neck and petite, delicate jawline. Sharp focus on the individual curls and the ear anatomy matching the reference. Retain all skin imperfections and natural texture. Editorial 8k.
+
+Intención del prompt
+Este prompt fija el perfil lateral.
+El perfil es donde la IA suele cambiar más el rostro.
+Puede cambiar:
+nariz,mentón,oreja,mandíbula,cuello,cráneo.
+Por eso se especifica:
+ear anatomy matching the reference
+La oreja parece un detalle pequeño, pero ayuda a mantener continuidad.
+Prompt 5: High-angle shot
+High-angle shot looking down at the petite model. She is looking up towards the lens with a romantic, innocent expression. Visible forehead pores and natural skin texture. Her black curls spread beautifully around her head. Lavender studio backdrop. 50mm lens feel.
+
+Intención del prompt
+Este prompt crea una toma desde arriba.
+Sirve para campañas más suaves, románticas o delicadas.
+También ayuda a mostrar el cabello como elemento visual fuerte.
+En Andrea, el pelo es una de las anclas principales.
+Por eso este prompt hace que los rizos se expandan y se vean como parte de la identidad.
+Prompt 6: Low-angle shot
+Low-angle shot looking up at the reference subject. Confident yet tender presence. Sharp focus on the delicate structure of her collarbones and thin neck. Deep lavender background with soft purple reflections on her fair skin. Crude realism, 8k.
+
+Intención del prompt
+El ángulo bajo da poder.
+Pero aquí no queremos transformar a Andrea en una figura dura o agresiva.
+Por eso el prompt dice:
+Confident yet tender presence
+Eso mantiene el equilibrio.
+Queremos seguridad sin perder delicadeza.
+Prompt 7: Back view
+Back view of the subject's head and shoulders, turning 45 degrees towards the camera. Sharp focus on the glossy texture of her tight black curls. Fair skin visible on the nape of the neck. Deep lavender studio backdrop. No smoothing, 100% skin realism.
+
+Intención del prompt
+La vista posterior sirve para moda.
+Muchas prendas necesitan mostrarse desde atrás.
+También sirve para fijar:
+nuca,hombros,espalda alta,volumen del cabello,textura del pelo,piel real.
+Este prompt permite que Andrea no sea solo un rostro frontal.
+Prompt 8: Medium shot hands on cheeks
+Medium shot of the petite model with her small hands lightly touching her cheeks. Extreme detail on the knuckles and the delicate skin of her hands matching her face. Deep lavender background. 8k raw quality with subtle photographic grain.
+
+Intención del prompt
+Este prompt introduce manos.
+Las manos son críticas porque la IA suele dañarlas.
+Aquí se especifica:
+manos pequeñas,nudillos,piel delicada,coherencia con el rostro,textura real.
+Este prompt también prepara al avatar para accesorios, belleza y planos de producto.
+Prompt 9: Laughing shot
+Spontaneous shot of the fair-skinned model laughing naturally, showing her small teeth. Authentic human expression with natural lines around the eyes. Lavender background. Raw, imperfect perfection, no filters.
+
+Intención del prompt
+Este prompt prueba expresión real.
+Un avatar no puede vivir solo con cara neutra.
+Tiene que poder:
+sonreír,reír,mirar serio,mirar suave,tener gestos humanos.
+La frase clave es:
+Raw, imperfect perfection, no filters.
+Eso evita una risa falsa de banco de imágenes.
+Prompt 10: Waist-up shot
+Waist-up shot of the petite and slender model standing with grace. Wearing the dark charcoal t-shirt. Realistic fabric folds and skin details on her thin arms. Solid deep lavender studio backdrop. Cinematic lighting, 8k resolution.
+
+Intención del prompt
+Este prompt muestra más cuerpo.
+Ya no solo vemos rostro.
+Vemos:
+torso,brazos,hombros,postura,caída de camiseta,proporción corporal.
+Es el puente entre avatar de rostro y modelo de moda.
+Prompt 11: Contact sheet 3x3
+A 3x3 contact sheet grid of the same petite, fair-skinned model with black rulos from reference. Nine different angles including frontal, profile, and extreme close-ups. Identical identity and small teeth in every panel. Solid deep lavender studio background for all images. Crude, raw textures throughout
+
+Intención del prompt
+Este prompt no es para publicar.
+Es para auditar consistencia.
+Una hoja 3x3 permite ver si el rostro se mantiene en varios ángulos.
+Debes revisar:
+¿Tiene la misma sonrisa?¿Tiene los mismos dientes pequeños?¿El cabello sigue siendo negro y rizado?¿La piel mantiene la misma textura?¿El rostro sigue siendo delicado?¿La complexión sigue siendo petite?¿La energía sigue siendo la misma?
+Si cambia demasiado, todavía no está listo.
+Si se mantiene, ya tienes una base fuerte.
+
+14. CÓMO SABER SI TU AVATAR YA ESTÁ LISTO
+Tu avatar está listo cuando puede repetirse sin perder su esencia.
+No tiene que ser idéntico al 100% como una copia matemática.
+Pero sí debe sentirse como la misma persona.
+Checklist de consistencia
+El avatar mantiene el mismo tipo de rostro.El avatar mantiene el mismo tipo de cabello.El avatar mantiene la misma edad visual.El avatar mantiene el mismo tono de piel.El avatar mantiene la misma complexión.El avatar mantiene la misma energía.El avatar se reconoce en close-up.El avatar se reconoce en perfil.El avatar se reconoce sonriendo.El avatar se reconoce en plano medio.La ropa no deforma el cuerpo.La piel no se vuelve plástica.Las manos no se dañan.El fondo no cambia sin intención.La luz se mantiene coherente.
+Señales de que todavía NO está listo
+Cada imagen parece una persona distinta.El cabello cambia de color o textura.La edad visual sube o baja demasiado.La piel se vuelve demasiado lisa.La sonrisa cambia por completo.Los dientes cambian mucho.La nariz cambia mucho.El cuerpo se vuelve más alto o más robusto sin intención.Las manos aparecen deformes.El rostro se ve demasiado perfecto.La imagen parece CGI.La ropa se funde con el cuerpo.El avatar pierde humanidad.
+
+15. CÓMO PASAR DE ANDREA A ANGIE NICOL
+Una vez tienes la base visual de Andrea, puedes construir la identidad narrativa.
+Aquí aparece Angie Nicol.
+Andrea es el cuerpo visual.Angie es la historia y la personalidad.
+Eso significa que el avatar deja de ser solo una modelo y se convierte en una figura de marca.
+La historia no es decoración.
+La historia sirve para dirigir.
+Cuando sabes que Angie es “La Mujer que Nunca Subestimes”, ya entiendes que su actitud no puede ser vacía.
+No puede posar como modelo genérica.No puede mirar como muñeca.No puede actuar como influencer superficial.No puede verse vulgar.No puede parecer una chica sin pensamiento.
+Debe transmitir:
+calidez,inteligencia,presencia,atracción estratégica,control,ligereza aparente,ambición silenciosa,magnetismo.
+Ese es el poder del personaje.
+
+16. IDENTIDAD COMPLETA DE ANGIE NICOL
+Nombre completo
+Angeline Nicol Varela
+Nombre público
+Angie Nicol
+Alias interno / energía de marca
+La Mujer que Nunca Subestimes
+Edad aparente
+27 años
+Fecha de nacimiento
+2 de abril
+Lugar de origen
+Bogotá, Colombia
+Nacionalidad
+Colombiana
+Idioma
+Habla español con naturalidad, inteligencia y una calidez que desarma.
+Su voz no suena dura de entrada.
+Su filo aparece después, cuando ya bajaste la guardia.
+Cargo público
+Especialista en Atracción de Audiencia
+No “directora creativa”.No “consultora de imagen”.
+Suena más específico, más estratégico y más creíble como figura individual.
+Qué hace realmente
+Angie entiende cómo funciona la primera impresión, el atractivo visual, el deseo de mirar, la pausa del scroll y el sesgo de percepción.
+No crea “contenido bonito”.
+Crea:
+atención detenida,magnetismo accesible,presencia memorable,primeras impresiones con intención,y sistemas visuales que convierten simpatía en interés y atención en acción.
+
+17. NÚCLEO DEL PERSONAJE
+Su esencia en una frase
+Angie es una mujer subestimada durante años por su belleza serena, que terminó convirtiendo esa subestimación en una forma brillante de inteligencia competitiva.
+Su tesis personal
+Si te ven como un adorno, tienes dos opciones: quejarte… o usar su error como ventaja.
+Lo que vende en el fondo
+No vende belleza.No vende “ser linda”.No vende validación masculina.
+Vende:
+atención,impacto inicial,atracción estratégica,percepción favorable,entrada suave con intención dura,y la capacidad de volver irresistible aquello que toca sin hacerlo vulgar.
+
+18. HISTORIA COMPLETA DE ANGIE NICOL
+Angeline Nicol Varela creció en Bogotá rodeada de una contradicción que tardó años en entender del todo: la gente la veía antes de escucharla. Desde muy joven descubrió que existía una forma de atención que no era respeto, aunque se pareciera. La miraban, la comentaban, la elogiaban, la suavizaban. Le atribuían ternura, ingenuidad, ligereza, incluso docilidad, solo por su forma de verse en una habitación. Y al principio, como tantas chicas inteligentes atrapadas en una lectura superficial ajena, confundió eso con una ventaja.
+No lo era.O al menos no todavía.
+Durante años, Angie ocupó el lugar que el mundo parecía haber reservado para ella: el de la chica agradable, luminosa, serena, “inspiradora”, fácil de mirar, difícil de tomar realmente en serio. Era invitada a espacios donde su presencia sumaba, pero su criterio no pesaba. En las cenas importantes le sonreían antes de escucharla. En conversaciones de negocio la interrumpían con cortesía. Muchos hombres, sobre todo hombres mayores y seguros de su propio poder, la clasificaban sin darse cuenta en una categoría cómoda: atractiva, amable, decorativa, no amenazante.
+Ese fue el error que la formó.
+Porque Angie no era ingenua. Solo estaba observando.
+Aprendió a leer esas situaciones con una precisión silenciosa. Entendió quién la reducía por costumbre, quién la idealizaba para no verla, quién la quería cerca pero no al mando, quién se sentía inteligente al subestimarla. Y cuanto más lo veía, menos ganas tenía de participar en ese guion. No quería ser la mujer agradable al lado de hombres importantes. No quería ser la inspiración de nadie. No quería ser la cara que suaviza una mesa de negociación. Quería otra cosa: quería ser la persona que decide lo que pasa en la mesa.
+El punto de ruptura no llegó en una gran tragedia, sino en una acumulación de microhumillaciones. Comentarios elegantes pero condescendientes. Miradas que asumían simpleza. Reuniones donde su intuición era ignorada hasta que un hombre la repetía con otra voz. Oportunidades donde su imagen abría puertas, pero su ambición incomodaba. Todo eso fue formando dentro de ella una decisión que, una vez tomada, ya no tuvo marcha atrás: jamás volvería a dejar que la percepción ajena definiera el alcance de su vida.
+A partir de ahí empezó su verdadera educación.
+Angie se obsesionó con entender la atención. No solo la atención superficial, sino su mecánica profunda. Qué hace que una persona se detenga. Qué convierte una presencia en algo memorable. Cómo opera el atractivo visual en el cerebro. Cómo se construye confianza en segundos. Qué separa lo “bonito” de lo magnético. Qué hace que una imagen se mire una vez y se olvide, o se mire una sola vez y no se pueda quitar de la cabeza. Empezó a estudiar marketing, narrativa, psicología perceptiva, branding, sesgos cognitivos, comportamiento de consumo, composición visual y deseo de pertenencia con una seriedad que nadie esperaba de ella.
+Y ahí ocurrió la inversión completa.
+Lo que antes había sido una lectura limitante —su belleza serena, su presencia amable, su aspecto de “buena”— se convirtió en una herramienta estratégica. Angie entendió que el problema no era ser percibida como suave. El problema era no controlar qué ocurría después de esa primera impresión. Aprendió a usar la calidez como acceso. La cercanía como ventaja. La estética amable como caballo de Troya. Mientras otros intentaban imponerse con agresividad, ella dominó una forma de poder mucho más sofisticada: entrar sin activar defensas, quedarse el tiempo suficiente, y cuando la otra persona por fin entiende que la subestimó, ya es tarde.
+Su carrera empezó a construirse sobre esa lógica.
+Angie no se especializó en vender lujo duro, ni autoridad rígida, ni marketing de testosterona, ni sofisticación intimidante. Lo suyo era distinto. Se volvió extraordinaria diseñando marcas, imágenes y campañas que no golpean de frente, pero se quedan dentro. Sistemas visuales que capturan por cercanía, por deseo de mirar, por ligereza aparente, por una mezcla de humanidad, belleza natural y precisión emocional. Entendió algo que muchos pasan por alto: en la economía de la atención, no todo lo que convierte necesita gritar. A veces lo que más funciona es lo que parece sencillo, inevitable y vivo.
+Cuando llegó la inteligencia artificial, Angie vio un territorio fértil. No la fascinó solo por velocidad de producción, sino porque le permitía experimentar a una escala brutal con variaciones de percepción, testing visual, ritmo de atención, primeros segundos, composición, energía de marca y patrones de atracción. Mientras otros producían imágenes espectaculares sin sensibilidad humana, ella usó la IA para afinar exactamente lo contrario: la sensación de naturalidad, proximidad, ligereza estratégica, deseo de volver a mirar.
+Hoy Angie Nicol es una figura que mucha gente sigue leyendo mal durante los primeros segundos. Y eso le encanta.
+Desde fuera parece accesible, serena, incluso dulce. Y lo es, en parte. Pero detrás de esa presencia hay una mente competitiva, ambiciosa y extraordinariamente lúcida sobre cómo funciona la percepción humana. Angie no necesita endurecerse visualmente para ser poderosa. No necesita hablar más alto. No necesita volverse fría para que la respeten. Lo suyo es más elegante: hace que la subestimación del otro trabaje a su favor.
+Sin embargo, esa misma inteligencia tiene una grieta.
+A Angie le cuesta confiar del todo en quienes la admiran demasiado rápido. Sabe que muchas veces la gente ama primero la superficie que puede entender de ella, no la complejidad real que carga dentro. Por eso ha desarrollado una relación tensa con la validación: sabe usarla, sabe generarla, incluso sabe monetizarla, pero no la confunde con reconocimiento verdadero. Una parte de ella sigue buscando algo más raro que la atención: ser vista entera y no reducida a lo evidente.
+Esa es la verdad más profunda de Angie.
+No quiere gustarte por accidente.Quiere construir algo tan fuerte que tengas que respetarla incluso si llegaste mirándola mal.
+No quiere ser el paisaje.Quiere ser la propietaria del terreno.
+Y en ese tránsito —de musa proyectada por otros a mujer que controla la atracción con intención empresarial— se volvió una figura completamente distinta.
+Más peligrosa.Más inteligente.Y mucho más libre.
+
+19. PSICOLOGÍA DEL PERSONAJE
+Herida central
+Angie teme que la vean, la deseen o la admiren sin llegar a tomarla realmente en serio.
+Esta herida es importante porque explica su tensión interna.
+Ella no rechaza la atención.
+La entiende.
+La usa.
+Pero no quiere quedarse atrapada en la superficie.
+Miedo profundo
+Quedar atrapada otra vez en una versión decorativa de sí misma, útil para adornar pero no para decidir.
+Deseo profundo
+Ser una mujer que controla el juego de la atención y convierte su presencia en poder económico, influencia y libertad.
+Necesidad emocional
+Ser reconocida por su mente con la misma intensidad con la que otros notan primero su imagen.
+Contradicción principal
+Tiene una energía luminosa y amable, pero detrás vive una competitividad feroz y una ambición sin disculpas.
+Esta contradicción es lo que la hace interesante.
+Si fuera solo dulce, sería plana.
+Si fuera solo dura, perdería magnetismo.
+Su poder está en la mezcla.
+Defecto dominante
+Puede volverse irónica, despiadadamente selectiva o emocionalmente distante con personas que percibe como condescendientes.
+Virtud dominante
+Tiene una comprensión finísima de la atención y del atractivo humano sin vulgaridad.
+
+20. CÓMO PIENSA ANGIE
+Sobre la belleza
+“La belleza abre la puerta. El criterio decide si te quedas con el edificio.”
+Sobre la atención
+“La atención no se ruega. Se diseña.”
+Sobre los hombres que la subestiman
+“No me molestan. Me financian el aprendizaje.”
+Sobre las marcas
+“La mayoría quiere verse mejor. Muy pocas entienden cómo volverse inolvidables.”
+Sobre el poder femenino
+“No necesito parecer dura para ser imposible de mover.”
+Sobre la atracción
+“Atraer no es gustar. Es instalarte en la mente correcta el tiempo suficiente.”
+Sobre la IA
+“La IA me interesa cuando puede multiplicar atención sin matar humanidad.”
+
+21. CÓMO ACTÚA ANGIE
+Entra con una energía ligera.
+Sonríe con facilidad, pero no para pedir permiso.
+Parece cercana incluso cuando está evaluando.
+No confronta de golpe; deja que el otro se revele primero.
+Usa el encanto como instrumento, no como necesidad.
+Sabe escuchar sin parecer sumisa.
+Tiene una agilidad social altísima.
+Cuando detecta condescendencia, su tono cambia apenas… y eso basta.
+
+22. CÓMO HABLA ANGIE
+Tono
+Cálido, claro, natural, afilado cuando hace falta.
+Ritmo
+Ágil y limpio.
+Habla con soltura, sin rigidez, sin sonar forzada.
+Vocabulario
+Usa palabras como:
+atención,presencia,atracción,impacto,memoria,percepción,deseo,naturalidad,magnetismo,claridad,intención,conversión.
+Rasgo diferencial
+Angie puede sonar amable y contundente en la misma frase.
+Nunca parece recitar poder; lo ejerce.
+Ejemplo de frase típica
+“No necesitas más alcance. Necesitas una presencia que nadie quiera ignorar.”
+
+23. RASGOS FÍSICOS Y VISUALES DE ANGIE
+Presencia general
+Angie tiene una presencia fresca, luminosa, humana.
+No intimida a primera vista.
+Y precisamente por eso funciona tan bien: su fuerza entra sin fricción.
+Rostro
+Rasgos suaves.Sonrisa muy natural.Facciones equilibradas.Cara muy expresiva.Apariencia cercana, joven, viva.Transmite inteligencia emocional antes que dureza.
+Ojos
+Marrones cálidos.Despiertos.Curiosos.Con brillo natural.Generan sensación de cercanía inmediata.
+Cabello
+Negro.Rizado.Con mucha personalidad.Volumen natural.Joven, libre, nada artificial.
+Piel
+Clara a oliva suave.Textura real.Muy humana.Funciona bien en planos cercanos porque no parece retocada ni plástica.
+Complexión
+Petite.Ligera.Ágil.Muy distinta a una presencia contundente o agresiva.Energía móvil y viva.
+Estatura
+1,63 m
+Estética de vestuario
+Gris humo.Malva oscuro.Negro suave.Crema fría.Tejidos cómodos pero limpios.Prendas simples con caída natural.Cero exceso.Cero “mujer trofeo”.Todo debe parecer auténtico, no montado.
+Código visual
+Soft power magnetism
+Luz, humanidad, precisión emocional, atractivo natural y ambición estratégica.
+
+24. ROL NARRATIVO PÚBLICO
+Angie puede existir públicamente como:
+Especialista en Atracción de Audiencia
+Otras variantes posibles:
+Estratega de Atención Visual.Diseñadora de Presencia de Marca.Especialista en Primer Impacto.Consultora de Magnetismo de Marca.Arquitecta de Atención y Conversión.
+La opción principal es más fuerte porque no suena genérica.
+“Especialista en Atracción de Audiencia” comunica una función clara.
+No es solo creativa.
+No es solo influencer.
+No es solo modelo.
+Es alguien que entiende cómo hacer que una marca sea mirable, memorable y deseable.
+
+25. ARCO NARRATIVO DEL PERSONAJE
+Punto de partida
+Una mujer vista durante años como presencia agradable antes que como inteligencia peligrosa.
+Conflicto presente
+Ha aprendido a usar la subestimación como ventaja, pero aún lucha contra el deseo de ser tomada en serio sin tener que demostrar el doble.
+Riesgo
+Convertirse en alguien que use tanto su capacidad de leer y manejar la percepción ajena que termine protegiéndose detrás de ella.
+Evolución posible
+Aprender que ya no necesita demostrar su peso a todo el mundo, solo elegir con precisión dónde colocarlo.
+Destino ideal
+Convertirse en una referencia de atracción de audiencia, presencia estratégica y poder femenino sin caricatura.
+
+26. FRASES MADRE DE ANGIE
+Estas frases sirven para campañas, captions, piezas de autoridad, videos cortos, hooks y personalidad del avatar.
+“No confundas suavidad con falta de ambición.”
+“La atención correcta cambia un negocio entero.”
+“Ser subestimada fue mi primera ventaja competitiva.”
+“No vine a decorar marcas. Vine a volverlas memorables.”
+“La belleza que no convierte es solo paisaje.”
+“No necesito imponerte mi presencia. Necesito que no puedas olvidarla.”
+“La primera impresión no es un accidente. Es estrategia.”
+
+27. RESUMEN MAESTRO DE ANGIE
+Angeline Nicol Varela, conocida públicamente como Angie Nicol, es una especialista en atracción de audiencia colombiana de 27 años que convirtió años de ser vista como una presencia luminosa pero subestimada en una ventaja táctica de altísimo valor. Su trabajo gira en torno a la atención, la percepción, la naturalidad estratégica y la construcción de magnetismo visual que no grita, pero convierte. Bajo su imagen cercana y suave vive una mente competitiva, ambiciosa y extremadamente precisa sobre cómo detener una mirada y transformarla en memoria, interés y acción.
+
+28. CÓMO USAR LA HISTORIA DEL AVATAR EN UNA CAMPAÑA
+La historia del avatar no debe contarse completa en cada imagen.
+Ese es un error.
+La historia funciona como una brújula interna.
+No todo se publica.
+Pero todo dirige.
+Cuando creas una imagen de Angie, la historia te ayuda a decidir:
+cómo mira,cómo sonríe,qué ropa usa,qué tan cerca está de cámara,qué fondo tiene,qué frase puede acompañarla,qué tipo de campaña protagoniza,qué energía debe transmitir,qué marcas puede representar,qué poses no le quedan bien.
+Por ejemplo:
+Si Angie es “La Mujer que Nunca Subestimes”, no debería aparecer como una modelo vacía con pose exageradamente sexy.
+Eso traicionaría el personaje.
+Debe aparecer atractiva, sí.
+Pero con inteligencia.
+Con control.
+Con presencia.
+Con una suavidad que no parece debilidad.
+La historia protege la coherencia.
+
+29. CÓMO CREAR LA VIDA DE TU PROPIO EMBAJADOR IA
+Para que el alumno cree su propio embajador, debe responder estas preguntas.
+29.1 Identidad básica
+¿Cómo se llama?¿Cuál es su nombre público?¿Qué edad aparenta?De dónde viene?Qué idioma habla?Qué cargo tiene dentro del universo de la marca?
+29.2 Energía de marca
+¿Cuál es su alias interno?
+Ejemplos:
+La Mujer que Nunca Subestimes.El Chico que Nunca Pide Permiso.La Chica que Convierte Silencio en Estilo.El Hombre que Viste como si ya hubiera ganado.La Musa de la Calle Limpia.La Cara Suave del Poder.
+El alias no siempre se publica.
+Pero ayuda a dirigir.
+29.3 Esencia en una frase
+Completa:
+“Es una persona que…”
+Ejemplo:
+“Es una mujer subestimada por su belleza serena que convirtió esa subestimación en inteligencia competitiva.”
+29.4 Tesis personal
+¿Qué cree sobre el mundo?
+Ejemplo:
+“Si te ven como un adorno, puedes usar su error como ventaja.”
+29.5 Herida
+¿Qué le dolió?
+No tiene que ser dramático.
+Puede ser:
+ser ignorada,ser subestimado,sentirse invisible,haber crecido sin estilo,haber sido juzgado por su cuerpo,haber sentido que no pertenecía,haber sido tomado como alguien común.
+29.6 Deseo
+¿Qué quiere lograr?
+Puede querer:
+respeto,libertad,influencia,belleza propia,pertenencia,estatus,movimiento,control,ser visto,ser recordado.
+29.7 Contradicción
+Todo personaje interesante tiene contradicción.
+Ejemplos:
+Dulce pero ambiciosa.Callado pero dominante.Elegante pero salvaje.Cercana pero selectiva.Minimalista pero intensa.Juvenil pero estratégica.Fría por fuera, emocional por dentro.
+29.8 Forma de hablar
+Define:
+tono,ritmo,palabras que usa,palabras que evita,frases madre,nivel de humor,nivel de autoridad.
+29.9 Estética
+Define:
+colores,prendas,telas,fondos,luz,ángulos,tipo de cámara,tipo de poses.
+29.10 Función comercial
+¿Para qué existe dentro de la marca?
+Puede existir para:
+presentar colecciones,ser rostro de anuncios,modelar prendas,crear confianza,educar,inspirar,vender aspiración,hacer contenido lifestyle,humanizar la marca.
+
+30. PLANTILLA PARA CREAR LA HISTORIA DE UN EMBAJADOR IA
+Usa esta estructura.
+Nombre completo
+[Nombre del personaje]
+Nombre público
+[Nombre corto o comercial]
+Alias interno
+[La energía secreta del personaje]
+Edad aparente
+[Edad visual]
+Lugar de origen
+[Ciudad / país / entorno cultural]
+Cargo público
+[Rol creíble dentro de la marca]
+Esencia en una frase
+[Quién es y qué representa]
+Tesis personal
+[La frase que resume cómo ve el mundo]
+Qué vende en el fondo
+No vende [cosa superficial].Vende [deseo real].
+Herida central
+[Qué le dolió o qué tensión interna carga]
+Miedo profundo
+[Qué teme repetir]
+Deseo profundo
+[Qué quiere conseguir]
+Contradicción principal
+[Dos fuerzas opuestas dentro del personaje]
+Virtud dominante
+[Qué lo hace valioso]
+Defecto dominante
+[Qué lo puede complicar]
+Cómo piensa
+Sobre la belleza:Sobre la atención:Sobre las marcas:Sobre el poder:Sobre la IA:Sobre el estilo:
+Cómo actúa
+[Lista de comportamientos]
+Cómo habla
+Tono:Ritmo:Vocabulario:Frase típica:
+Rasgos físicos
+Rostro:Piel:Cabello:Cuerpo:Ojos:Manos:Postura:
+Código visual
+[Nombre del código visual]
+Frases madre
+[5 a 10 frases]
+Resumen maestro
+[Un párrafo final que resuma todo]
+
+31. EJEMPLOS DE TIPOS DE MODELOS PARA ROPA FEMENINA
+Aquí el objetivo es que el alumno vea el rango de posibilidades.
+No todas las marcas femeninas necesitan el mismo tipo de modelo.
+31.1 Modelo femenina casual cercana
+Uso ideal:
+camisetas,tops básicos,hoodies,jeans,ropa juvenil,marca de Instagram,tienda local.
+Energía:
+natural,cercana,amigable,cotidiana,real.
+Características:
+piel real,pelo con movimiento,sonrisa suave,pose relajada,fondo apartamento o café.
+Prompt de ejemplo:
+Female casual fashion model, 24 years old, light olive skin with visible pores and natural redness, soft facial features, relaxed friendly expression, loose slightly messy dark hair, wearing a basic oversized cotton hoodie with natural wrinkles and worn texture, standing in a real apartment bedroom with soft daylight from a window, candid lifestyle photography, full-frame camera, 50mm lens, f/2.8, realistic fabric folds, no beauty smoothing, retain imperfections, no text, no logos, fashion editorial realism, aspect ratio 4:5.
+
+31.2 Modelo femenina editorial premium
+Uso ideal:
+vestidos,blazers,colecciones elegantes,campañas web,lookbook premium.
+Energía:
+sofisticada,serena,segura,minimalista,aspiracional.
+Prompt de ejemplo:
+Elegant female fashion model, 28 years old, fair warm skin tone with natural texture, defined cheekbones, calm confident gaze, sleek low bun hairstyle, wearing a structured cream blazer with realistic wool texture and soft folds, standing against a warm beige seamless studio backdrop, high-end editorial lighting with large softbox from front-left, full-frame photography, 85mm lens, f/2.0, minimal retouching, visible pores, natural skin imperfections, luxury fashion campaign aesthetic, no text, no logos, aspect ratio 3:4.
+
+31.3 Modelo femenina curvy realista
+Uso ideal:
+vestidos ajustados,ropa casual,ropa interior no explícita,jeans,fajas,marcas inclusivas,prendas para cuerpos reales.
+Energía:
+segura,cercana,real,femenina,fuerte.
+Prompt de ejemplo:
+Curvy female fashion model, 30 years old, medium olive skin with visible pores and natural skin texture, soft stomach shape and realistic body proportions, confident relaxed posture, wearing a fitted ribbed knit dress with natural fabric stretch and realistic folds around waist and hips, standing in a minimal studio with warm neutral background, soft editorial lighting, full-frame photography, 50mm lens, f/4, no body distortion, no beauty smoothing, retain natural imperfections, realistic fashion catalog image, aspect ratio 4:5.
+
+31.4 Modelo femenina streetwear
+Uso ideal:
+oversized tees,cargo pants,hoodies,gorras,chaquetas,marcas urbanas.
+Energía:
+rebelde,cool,despreocupada,joven,callejera.
+Prompt de ejemplo:
+Young female streetwear model, 22 years old, Latina / Mediterranean mix, natural skin texture, slightly tired eyes, confident unscripted expression, black messy ponytail, wearing oversized graphic-free charcoal hoodie and loose cargo pants, fabric creases and heavy cotton texture visible, standing on an urban rooftop at golden hour, city background softly blurred, full-frame photography, 35mm lens, f/2.5, raw editorial street style, no logos, no text, no beauty smoothing, aspect ratio 4:5.
+
+
+32. EJEMPLOS DE TIPOS DE MODELOS PARA ROPA MASCULINA
+32.1 Modelo masculino cotidiano realista
+Uso ideal:
+buzos,camisetas,sudaderas,jeans,ropa casual.
+Energía:
+normal,creíble,cercana,no demasiado perfecto.
+Prompt de ejemplo:
+Male fashion model, everyday realism, 27 years old, Southern European / Latin mix, light olive skin with uneven tone, visible pores, light under-eye shadows, short slightly unstyled dark hair, irregular beard growth, wearing a plain heavyweight cotton sweatshirt with natural creases and worn texture, shoulders slightly slouched, calm unscripted expression, urban balcony background, overcast daylight from front-left, mirrorless camera, 35mm lens, f/2.0, raw capture look, no beauty smoothing, no text, no logos, aspect ratio 3:4.
+
+32.2 Modelo masculino premium
+Uso ideal:
+camisas,polos,blazers,abrigos,ropa elegante masculina.
+Energía:
+segura,sobria,limpia,aspiracional.
+Prompt de ejemplo:
+Premium male fashion model, 32 years old, light tan skin with realistic texture, defined but natural jawline, short dark hair neatly styled, calm confident expression, wearing a navy knit polo with visible woven texture, clean collar and natural folds on chest and sleeves, standing in a minimal beige studio, soft high-end editorial lighting, full-frame photography, 85mm lens, f/2.8, subtle shadows, natural skin pores, minimal retouching, no text, no logos, luxury menswear campaign, aspect ratio 3:4.
+
+32.3 Modelo masculino streetwear
+Uso ideal:
+hoodies,camisetas oversized,gorras,chaquetas,sneakers,ropa urbana.
+Energía:
+calle,actitud,juventud,movimiento.
+Prompt de ejemplo:
+Young male streetwear model, 21 years old, mixed Latin ethnicity, medium skin tone with visible pores and natural imperfections, curly dark hair, relaxed confident gaze, wearing an oversized black cotton t-shirt with realistic heavy fabric folds and wide shoulders, loose denim pants, standing in a raw concrete urban alley, late afternoon natural light, full-frame photography, 35mm lens, f/2.2, editorial streetwear realism, no logos, no text, no CGI, aspect ratio 4:5.
+
+32.4 Modelo masculino deportivo
+Uso ideal:
+ropa deportiva,camisetas técnicas,shorts,gorras,chaquetas deportivas.
+Energía:
+activa,limpia,atlética,dinámica.
+Prompt de ejemplo:
+Athletic male sportswear model, 25 years old, lean natural physique, medium tan skin with sweat texture and visible pores, short dark hair slightly damp, focused expression, wearing a fitted technical training t-shirt with realistic synthetic fabric texture and natural tension around shoulders and chest, outdoor running track background, soft morning light, full-frame camera, 50mm lens, f/3.5, realistic motion-ready posture, no body exaggeration, no text, no logos, aspect ratio 9:16.
+
+
+33. EJEMPLOS DE MODELOS PARA ACCESORIOS
+Los accesorios no siempre necesitan cuerpo completo.
+A veces necesitan partes específicas:
+manos,cuello,orejas,rostro,muñeca,hombros,cabello,bolso en mano,gafas en rostro.
+33.1 Modelo para joyería de manos
+Uso ideal:
+anillos,pulseras,relojes,uñas naturales,accesorios pequeños.
+Prompt de ejemplo:
+Close-up fashion accessory shot of delicate female hands with natural skin texture, visible knuckles, subtle veins, short clean nails, wearing minimal gold rings and a thin bracelet, hands resting on soft cream fabric, realistic skin pores and tiny imperfections, warm window daylight from the left, macro photography, 85mm lens, f/2.8, shallow depth of field, luxury minimal accessory campaign, no text, no logos, no plastic skin, aspect ratio 4:5.
+
+33.2 Modelo para aretes
+Uso ideal:
+aretes,collares,peinados recogidos,joyería facial.
+Prompt de ejemplo:
+Extreme close-up side portrait of a female model wearing minimal silver earrings, ear anatomy realistic and sharp, natural skin texture with tiny pores and fine hairs, hair tucked behind the ear, soft jawline visible, warm beige studio background, editorial beauty lighting, full-frame photography, 85mm lens, f/2.0, no beauty smoothing, no CGI, no text, no logos, accessory campaign realism, aspect ratio 3:4.
+
+33.3 Modelo para bolsos
+Uso ideal:
+bolsos,carteras,tote bags,crossbody bags.
+Prompt de ejemplo:
+Lifestyle fashion campaign image of a stylish female model holding a structured leather handbag, natural hand grip with realistic fingers, wearing a simple cream trench coat with natural fabric folds, walking outside a modern café, soft daylight, urban premium atmosphere, full-frame photography, 50mm lens, f/2.8, focus on the bag and natural body movement, no text, no logos, realistic fashion editorial, aspect ratio 4:5.
+
+33.4 Modelo para gafas
+Uso ideal:
+gafas de sol,lentes ópticos,accesorios faciales.
+Prompt de ejemplo:
+Close-up portrait of a young male model wearing minimal black optical glasses, realistic skin texture, light under-eye shadows, slightly asymmetrical face, calm intelligent expression, plain dark t-shirt, neutral gray studio background, softbox reflection visible on lenses but eyes still clear, full-frame photography, 85mm lens, f/2.2, no beauty smoothing, no text, no logos, realistic accessory campaign, aspect ratio 3:4.
+
+
+34. BIBLIOTECA DE PROMPTS DE REALISMO COTIDIANO
+Estos prompts sirven para crear modelos más reales, tipo influencer cotidiano, no tan perfectos ni tan de pasarela.
+La intención es que el alumno entienda cómo pedir humanidad.
+PROMPT 01
+Lifestyle influencer candid portrait
+Lifestyle influencer candid portrait
+
+Identidad: Female AI influencer, everyday realism • Edad: 24-27 • Etnicidad: Latina /
+Mediterranean mix • Aspect: 4:5 • Tag: IMG_1032.CR2
+
+Realismo visible skin texture, natural pores,
+slight redness, micro asymmetry
+Pelo loose hair, slight frizz, imperfect
+
+strands
+
+Rostro jaw: soft, non-model proportions;
+lips: natural volume, matte
+texture; nose: slightly
+asymmetrical bridge
+Outfit basic cotton t-shirt
+Tela natural wrinkles, worn texture
+Pose relaxed posture, gaze slightly
+
+off-camera
+Expresión neutral, candid
+Fondo real apartment wall, slight
+
+imperfections
+
+Retoque minimal, no skin smoothing
+Luz window daylight, side-lit, 5400K
+Cámara full-frame DSLR · 50mm · f/2.8 ·
+
+2.3m
+
+JSON listo para pegar
+{
+"title": "Lifestyle influencer candid por
+trait",
+"identity": "Female AI influencer, everyd
+ay realism",
+"age_range": "24-27",
+"realism": "visible skin texture, natural
+pores, slight redness, micro asymmetry",
+"ethnicity": "Latina / Mediterranean mix"
+,
+"hairstyle": "loose hair, slight frizz, i
+mperfect strands",
+"face_details": {
+"jaw": "soft, non-model proportions",
+"lips": "natural volume, matte texture"
+,
+"nose": "slightly asymmetrical bridge"
+},
+"outfit": "basic cotton t-shirt",
+"fabric_details": "natural wrinkles, worn
+texture",
+"lighting": {
+"type": "window daylight",
+"direction": "side-lit",
+"temperature": "5400K"
+},
+"camera": {
+"type": "full-frame DSLR",
+"lens_mm": 50,
+"aperture": "f/2.8",
+"subject_distance_m": 2.3
+},
+"pose": "relaxed posture, gaze slightly o
+ff-camera",
+"expression": "neutral, candid",
+"background": "real apartment wall, sligh
+t imperfections",
+"retouching": "minimal, no skin smoothing
+",
+"aspect_ratio": "4:5",
+"file_tag": "IMG_1032.CR2"
+}
+
+Intención de este prompt
+Este prompt sirve para crear una modelo tipo influencer cotidiana.
+No es una modelo perfecta.No es una portada de lujo.No es una imagen exagerada.
+Es una persona que parece real.
+La clave está en:
+visible skin texture,natural pores,slight redness,micro asymmetry,loose hair,slight frizz,real apartment wall.
+Esto ayuda a que la imagen parezca cercana y creíble.
+
+PROMPT 02
+Male influencer everyday realism
+Male influencer everyday realism
+
+Identidad: Male AI creator, non-model appearance • Edad: 26-30 • Etnicidad: Southern
+European • Aspect: 3:4 • Tag: DSC_2219.JPG
+
+Realismo uneven skin tone, light under-eye
+
+shadows, pores visible
+Pelo short, slightly unstyled
+Barba irregular beard growth
+Outfit plain sweatshirt
+Tela creased fabric, natural wear
+Pose shoulders slightly slouched
+Expresión calm, unscripted
+Fondo urban balcony
+Retoque raw capture look
+Luz overcast daylight, front-left, 5600K
+Cámara mirrorless camera · 35mm · f/2.0 ·
+
+2.6m
+
+JSON listo para pegar
+{
+"title": "Male influencer everyday realis
+m",
+"identity": "Male AI creator, non-model a
+ppearance",
+"age_range": "26-30",
+"realism": "uneven skin tone, light under
+-eye shadows, pores visible",
+"ethnicity": "Southern European",
+"hairstyle": "short, slightly unstyled",
+"facial_hair": "irregular beard growth",
+"outfit": "plain sweatshirt",
+"fabric_details": "creased fabric, natura
+l wear",
+"lighting": {
+"type": "overcast daylight",
+"direction": "front-left",
+"temperature": "5600K"
+},
+"camera": {
+"type": "mirrorless camera",
+"lens_mm": 35,
+"aperture": "f/2.0",
+"subject_distance_m": 2.6
+},
+"pose": "shoulders slightly slouched",
+"expression": "calm, unscripted",
+"background": "urban balcony",
+"retouching": "raw capture look",
+"aspect_ratio": "3:4",
+"file_tag": "DSC_2219.JPG"
+}
+
+Intención de este prompt
+Este prompt es perfecto para ropa masculina casual.
+La frase clave es:
+non-model appearance
+Eso evita el típico hombre demasiado perfecto.
+También ayudan:
+uneven skin tone,light under-eye shadows,irregular beard growth,shoulders slightly slouched,raw capture look.
+Este prompt produce una imagen más humana, más creíble y menos publicitaria falsa.
+
+PROMPT 03
+Casual influencer iPhone-style
+Casual influencer iPhone-style
+
+Identidad: Female AI influencer, friend-next-door vibe • Edad: 22-25 • Etnicidad: Mixed
+European • Aspect: 9:16 • Tag: IMG_7784.HEIC
+
+Realismo freckles, uneven blush, natural
+
+skin texture
+Pelo messy ponytail
+Outfit oversized hoodie
+Pose slight lean, casual framing
+Expresión soft smile, candid
+Fondo bedroom with real clutter
+Imperfecciones sensor noise, imperfect focus
+Luz ambient indoor light, top-down
+
+mixed, 4800K
+
+Cámara smartphone look · 26mm · f/1.8 ·
+
+1.4m
+
+JSON listo para pegar
+{
+"title": "Casual influencer iPhone-style"
+,
+"identity": "Female AI influencer, friend
+-next-door vibe",
+"age_range": "22-25",
+"realism": "freckles, uneven blush, natur
+al skin texture",
+"ethnicity": "Mixed European",
+"hairstyle": "messy ponytail",
+"outfit": "oversized hoodie",
+"lighting": {
+"type": "ambient indoor light",
+"direction": "top-down mixed",
+"temperature": "4800K"
+},
+"camera": {
+"type": "smartphone look",
+"lens_mm": 26,
+"aperture": "f/1.8",
+"subject_distance_m": 1.4
+},
+"pose": "slight lean, casual framing",
+"expression": "soft smile, candid",
+"background": "bedroom with real clutter"
+,
+"imperfections": "sensor noise, imperfect
+focus",
+"aspect_ratio": "9:16",
+"file_tag": "IMG_7784.HEIC"
+}
+
+Intención de este prompt
+Este prompt sirve para contenido tipo UGC.
+No parece campaña producida.
+Parece una foto hecha con celular.
+Eso puede ser muy útil para:
+stories,anuncios nativos,contenido de confianza,testimonios visuales,ropa casual,hoodies,pijamas,ropa cómoda.
+La clave es:
+smartphone look,sensor noise,imperfect focus,bedroom with real clutter.
+Eso hace que la imagen no se vea demasiado fabricada.
+
+PROMPT 04
+Coffee shop candid influencer
+Coffee shop candid influencer
+
+Identidad: Lifestyle AI influencer • Edad: 25-29 • Etnicidad: Latina • Aspect: 4:5 •
+Tag: IMG_4591.CR2
+
+Realismo matte skin, pores visible, slight
+
+redness
+
+Pelo hair tucked behind ears
+Outfit knit sweater
+Pose hands holding coffee cup
+Tela soft folds, natural drape
+Expresión thoughtful, unposed
+Fondo real café interior
+Retoque none
+Luz natural café daylight, window side,
+
+5200K
+
+Cámara street photography mirrorless ·
+
+40mm · f/2.5 · 2.0m
+
+JSON listo para pegar
+{
+"title": "Coffee shop candid influencer",
+"identity": "Lifestyle AI influencer",
+"age_range": "25-29",
+"realism": "matte skin, pores visible, sl
+ight redness",
+"ethnicity": "Latina",
+"hairstyle": "hair tucked behind ears",
+"outfit": "knit sweater",
+"fabric_details": "soft folds, natural dr
+ape",
+"lighting": {
+"type": "natural café daylight",
+"direction": "window side",
+"temperature": "5200K"
+},
+"camera": {
+"type": "street photography mirrorless"
+,
+"lens_mm": 40,
+"aperture": "f/2.5",
+"subject_distance_m": 2.0
+},
+"pose": "hands holding coffee cup",
+"expression": "thoughtful, unposed",
+"background": "real café interior",
+"retouching": "none",
+"aspect_ratio": "4:5",
+"file_tag": "IMG_4591.CR2"
+
+Intención de este prompt
+Este prompt sirve para moda lifestyle.
+Es ideal para:
+sweaters,chaquetas,prendas cozy,marcas femeninas suaves,contenido de café,colecciones de otoño,campañas más humanas.
+La clave está en:
+thoughtful, unposed,hands holding coffee cup,real café interior,natural café daylight.
+No estamos vendiendo solo la prenda.
+Estamos vendiendo una escena.
+
+35. CÓMO ADAPTAR LOS PROMPTS A TU PROPIA MARCA
+El alumno debe entender que no siempre tiene que cambiar todo.
+A veces basta con cambiar 2 o 3 campos.
+Ejemplo 1: cambiar edad y outfit
+Original:
+Female AI influencer, 24-27, basic cotton t-shirt.
+Adaptado:
+Female AI influencer, 28-32, oversized linen shirt.
+Ejemplo 2: cambiar fondo y luz
+Original:
+real apartment wall, window daylight.
+Adaptado:
+minimal beige studio, soft editorial lighting.
+Ejemplo 3: cambiar energía
+Original:
+neutral, candid.
+Adaptado:
+confident, elegant, direct gaze.
+Ejemplo 4: cambiar formato
+Original:
+aspect ratio 4:5.
+Adaptado:
+aspect ratio 9:16 para stories o Reels.
+La regla es:
+No cambies 20 cosas a la vez.
+Si quieres mantener consistencia, cambia poco.
+Si cambias rostro, pelo, edad, cuerpo, fondo, luz, outfit y cámara al mismo tiempo, la IA puede crear otra persona.
+
+36. CÓMO USAR UN MODELO IA PARA MOSTRAR UNA PRENDA REAL
+Cuando quieras mostrar una prenda real, debes trabajar en dos capas:
+Identidad del modelo.
+Fidelidad de la prenda.
+La IA puede inventar detalles si no eres preciso.
+Por eso, cuando describas la prenda, debes incluir:
+tipo de prenda,color exacto,material,fit,cuello,mangas,botones,costuras,estampado,largo,textura,cómo debe caer,qué no debe cambiar.
+Prompt base para integrar prenda
+Use the same model identity from the reference image. Preserve her face, age, skin tone, body proportions, hair texture and expression style. She is wearing [DESCRIBIR PRENDA EXACTA], with [COLOR], [MATERIAL], [FIT], [DETALLES IMPORTANTES]. The garment must keep its original design, proportions, seams, neckline, sleeves, texture and color. Fashion editorial realism, realistic fabric folds, natural body contact, no logo changes, no text added, no distorted garment, no beauty smoothing, retain skin texture, full-frame photography, [LENTE], [LUZ], [FONDO], aspect ratio [FORMATO].
+
+Ejemplo con camiseta femenina
+Use the same petite fair-skinned female model with shiny jet black natural curls and warm small-teeth smile from the reference image. Preserve her face, body proportions, hair texture and delicate feminine structure. She is wearing a fitted ribbed white cotton crop top with short sleeves, visible ribbed texture, natural stretch around chest and waist, realistic fabric folds, clean neckline and no printed text. Minimal lavender studio background, soft editorial lighting, full-frame photography, 85mm lens, f/2.0, no beauty smoothing, retain skin pores and natural texture, fashion editorial realism, aspect ratio 4:5.
+
+Ejemplo con hoodie masculino
+Use the same male model identity from the reference image. Preserve his age, skin tone, short unstyled hair, irregular beard growth and relaxed non-model appearance. He is wearing an oversized heavyweight charcoal hoodie with dropped shoulders, thick cotton texture, visible seams, realistic folds around chest and sleeves, slightly worn fabric, no logos, no text. Urban balcony background, overcast daylight from front-left, mirrorless camera, 35mm lens, f/2.0, raw fashion realism, no CGI, no beauty smoothing, aspect ratio 3:4.
+
+
+37. CÓMO CREAR UNA CAMPAÑA CON TU CASTING IA
+Una campaña no es una imagen.
+Una campaña es una secuencia visual.
+Para una prenda, puedes crear:
+hero image,plano frontal,plano tres cuartos,plano detalle,lifestyle,close-up de tela,back view,imagen para anuncio,imagen para story,imagen para web.
+Estructura de campaña mínima
+Imagen 1: Hero
+La imagen más fuerte.
+Sirve para portada, anuncio o landing.
+Debe tener:
+modelo,prenda clara,actitud fuerte,fondo coherente,espacio para texto si se necesita.
+Imagen 2: Fit frontal
+Muestra cómo queda la prenda.
+Debe ser más limpia.
+Imagen 3: Fit lateral o 3/4
+Muestra volumen y caída.
+Imagen 4: Detalle de tela
+Muestra calidad.
+Imagen 5: Lifestyle
+Muestra cómo se usa en la vida real.
+Imagen 6: Back view
+Muestra espalda o parte posterior.
+Imagen 7: Formato story
+9:16 con composición vertical.
+Imagen 8: Banner web
+16:9 con espacio negativo.
+
+38. PROMPTS DE CAMPAÑA PARA ANDREA / ANGIE
+38.1 Hero editorial para marca femenina
+Use the same petite fair-skinned female model with shiny jet black tight natural curls, warm small-teeth smile and delicate feminine structure from the reference image. She is standing with calm strategic confidence, wearing a dark charcoal fitted cotton t-shirt tucked into high-waisted tailored trousers, realistic fabric folds and natural body proportions. Deep plum-lavender editorial studio backdrop, soft high-end butterfly lighting, subtle purple reflections on her skin, full-frame photography, 85mm lens, f/1.8, sharp focus on eyes and smile, raw photographic realism, visible pores, no beauty smoothing, retain imperfections, no text, no logos, premium fashion campaign, aspect ratio 4:5.
+
+38.2 Lookbook minimalista
+Same Andrea / Angie identity from reference: petite fair-skinned woman, abundant shiny jet black natural curls, warm smile with small teeth, delicate jawline, slender neck, real skin texture. Full-body lookbook shot wearing a simple cream oversized shirt and straight-leg black trousers, natural linen and cotton fabric texture, soft wrinkles, relaxed elegant posture, standing centered on a seamless deep lavender studio background, editorial softbox lighting, full-frame photography, 50mm lens, f/4, minimal retouching, no beauty smoothing, realistic fashion lookbook, aspect ratio 3:4.
+
+38.3 Imagen lifestyle para redes
+Same petite female avatar identity from reference, shiny black curls, fair light skin with natural texture, warm candid smile with small teeth. She is sitting near a window in a real apartment, wearing a soft charcoal knit sweater with natural folds, holding a coffee cup, relaxed but intelligent presence, cozy lifestyle fashion atmosphere, soft window daylight, 50mm lens, f/2.8, visible pores, natural skin texture, no filters, no text, no logos, candid editorial realism, aspect ratio 4:5.
+
+38.4 Anuncio con espacio negativo
+Same Andrea / Angie identity from reference, petite fair-skinned woman with abundant shiny black curls and delicate feminine structure. She is standing on the left side of the frame, wearing a minimal black cotton top with realistic fabric texture, looking directly at camera with a soft confident smile. Deep lavender seamless background with large negative space on the right for ad copy, soft editorial lighting, full-frame photography, 85mm lens, sharp eyes, raw skin texture, no beauty smoothing, no text generated, no logos, premium brand campaign, aspect ratio 16:9.
+
+38.5 Back view para prenda
+Same petite fair-skinned female model from reference, back view of head and upper body, turning 45 degrees toward the camera, shiny tight black curls with glossy texture, slender neck and delicate shoulders visible. She is wearing a charcoal cotton t-shirt with realistic back fabric folds, natural shoulder seams, no logo, no text. Deep plum-lavender studio backdrop, soft editorial lighting, raw photographic realism, visible skin texture on nape, no beauty smoothing, aspect ratio 3:4.
+
+
+39. CÓMO CREAR VARIEDAD SIN PERDER IDENTIDAD
+La consistencia no significa que todas las imágenes sean iguales.
+Significa que el personaje se reconoce aunque cambie la escena.
+Puedes variar:
+ropa,pose,formato,fondo,luz,expresión,distancia,ángulo.
+Pero debes mantener:
+rostro,edad visual,pelo,complexión,tono de piel,energía base.
+Regla práctica
+Si vas a cambiar mucho la ropa, mantén el fondo y luz parecidos.
+Si vas a cambiar el fondo, mantén ropa y pose simples.
+Si vas a cambiar la expresión, mantén ángulo y luz similares.
+Si vas a cambiar el ángulo, mantén pelo y fondo muy claros.
+No cambies todo al mismo tiempo.
+
+40. CÓMO CREAR UN CASTING COMPLETO PARA UNA MARCA DE ROPA
+Una marca puede crear un casting base con 5 tipos de modelos.
+Modelo 1: Rostro principal
+Es el embajador o embajadora.
+Aparece en campañas importantes.
+Tiene historia, personalidad y anclas fuertes.
+Modelo 2: Modelo de catálogo
+Más neutral.
+Sirve para mostrar prendas sin robar protagonismo.
+Debe ser claro, limpio y replicable.
+Modelo 3: Modelo lifestyle
+Sirve para escenas reales.
+Café, calle, apartamento, viajes, rutina.
+Modelo 4: Modelo aspiracional
+Más editorial.
+Sirve para banners, campañas premium y lanzamientos.
+Modelo 5: Modelo de detalle
+No necesariamente muestra rostro completo.
+Sirve para manos, cuello, espalda, textura, accesorios.
+Con estos 5 modelos, una marca pequeña puede producir muchísimo contenido.
+
+41. MATRIZ PARA ELEGIR MODELO SEGÚN PRENDA
+Camisetas básicas
+Modelo recomendado:
+cercano, natural, joven, realista.
+Escena:
+apartamento, estudio blanco, calle limpia.
+Luz:
+suave, natural.
+Objetivo:
+mostrar fit y uso diario.
+Hoodies
+Modelo recomendado:
+urbano, relajado, juvenil.
+Escena:
+calle, rooftop, habitación, balcón.
+Luz:
+overcast daylight o golden hour.
+Objetivo:
+mostrar volumen, comodidad y actitud.
+Vestidos
+Modelo recomendado:
+femenino, elegante, seguro.
+Escena:
+estudio, hotel, exterior minimalista.
+Luz:
+editorial suave.
+Objetivo:
+mostrar caída, silueta y aspiración.
+Jeans
+Modelo recomendado:
+real, corporal, casual.
+Escena:
+calle, estudio, espejo, habitación.
+Luz:
+natural.
+Objetivo:
+mostrar fit y proporción.
+Blazers
+Modelo recomendado:
+premium, sofisticado, adulto.
+Escena:
+estudio, oficina editorial, arquitectura limpia.
+Luz:
+controlada, editorial.
+Objetivo:
+autoridad y estilo.
+Accesorios
+Modelo recomendado:
+manos, cuello, rostro, orejas.
+Escena:
+fondo limpio, macro, lifestyle suave.
+Luz:
+suave, lateral.
+Objetivo:
+detalle, textura y deseo.
+
+42. ERRORES COMUNES Y CÓMO CORREGIRLOS
+Error 1: Modelo demasiado perfecto
+Se ve falso.
+Corrección:
+Agregar:
+visible pores,natural skin texture,slight redness,micro asymmetry,no beauty smoothing.
+Error 2: El avatar cambia en cada imagen
+Corrección:
+Reforzar anclas:
+same identity,same face structure,same hair texture,same skin tone,same small teeth,same body proportions.
+Error 3: La ropa se ve inventada
+Corrección:
+Describir prenda exacta:
+fabric,fit,seams,collar,sleeves,texture,color,no logo changes,no added text.
+Error 4: Las manos salen deformes
+Corrección:
+Pedir manos naturales:
+realistic hands,five fingers,natural knuckles,relaxed hand pose,no distorted fingers.
+También evitar poses complicadas al inicio.
+Error 5: El fondo roba protagonismo
+Corrección:
+Usar fondos simples.
+Primero estudio.
+Después lifestyle.
+Error 6: La imagen parece IA
+Corrección:
+Pedir:
+raw photographic realism,subtle grain,minimal retouching,realistic shadows,natural imperfections,no CGI,no illustration.
+Error 7: La modelo no ayuda a vender la prenda
+Corrección:
+Volver a la pregunta:
+¿Qué energía necesita esta prenda?
+No todos los productos necesitan el mismo tipo de persona.
+
+43. GUION DE CLASE PARA EXPLICAR ESTE BONUS
+Apertura
+En este bonus vamos a resolver un problema muy concreto: tener ropa, pero no tener quién la modele.
+Porque una prenda sin cuerpo puede verse bien, pero una prenda sobre una persona genera contexto, deseo y aspiración.
+La inteligencia artificial nos permite crear modelos virtuales, pero el objetivo no es generar caras bonitas al azar.
+El objetivo es crear un casting visual que pueda trabajar para tu marca.
+Vamos a aprender a crear modelos femeninos, masculinos, modelos para accesorios y, en un nivel más avanzado, embajadores de marca con identidad, historia y personalidad.
+Parte 1: Mentalidad
+Antes de abrir cualquier herramienta, entiende esto:
+Un modelo IA no es decoración.
+Es una decisión comercial.
+Cada rostro, cuerpo, pose, escena y luz debe responder a una intención.
+Si vendes ropa casual, necesitas cercanía.Si vendes ropa premium, necesitas aspiración.Si vendes streetwear, necesitas actitud.Si vendes accesorios, necesitas detalle.Si quieres construir marca, necesitas repetición y memoria.
+Parte 2: Anclas
+Para que un avatar se mantenga, necesitas anclas visuales.
+No intentes poner demasiados detalles.
+Elige de 3 a 5 elementos fuertes.
+Por ejemplo:
+cabello,sonrisa,tono de piel,complexión,fondo,estilo de ropa.
+Eso permite que la IA repita la identidad.
+Parte 3: Imagen ancla
+Primero crea una imagen simple.
+Fondo limpio.
+Rostro claro.
+Luz controlada.
+Ropa básica.
+Nada complejo.
+Esa imagen será el origen.
+Parte 4: Pack de ángulos
+Después generas:
+frontal,close-up,perfil,tres cuartos,ángulo alto,ángulo bajo,vista posterior,plano medio,contact sheet.
+Esto te da un avatar más fuerte.
+Parte 5: Historia
+Si quieres convertirlo en embajador de marca, debes darle vida.
+Nombre.Historia.Psicología.Tono.Frases.Estética.Función comercial.
+Un avatar sin historia puede verse bonito.
+Un avatar con historia puede volverse memorable.
+Parte 6: Campaña
+Finalmente llevas el avatar a campaña.
+Lo vistes con tu prenda.
+Lo pones en una escena.
+Creas formatos.
+Y produces contenido para redes, web, anuncios y catálogo.
+
+44. EJERCICIO FINAL DEL BONUS
+El alumno debe terminar este bonus con estos entregables:
+Entregable 1: Ficha del modelo
+Debe incluir:
+género,edad,tipo de cuerpo,piel,rostro,pelo,expresión,energía,anclas visuales.
+Entregable 2: Prompt de imagen ancla
+Un prompt limpio para crear el primer retrato.
+Entregable 3: Pack de ángulos
+Mínimo:
+frontal,close-up,perfil,tres cuartos,plano medio,contact sheet.
+Entregable 4: Prenda aplicada
+Una imagen del modelo usando una prenda de la marca.
+Entregable 5: Campaña mínima
+Mínimo 5 piezas:
+hero,fit frontal,detalle de tela,lifestyle,story vertical.
+Entregable 6: Historia del embajador
+Si quiere llevarlo al siguiente nivel:
+nombre,historia,tono,frases,rol público,código visual.
+
+45. CHECKLIST FINAL DEL CASTING INFINITO IA
+Antes de dar por terminado el modelo, revisa:
+¿El rostro se mantiene?¿El pelo se mantiene?¿La edad visual se mantiene?¿El cuerpo se mantiene?¿La piel parece real?¿La ropa tiene textura?¿La prenda mantiene diseño?¿Las manos están bien?¿La luz se ve creíble?¿La imagen parece fotografía y no CGI?¿El avatar tiene una función clara?¿El modelo ayuda a vender la prenda?¿La escena tiene intención?¿El formato sirve para publicar?¿Existe una imagen ancla guardada?¿Existe un prompt base guardado?¿Existen anclas visuales definidas?¿Existe una historia si será embajador?¿La marca puede repetir este sistema?
+
+46. CIERRE DEL BONUS
+El objetivo de este bonus no es que crees una imagen bonita.
+El objetivo es que entiendas que ahora puedes construir un casting visual completo para tu marca.
+Puedes crear modelos para cada colección.
+Puedes crear cuerpos distintos.
+Puedes crear escenas distintas.
+Puedes crear campañas sin esperar a nadie.
+Puedes probar ideas antes de invertir en producción real.
+Puedes tener una embajadora de marca.
+Puedes hacer que tus prendas se vean vivas.
+Pero lo más importante es esto:
+La IA no decide el estilo de tu marca.
+Tú lo decides.
+La IA no sabe qué modelo vende mejor tu prenda.
+Tú lo defines.
+La IA no sabe qué historia representa tu marca.
+Tú la construyes.
+Cuando tienes dirección, la IA deja de ser una herramienta para jugar y se convierte en un sistema de producción visual.
+Ese es el verdadero poder del Casting Infinito IA.
+No es crear personas falsas.
+Es crear presencia visual para que tus prendas tengan cuerpo, actitud, contexto y deseo.
+Porque una prenda sin modelo puede verse correcta.
+Pero una prenda en el modelo correcto puede volverse irresistible.
+
+FOTOS REFERNECIAS . 
+
+
+FOTOS CAMPAÑAS 
+
+
+Mas modelos par ael casting 
+{
+"title": "Casual influencer iPhone-style",
+"identity": "Female AI influencer, friend-next-door vibe",
+"age_range": "22-25",
+"realism": "freckles, uneven blush, natural skin texture",
+"ethnicity": "Mixed European",
+"hairstyle": "messy ponytail",
+"outfit": "oversized hoodie",
+"lighting": {
+"type": "ambient indoor light",
+"direction": "top-down mixed",
+"temperature": "4800K"
+},
+"camera": {
+"type": "smartphone look",
+"lens_mm": 26,
+"aperture": "f/1.8",
+"subject_distance_m": 1.4
+},
+"pose": "slight lean, casual framing",
+"expression": "soft smile, candid",
+"background": "bedroom with real clutter",
+"imperfections": "sensor noise, imperfect focus",
+"aspect_ratio": "9:16",
+"file_tag": "IMG_7784.HEIC"
+}
+
+
+
+{
+"title": "Coffee shop candid influencer",
+"identity": "Lifestyle AI influencer",
+"age_range": "25-29",
+"realism": "matte skin, pores visible, slight redness",
+"ethnicity": "Latina",
+"hairstyle": "hair tucked behind ears",
+"outfit": "knit sweater",
+"fabric_details": "soft folds, natural drape",
+"lighting": {
+"type": "natural café daylight",
+"direction": "window side",
+"temperature": "5200K"
+},
+"camera": {
+"type": "street photography mirrorless",
+"lens_mm": 40,
+"aperture": "f/2.5",
+"subject_distance_m": 2.0
+},
+"pose": "hands holding coffee cup",
+"expression": "thoughtful, unposed",
+"background": "real café interior",
+"retouching": "none",
+"aspect_ratio": "4:5",
+"file_tag": "IMG_4591.CR2"
+} 
+{
+"title": "Male influencer everyday realism",
+"identity": "Male AI creator, non-model appearance",
+"age_range": "26-30",
+"realism": "uneven skin tone, light under-eye shadows, pores visible",
+"ethnicity": "Southern European",
+"hairstyle": "short, slightly unstyled",
+"facial_hair": "irregular beard growth",
+"outfit": "plain sweatshirt",
+"fabric_details": "creased fabric, natural wear",
+"lighting": {
+"type": "overcast daylight",
+"direction": "front-left",
+"temperature": "5600K"
+},
+"camera": {
+"type": "mirrorless camera",
+"lens_mm": 35,
+"aperture": "f/2.0",
+"subject_distance_m": 2.6
+},
+"pose": "shoulders slightly slouched",
+"expression": "calm, unscripted",
+"background": "urban balcony",
+"retouching": "raw capture look",
+"aspect_ratio": "3:4",
+"file_tag": "DSC_2219.JPG"
+} 
+{
+"title": "Lifestyle influencer candid portrait",
+"identity": "Female AI influencer, everyday realism",
+"age_range": "24-27",
+"realism": "visible skin texture, natural pores, slight redness, micro asymmetry",
+"ethnicity": "Latina / Mediterranean mix",
+"hairstyle": "loose hair, slight frizz, imperfect strands",
+"face_details": {
+"jaw": "soft, non-model proportions",
+"lips": "natural volume, matte texture",
+"nose": "slightly asymmetrical bridge"
+},
+"outfit": "basic cotton t-shirt",
+"fabric_details": "natural wrinkles, worn texture",
+"lighting": {
+"type": "window daylight",
+"direction": "side-lit",
+"temperature": "5400K"
+},
+"camera": {
+"type": "full-frame DSLR",
+"lens_mm": 50,
+"aperture": "f/2.8",
+"subject_distance_m": 2.3
+},
+"pose": "relaxed posture, gaze slightly off-camera",
+"expression": "neutral, candid",
+"background": "real apartment wall, slight imperfections",
+"retouching": "minimal, no skin smoothing",
+"aspect_ratio": "4:5",
+"file_tag": "IMG_1032.CR2"
+} 
+
+multiples resultados elegims el mejor 
+

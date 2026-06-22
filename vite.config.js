@@ -10,7 +10,9 @@ export default defineConfig({
         prendaCampana: resolve(__dirname, 'de-prenda-a-campana.html'),
         clubMarca: resolve(__dirname, 'club-marca-editorial-ia.html'),
         tuComoRostroMarca: resolve(__dirname, 'tu-como-rostro-de-marca.html'),
-        radarTendencias: resolve(__dirname, 'radar-de-tendencias-visuales.html')
+        radarTendencias: resolve(__dirname, 'radar-de-tendencias-visuales.html'),
+        castingInfinito: resolve(__dirname, 'casting-infinito-ia.html'),
+        lanzamientosEditoriales: resolve(__dirname, '3-lanzamientos-editoriales-copiables.html')
       }
     }
   }

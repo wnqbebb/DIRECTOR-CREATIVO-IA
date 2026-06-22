@@ -29,11 +29,25 @@ document.addEventListener('DOMContentLoaded', () => {
   
   copyButtons.forEach(btn => {
     btn.addEventListener('click', (e) => {
-      const container = btn.closest('.prompt-container') || btn.closest('.card-brutal') || btn.closest('.library-card') || btn.parentElement;
-      const targetTextEl = container.querySelector('.prompt-text') || container.querySelector('code') || container.querySelector('pre') || container.querySelector('.copy-target');
+      // Find the specific container for this copy button
+      const promptContainer = btn.closest('.prompt-container');
+      const copyBox = btn.closest('.copy-box') || btn.closest('.cta-box');
+      
+      let targetTextEl = null;
+      if (promptContainer) {
+        targetTextEl = promptContainer.querySelector('.prompt-text') || promptContainer.querySelector('.copy-target');
+      } else if (copyBox) {
+        targetTextEl = copyBox.querySelector('.copy-target') || copyBox.querySelector('pre');
+      } else {
+        const fallbackContainer = btn.closest('.card-brutal') || btn.closest('.library-card') || btn.parentElement;
+        targetTextEl = fallbackContainer.querySelector('.prompt-text') || fallbackContainer.querySelector('.copy-target') || fallbackContainer.querySelector('pre') || fallbackContainer.querySelector('code');
+      }
       
       if (targetTextEl) {
-        const textToCopy = (targetTextEl.innerText || targetTextEl.textContent).trim();
+        // Clone the element to extract clean text without any nested buttons or SVGs
+        const clone = targetTextEl.cloneNode(true);
+        clone.querySelectorAll('button, svg, .copy-btn, .copy-inline-btn').forEach(el => el.remove());
+        const textToCopy = (clone.innerText || clone.textContent).trim();
         
         navigator.clipboard.writeText(textToCopy).then(() => {
           const originalContent = btn.innerHTML;

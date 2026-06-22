@@ -750,6 +750,10 @@ section:last-of-type {
   align-items: center;
   flex-wrap: wrap;
   gap: 0.8rem;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 .prompt-label {
@@ -777,6 +781,10 @@ section:last-of-type {
   text-transform: uppercase;
   border-radius: 3px;
   box-shadow: 2px 2px 0px rgba(0, 85, 255, 0.4);
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 .copy-btn:hover {

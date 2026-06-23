@@ -1,0 +1,466 @@
+/* ==========================================================================
+   ENTREGA PORTAL - DISEÑO PREMIUM NEOBRUTALISTA
+   ========================================================================== */
+
+/* Variables y Resets */
+.entrega-body {
+  background-color: var(--color-bg-cream);
+  color: var(--color-text-dark);
+  font-family: var(--font-body);
+  position: relative;
+}
+
+/* Barra de progreso de lectura en la parte superior */
+.scroll-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4px;
+  background-color: var(--color-accent-red);
+  z-index: 1000;
+  width: 0%;
+  transition: width 0.1s ease;
+}
+
+/* Header Editorial de Alta Costura */
+.entrega-header {
+  padding: 6rem 2rem 4rem 2rem;
+  background-color: var(--color-bg-dark);
+  color: var(--color-text-light);
+  border-bottom: 4px solid var(--color-accent-red);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.entrega-header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.08;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+  pointer-events: none;
+}
+
+.header-badge {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--color-accent-red);
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-weight: 700;
+  display: inline-block;
+  border: 1px solid var(--color-accent-red);
+  padding: 0.4rem 1.25rem;
+  margin-bottom: 2rem;
+  background-color: rgba(0, 0, 0, 0.85);
+  box-shadow: 3px 3px 0px var(--color-accent-red);
+  transform: rotate(-1.5deg);
+}
+
+.header-title {
+  font-family: var(--font-serif);
+  font-size: clamp(2.5rem, 6vw, 5.5rem);
+  font-weight: 950;
+  text-transform: uppercase;
+  letter-spacing: -3px;
+  line-height: 0.95;
+  color: var(--color-text-light);
+  margin-bottom: 0.75rem;
+}
+
+.header-subtitle {
+  font-family: var(--font-display);
+  font-size: clamp(0.95rem, 2.5vw, 1.35rem);
+  color: rgba(237, 231, 217, 0.8);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  max-width: 700px;
+  margin: 0.5rem auto 2.5rem auto;
+}
+
+/* Menú de Navegación Rápida Flotante */
+.quick-nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 10;
+  padding: 0.5rem;
+}
+
+.quick-nav-btn {
+  background-color: transparent;
+  border: 2px solid rgba(250, 248, 245, 0.15);
+  color: var(--color-text-light);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 0.6rem 1.1rem;
+  border-radius: 0px; /* Estilo neobrutalista recto */
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  text-decoration: none;
+}
+
+.quick-nav-btn:hover {
+  background-color: var(--color-accent-red);
+  border-color: var(--color-accent-red);
+  color: var(--color-text-light);
+  transform: translateY(-3px);
+  box-shadow: 4px 4px 0px rgba(250, 248, 245, 0.9);
+}
+
+/* Sección de Recomendaciones / Alerta Editorial */
+.recs-section {
+  max-width: 1100px;
+  margin: 4rem auto;
+  padding: 3rem;
+  background-color: #ffffff;
+  border: 3px solid var(--color-text-dark);
+  box-shadow: 10px 10px 0px var(--color-text-dark);
+  border-radius: 0px;
+  position: relative;
+}
+
+/* Cinta de "IMPORTANTE" superpuesta en la esquina */
+.recs-section::after {
+  content: "💡 EXPERIENCIA MÓVIL";
+  position: absolute;
+  top: -15px;
+  right: 30px;
+  background-color: var(--color-accent-red);
+  color: var(--color-text-light);
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 800;
+  padding: 0.35rem 1rem;
+  border: 2px solid var(--color-text-dark);
+  box-shadow: 3px 3px 0px var(--color-text-dark);
+  letter-spacing: 1px;
+}
+
+.recs-title-container {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  border-bottom: 3px double var(--color-text-dark);
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.recs-icon {
+  width: 28px;
+  height: 28px;
+  color: var(--color-accent-red);
+  flex-shrink: 0;
+}
+
+.recs-title {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+}
+
+.recs-intro {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--color-text-dark);
+  margin-bottom: 2rem;
+}
+
+/* Contenedor del Juego de Pasos */
+.game-steps-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1.6fr; /* El paso 4 (horizontal) tiene 1.6 veces el espacio de los verticales */
+  gap: 1.25rem;
+}
+
+.game-step-card {
+  background-color: #f7f5f0;
+  border: 2px solid var(--color-text-dark);
+  box-shadow: 5px 5px 0px var(--color-text-dark);
+  padding: 1.5rem 1.25rem 1.25rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.game-step-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 7px 7px 0px var(--color-accent-red);
+}
+
+.step-badge {
+  background-color: var(--color-accent-red);
+  color: var(--color-text-light);
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  font-weight: 800;
+  padding: 0.2rem 0.65rem;
+  text-transform: uppercase;
+  position: absolute;
+  top: -12px;
+  left: 15px;
+  border: 2px solid var(--color-text-dark);
+  box-shadow: 2px 2px 0px var(--color-text-dark);
+}
+
+.step-emoji {
+  font-size: 2rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.step-title {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  color: var(--color-text-dark);
+}
+
+.step-text {
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: rgba(26, 26, 26, 0.8);
+  margin-bottom: 1.25rem;
+  flex-grow: 1;
+}
+
+.step-img-wrapper {
+  width: 100%;
+  border: 2px solid var(--color-text-dark);
+  overflow: hidden;
+  background-color: #0c0c0c;
+  border-radius: 4px;
+}
+
+.step-img-wrapper img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.game-step-card:hover .step-img-wrapper img {
+  transform: scale(1.05);
+}
+
+/* El paso 4 es horizontal (landscape) */
+.landscape-step .step-img-wrapper img {
+  object-fit: contain; /* Mantiene la proporción horizontal sin recortar la pantalla de lado */
+  background-color: #000000;
+}
+
+@media (max-width: 900px) {
+  .game-steps-container {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+  .rec-img-card:nth-child(4) {
+    grid-column: span 1;
+  }
+}
+
+@media (max-width: 600px) {
+  .game-steps-container {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .landscape-step {
+    margin-top: 0.5rem;
+  }
+}
+
+
+/* Contenedor Principal de Entregables */
+.deliverables-container {
+  max-width: 1150px;
+  margin: 0 auto 6rem auto;
+  padding: 0 1.5rem;
+}
+
+.deliverable-section {
+  margin-bottom: 7rem;
+  scroll-margin-top: 3rem;
+}
+
+.deliverable-title-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 3px solid var(--color-text-dark);
+  padding-bottom: 0.75rem;
+  margin-bottom: 1.75rem;
+}
+
+.deliverable-title {
+  font-family: var(--font-serif);
+  font-size: clamp(1.2rem, 3.5vw, 1.8rem);
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+  color: var(--color-text-dark);
+  line-height: 1;
+}
+
+.deliverable-num {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 800;
+  background-color: var(--color-text-dark);
+  color: var(--color-text-light);
+  padding: 0.3rem 0.85rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transform: translateY(2px);
+}
+
+#prenda-campana .deliverable-num {
+  background-color: var(--color-accent-red);
+}
+
+/* Caja de Imagen de Entrega (Estilo Tarjeta Neobrutalista) */
+.deliverable-card {
+  position: relative;
+  width: 100%;
+  border: 4px solid var(--color-text-dark);
+  border-radius: 0px;
+  box-shadow: 14px 14px 0px var(--color-text-dark);
+  background-color: #0c0c0c;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.deliverable-card::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 40%);
+  pointer-events: none;
+  z-index: 2;
+}
+
+.deliverable-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  opacity: 0.94;
+  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.deliverable-card:hover {
+  transform: translate(-4px, -4px);
+  box-shadow: 18px 18px 0px var(--color-accent-red);
+}
+
+.deliverable-card:hover img {
+  opacity: 1;
+  transform: scale(1.015);
+}
+
+/* Botón de Acceso Superpuesto Brutalista */
+.access-overlay-btn {
+  position: absolute;
+  bottom: 8%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background-color: var(--color-text-light);
+  color: var(--color-text-dark);
+  border: 3px solid var(--color-text-dark);
+  font-family: var(--font-serif);
+  font-weight: 800;
+  font-size: clamp(0.8rem, 2vw, 1.1rem);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 0.95rem 2.75rem;
+  border-radius: 0px; /* Brutalista cuadrado */
+  cursor: pointer;
+  box-shadow: 6px 6px 0px var(--color-text-dark);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.85rem;
+  text-decoration: none;
+  z-index: 5;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.access-overlay-btn svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.access-overlay-btn:hover {
+  background-color: var(--color-accent-red);
+  color: var(--color-text-light);
+  border-color: var(--color-text-dark);
+  transform: translate(-52%, -6px);
+  box-shadow: 8px 8px 0px var(--color-text-dark);
+}
+
+.access-overlay-btn:hover svg {
+  transform: translateX(6px);
+}
+
+.access-overlay-btn:active {
+  transform: translate(-49%, -2px);
+  box-shadow: 3px 3px 0px var(--color-text-dark);
+}
+
+/* Footer de Entrega */
+.entrega-footer {
+  background-color: var(--color-bg-dark);
+  color: rgba(237, 231, 217, 0.45);
+  padding: 5rem 2rem;
+  text-align: center;
+  border-top: 4px solid var(--color-accent-red);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.entrega-footer a {
+  color: var(--color-text-light);
+  text-decoration: none;
+  font-weight: 700;
+  transition: var(--transition-smooth);
+}
+
+.entrega-footer a:hover {
+  color: var(--color-accent-red);
+}
+
+/* Ajustes Responsive */
+@media (max-width: 600px) {
+  .access-overlay-btn {
+    padding: 0.8rem 1.8rem;
+    bottom: 6%;
+    border-width: 2px;
+    box-shadow: 4px 4px 0px var(--color-text-dark);
+  }
+  .access-overlay-btn:hover {
+    transform: translate(-51%, -4px);
+    box-shadow: 5px 5px 0px var(--color-text-dark);
+  }
+}

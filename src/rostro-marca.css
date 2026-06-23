@@ -1450,3 +1450,95 @@ section:nth-of-type(3n) .cta-button.highlight-cta:hover {
   margin: 0 auto !important;
   box-sizing: border-box !important;
 }
+
+/* ===================================================
+   RESPONSIVE LAYOUT — Standardized mobile
+   =================================================== */
+
+@media (max-width: 1024px) {
+  .app-container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100% !important;
+    height: auto !important;
+    position: relative !important;
+    border-right: none !important;
+    border-bottom: 4px solid var(--color-bg-dark) !important;
+    padding: 1.5rem !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    flex-shrink: unset !important;
+  }
+
+  .sidebar .nav-menu {
+    display: none !important;
+  }
+
+  .sidebar .sidebar-footer {
+    display: none !important;
+  }
+
+  section {
+    padding: 4rem 2rem;
+  }
+
+  .step-container {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .step-container:nth-child(even) {
+    direction: ltr;
+  }
+}
+
+@media (max-width: 768px) {
+  section {
+    padding: 3rem 1.25rem;
+  }
+
+  .section-title {
+    font-size: clamp(1.8rem, 7vw, 2.6rem);
+    letter-spacing: -0.5px;
+    margin-bottom: 2rem;
+  }
+
+  .step-container {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1.5rem !important;
+    margin-bottom: 3.5rem;
+  }
+
+  .step-container:nth-child(even) {
+    direction: ltr !important;
+    flex-direction: column !important;
+  }
+
+  [style*="grid-template-columns: 1.1fr 0.9fr"],
+  [style*="grid-template-columns: 1.15fr 0.85fr"],
+  [style*="grid-template-columns: 1.25fr 0.75fr"],
+  [style*="grid-template-columns: 1fr 1fr"] {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 2rem !important;
+  }
+
+  .prompt-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  section {
+    padding: 2.5rem 1rem;
+  }
+
+  .section-title {
+    font-size: clamp(1.5rem, 8vw, 2rem);
+  }
+}

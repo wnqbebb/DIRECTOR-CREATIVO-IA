@@ -1973,56 +1973,86 @@ section:last-of-type {
   }
 }
 
-/* Responsive Styles for Sidebar Navigation */
-@media (max-width: 1100px) {
+/* ===================================================
+   RESPONSIVE LAYOUT — Standardized mobile
+   =================================================== */
+
+@media (max-width: 1024px) {
   .app-container {
     flex-direction: column;
   }
-  
+
   .sidebar {
     width: 100%;
     height: auto;
-    position: fixed;
-    bottom: -100%;
-    left: 0;
+    position: relative;
     border-right: none;
-    border-top: var(--border-brutal);
-    padding: 2rem;
-    transition: var(--transition-smooth);
-    box-shadow: 0px -10px 30px rgba(8, 3, 18, 0.9);
+    border-bottom: var(--border-brutal);
+    padding: 1.5rem;
+    flex-direction: row;
+    align-items: center;
   }
-  
-  .sidebar.active {
-    bottom: 0;
-  }
-  
-  .mobile-nav-toggle {
-    display: flex;
-  }
-  
-  .logo-container {
-    border-bottom: 2px dashed rgba(168, 85, 247, 0.4);
-  }
-  
+
   .nav-menu {
-    margin: 1.5rem 0;
+    display: none;
   }
-  
+
+  .sidebar-footer {
+    display: none;
+  }
+
   section {
-    padding: 5rem 2rem;
+    padding: 4rem 2rem;
   }
-  
+
   .hero-section {
     grid-template-columns: 1fr;
   }
-  
+
   .hero-left {
     padding: 4rem 2rem;
   }
-  
+
   .hero-right {
     height: 380px;
     border-left: none;
     border-top: var(--border-brutal);
+  }
+}
+
+@media (max-width: 768px) {
+  section {
+    padding: 3rem 1.25rem;
+  }
+
+  .section-title {
+    font-size: clamp(1.8rem, 7vw, 2.6rem);
+    letter-spacing: -0.5px;
+    margin-bottom: 2rem;
+  }
+
+  [style*="grid-template-columns: 1.1fr 0.9fr"],
+  [style*="grid-template-columns: 1.15fr 0.85fr"],
+  [style*="grid-template-columns: 1.25fr 0.75fr"],
+  [style*="grid-template-columns: 1fr 1fr"] {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 2rem !important;
+  }
+
+  .prompt-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  section {
+    padding: 2.5rem 1rem;
+  }
+
+  .section-title {
+    font-size: clamp(1.5rem, 8vw, 2rem);
   }
 }

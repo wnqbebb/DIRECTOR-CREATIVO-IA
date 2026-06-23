@@ -94,7 +94,17 @@
     },
     {
       "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "fabrica-visual.vercel.app"
+        }
+      ],
       "destination": "/fabrica-visual"
+    },
+    {
+      "source": "/",
+      "destination": "/entrega"
     }
   ]
 }

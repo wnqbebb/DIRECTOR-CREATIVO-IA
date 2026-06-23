@@ -13,7 +13,8 @@ export default defineConfig({
         radarTendencias: resolve(__dirname, 'radar-de-tendencias-visuales.html'),
         castingInfinito: resolve(__dirname, 'casting-infinito-ia.html'),
         lanzamientosEditoriales: resolve(__dirname, '3-lanzamientos-editoriales-copiables.html'),
-        bibliotecaPrompts: resolve(__dirname, 'biblioteca-de-prompts.html')
+        bibliotecaPrompts: resolve(__dirname, 'biblioteca-de-prompts.html'),
+        entrega: resolve(__dirname, 'entrega.html')
       }
     }
   }

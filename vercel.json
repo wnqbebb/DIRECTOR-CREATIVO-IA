@@ -6,7 +6,7 @@
       "has": [
         {
           "type": "host",
-          "value": ".*tu-como-rostro-de-marca.*"
+          "value": "tu-como-rostro-de-marca.vercel.app"
         }
       ],
       "destination": "/tu-como-rostro-de-marca.html"
@@ -16,7 +16,7 @@
       "has": [
         {
           "type": "host",
-          "value": ".*3-lanzamientos-editoriales-copiable.*"
+          "value": "3-lanzamientos-editoriales-copiable.vercel.app"
         }
       ],
       "destination": "/3-lanzamientos-editoriales-copiables.html"
@@ -26,7 +26,17 @@
       "has": [
         {
           "type": "host",
-          "value": ".*radar-de-tendencias.*"
+          "value": "3-lanzamientos-editoriales-copiables.vercel.app"
+        }
+      ],
+      "destination": "/3-lanzamientos-editoriales-copiables.html"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "radar-de-tendencias-visuales.vercel.app"
         }
       ],
       "destination": "/radar-de-tendencias-visuales.html"
@@ -36,7 +46,7 @@
       "has": [
         {
           "type": "host",
-          "value": ".*casting-infinito.*"
+          "value": "casting-infinito-ia.vercel.app"
         }
       ],
       "destination": "/casting-infinito-ia.html"
@@ -46,7 +56,7 @@
       "has": [
         {
           "type": "host",
-          "value": ".*de-prenda-a-campana.*"
+          "value": "de-prenda-a-campana.vercel.app"
         }
       ],
       "destination": "/de-prenda-a-campana.html"
@@ -56,7 +66,7 @@
       "has": [
         {
           "type": "host",
-          "value": ".*biblioteca-de-prompts.*"
+          "value": "biblioteca-de-prompts.vercel.app"
         }
       ],
       "destination": "/biblioteca-de-prompts.html"
@@ -66,7 +76,7 @@
       "has": [
         {
           "type": "host",
-          "value": ".*director-creativo.*"
+          "value": "director-creativo-ia.vercel.app"
         }
       ],
       "destination": "/director-creativo.html"
@@ -76,7 +86,7 @@
       "has": [
         {
           "type": "host",
-          "value": ".*club-marca-editorial.*"
+          "value": "club-marca-editorial-ia.vercel.app"
         }
       ],
       "destination": "/club-marca-editorial-ia.html"

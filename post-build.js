@@ -71,4 +71,12 @@ if (productName === 'prenda') {
   }
 } else {
   console.log('Post-build: Standard build, no overrides.');
+  const indexHtmlPath = path.join('dist', 'index.html');
+  const fabricaVisualPath = path.join('dist', 'fabrica-visual.html');
+  if (fs.existsSync(indexHtmlPath)) {
+    fs.copyFileSync(indexHtmlPath, fabricaVisualPath);
+    fs.unlinkSync(indexHtmlPath);
+    console.log('Post-build: Renamed dist/index.html to dist/fabrica-visual.html and deleted dist/index.html to allow Vercel rewrites to take precedence at the root path.');
+  }
 }
+

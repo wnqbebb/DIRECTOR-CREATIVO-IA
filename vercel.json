@@ -90,6 +90,10 @@
         }
       ],
       "destination": "/club-marca-editorial-ia.html"
+    },
+    {
+      "source": "/",
+      "destination": "/fabrica-visual.html"
     }
   ]
 }

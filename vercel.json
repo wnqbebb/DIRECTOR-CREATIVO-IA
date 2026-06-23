@@ -10,7 +10,7 @@
           "value": "tu-como-rostro-de-marca.vercel.app"
         }
       ],
-      "destination": "/tu-como-rostro-de-marca.html"
+      "destination": "/tu-como-rostro-de-marca"
     },
     {
       "source": "/",
@@ -20,7 +20,7 @@
           "value": "3-lanzamientos-editoriales-copiable.vercel.app"
         }
       ],
-      "destination": "/3-lanzamientos-editoriales-copiables.html"
+      "destination": "/3-lanzamientos-editoriales-copiables"
     },
     {
       "source": "/",
@@ -30,7 +30,7 @@
           "value": "3-lanzamientos-editoriales-copiables.vercel.app"
         }
       ],
-      "destination": "/3-lanzamientos-editoriales-copiables.html"
+      "destination": "/3-lanzamientos-editoriales-copiables"
     },
     {
       "source": "/",
@@ -40,7 +40,7 @@
           "value": "radar-de-tendencias-visuales.vercel.app"
         }
       ],
-      "destination": "/radar-de-tendencias-visuales.html"
+      "destination": "/radar-de-tendencias-visuales"
     },
     {
       "source": "/",
@@ -50,7 +50,7 @@
           "value": "casting-infinito-ia.vercel.app"
         }
       ],
-      "destination": "/casting-infinito-ia.html"
+      "destination": "/casting-infinito-ia"
     },
     {
       "source": "/",
@@ -60,7 +60,7 @@
           "value": "de-prenda-a-campana.vercel.app"
         }
       ],
-      "destination": "/de-prenda-a-campana.html"
+      "destination": "/de-prenda-a-campana"
     },
     {
       "source": "/",
@@ -70,7 +70,7 @@
           "value": "biblioteca-de-prompts.vercel.app"
         }
       ],
-      "destination": "/biblioteca-de-prompts.html"
+      "destination": "/biblioteca-de-prompts"
     },
     {
       "source": "/",
@@ -80,7 +80,7 @@
           "value": "director-creativo-ia.vercel.app"
         }
       ],
-      "destination": "/director-creativo.html"
+      "destination": "/director-creativo"
     },
     {
       "source": "/",
@@ -90,11 +90,11 @@
           "value": "club-marca-editorial-ia.vercel.app"
         }
       ],
-      "destination": "/club-marca-editorial-ia.html"
+      "destination": "/club-marca-editorial-ia"
     },
     {
       "source": "/",
-      "destination": "/fabrica-visual.html"
+      "destination": "/fabrica-visual"
     }
   ]
 }

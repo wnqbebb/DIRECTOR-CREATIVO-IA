@@ -1,3 +1,85 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": ".*tu-como-rostro-de-marca.*"
+        }
+      ],
+      "destination": "/tu-como-rostro-de-marca.html"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": ".*3-lanzamientos-editoriales-copiable.*"
+        }
+      ],
+      "destination": "/3-lanzamientos-editoriales-copiables.html"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": ".*radar-de-tendencias.*"
+        }
+      ],
+      "destination": "/radar-de-tendencias-visuales.html"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": ".*casting-infinito.*"
+        }
+      ],
+      "destination": "/casting-infinito-ia.html"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": ".*de-prenda-a-campana.*"
+        }
+      ],
+      "destination": "/de-prenda-a-campana.html"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": ".*biblioteca-de-prompts.*"
+        }
+      ],
+      "destination": "/biblioteca-de-prompts.html"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": ".*director-creativo.*"
+        }
+      ],
+      "destination": "/director-creativo.html"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": ".*club-marca-editorial.*"
+        }
+      ],
+      "destination": "/club-marca-editorial-ia.html"
+    }
+  ]
 }
